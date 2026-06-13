@@ -50,7 +50,7 @@ Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippog
 STRING 274
 // Units: htow (Town Hall), Ubertip (Tooltip - Extended)
 {
-Высшее посвящение магов (|cffffcc00O|r)
+Highest Initiation of Mages (|cffffcc00O|r)
 }
 
 STRING 275
@@ -68,19 +68,19 @@ S
 STRING 277
 // Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
 {
-Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+Increasing mana and health reserves, attack power and mana regeneration speed of magicians, as well as teaching them the ''Slow'' spell.
 }
 
 STRING 278
 // Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
 {
-Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+Increasing mana and health reserves, attack power and mana regeneration speed of magicians, as well as teaching them the ''Slow'' spell.
 }
 
 STRING 279
 // Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
 {
-Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+Increasing mana and health reserves, attack power and mana regeneration speed of magicians, as well as teaching them the ''Slow'' spell.
 }
 
 STRING 280
@@ -1558,7 +1558,7 @@ WC2HumanAct01Graymane04
 STRING 4063
 // Items: IL16 (WC2HumanAct01Guard01), Tip (Tooltip - Basic)
 {
-Kings Guard
+Вартовий короля
 }
 
 STRING 4064
@@ -1616,7 +1616,7 @@ WC2HumanAct01Khadgar03
 }
 
 STRING 4075
-// Items: IL20 (WC2HumanAct01Lothar01), Tip (Tooltip - Basic)
+// Units: HLPA (Supreme Commander), Propernames (Proper Names)
 {
 Андуїн Лотар
 }
@@ -1628,7 +1628,7 @@ WC2HumanAct01Lothar01
 }
 
 STRING 4078
-// Items: IL21 (WC2HumanAct01Lothar02), Tip (Tooltip - Basic)
+// Items: IL20 (WC2HumanAct01Lothar01), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1646,7 +1646,7 @@ WC2HumanAct01Lothar02
 }
 
 STRING 4081
-// Items: IL22 (WC2HumanAct01Lothar03), Tip (Tooltip - Basic)
+// Items: IL21 (WC2HumanAct01Lothar02), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1658,7 +1658,7 @@ WC2HumanAct01Lothar03
 }
 
 STRING 4084
-// Items: IL23 (WC2HumanAct01Lothar04), Tip (Tooltip - Basic)
+// Items: IL22 (WC2HumanAct01Lothar03), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1676,7 +1676,7 @@ WC2HumanAct01Lothar04
 }
 
 STRING 4087
-// Items: IL24 (WC2HumanAct01Lothar05), Tip (Tooltip - Basic)
+// Items: IL23 (WC2HumanAct01Lothar04), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1694,7 +1694,7 @@ WC2HumanAct01Lothar05
 }
 
 STRING 4090
-// Items: IL25 (WC2HumanAct01Lothar06), Tip (Tooltip - Basic)
+// Items: IL24 (WC2HumanAct01Lothar05), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1706,7 +1706,7 @@ WC2HumanAct01Lothar06
 }
 
 STRING 4093
-// Items: IL26 (WC2HumanAct01Lothar07), Tip (Tooltip - Basic)
+// Items: IL25 (WC2HumanAct01Lothar06), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1724,7 +1724,7 @@ WC2HumanAct01Lothar07
 }
 
 STRING 4096
-// Items: IL27 (WC2HumanAct01Lothar08), Tip (Tooltip - Basic)
+// Items: IL26 (WC2HumanAct01Lothar07), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1742,7 +1742,7 @@ WC2HumanAct01Lothar08
 }
 
 STRING 4099
-// Items: IL28 (WC2HumanAct01Lothar09), Tip (Tooltip - Basic)
+// Items: IL27 (WC2HumanAct01Lothar08), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1754,7 +1754,7 @@ WC2HumanAct01Lothar09
 }
 
 STRING 4102
-// Items: IL29 (WC2HumanAct01Lothar10), Tip (Tooltip - Basic)
+// Items: IL28 (WC2HumanAct01Lothar09), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1772,7 +1772,7 @@ WC2HumanAct01Lothar10
 }
 
 STRING 4105
-// Items: IL30 (WC2HumanAct01Lothar11), Tip (Tooltip - Basic)
+// Items: IL29 (WC2HumanAct01Lothar10), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1784,7 +1784,7 @@ WC2HumanAct01Lothar11
 }
 
 STRING 4108
-// Items: IL31 (WC2HumanAct01Lothar12), Tip (Tooltip - Basic)
+// Items: IL30 (WC2HumanAct01Lothar11), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1802,7 +1802,7 @@ WC2HumanAct01Lothar12
 }
 
 STRING 4111
-// Items: IL32 (WC2HumanAct01Lothar13), Tip (Tooltip - Basic)
+// Items: IL31 (WC2HumanAct01Lothar12), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1820,7 +1820,7 @@ WC2HumanAct01Lothar13
 }
 
 STRING 4114
-// Items: IL33 (WC2HumanAct01Lothar14), Tip (Tooltip - Basic)
+// Items: IL32 (WC2HumanAct01Lothar13), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1838,7 +1838,7 @@ WC2HumanAct01Lothar14
 }
 
 STRING 4117
-// Items: IL34 (WC2HumanAct01Lothar15), Tip (Tooltip - Basic)
+// Items: IL33 (WC2HumanAct01Lothar14), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1856,7 +1856,7 @@ WC2HumanAct01Lothar15
 }
 
 STRING 4120
-// Items: IL35 (WC2HumanAct01Lothar16), Tip (Tooltip - Basic)
+// Items: IL34 (WC2HumanAct01Lothar15), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1868,7 +1868,7 @@ WC2HumanAct01Lothar16
 }
 
 STRING 4123
-// Items: IL36 (WC2HumanAct01Lothar17), Tip (Tooltip - Basic)
+// Items: IL35 (WC2HumanAct01Lothar16), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1880,7 +1880,7 @@ WC2HumanAct01Lothar17
 }
 
 STRING 4126
-// Items: IL37 (WC2HumanAct01Lothar18), Tip (Tooltip - Basic)
+// Items: IL36 (WC2HumanAct01Lothar17), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1892,7 +1892,7 @@ WC2HumanAct01Lothar18
 }
 
 STRING 4129
-// Items: IL38 (WC2HumanAct01Lothar19), Tip (Tooltip - Basic)
+// Items: IL37 (WC2HumanAct01Lothar18), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1904,7 +1904,7 @@ WC2HumanAct01Lothar19
 }
 
 STRING 4132
-// Items: IL39 (WC2HumanAct01Lothar20), Tip (Tooltip - Basic)
+// Items: IL38 (WC2HumanAct01Lothar19), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1922,7 +1922,7 @@ WC2HumanAct01Lothar20
 }
 
 STRING 4135
-// Items: IL40 (WC2HumanAct01Lothar21), Tip (Tooltip - Basic)
+// Items: IL39 (WC2HumanAct01Lothar20), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1934,7 +1934,7 @@ WC2HumanAct01Lothar21
 }
 
 STRING 4138
-// Items: IL41 (WC2HumanAct01Lothar22), Tip (Tooltip - Basic)
+// Items: IL40 (WC2HumanAct01Lothar21), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -1942,7 +1942,7 @@ STRING 4138
 STRING 4139
 // Items: IL41 (WC2HumanAct01Lothar22), Description (Description)
 {
-Довірся мені, Данате. Я вже готую все необхідне, щоб допомогти їм і убезпечити їх.
+Довірся мені, Данате. Я вже готую необхідні дії, щоб допомогти їм і убезпечити їх.
 }
 
 STRING 4140
@@ -1952,7 +1952,7 @@ WC2HumanAct01Lothar22
 }
 
 STRING 4141
-// Items: IL42 (WC2HumanAct01Lothar23), Tip (Tooltip - Basic)
+// Items: IL41 (WC2HumanAct01Lothar22), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -2020,7 +2020,7 @@ WC2HumanAct01Marcus03
 STRING 4153
 // Items: IL46 (WC2HumanAct01Meryn01), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 4154
@@ -2038,7 +2038,7 @@ WC2HumanAct01Meryn01
 STRING 4156
 // Items: IL47 (WC2HumanAct01Meryn02), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 4158
@@ -2122,7 +2122,7 @@ STRING 4171
 STRING 4172
 // Items: IL52 (WC2HumanAct01Wilhelm01), Description (Description)
 {
-Ви виглядаєте пригніченим, мілорде… Щось сталося?
+You seem discouraged, my lord… What happened?Ви виглядаєте обескураженим, мій лорде… Що сталося?
 }
 
 STRING 4173
@@ -2140,7 +2140,7 @@ STRING 4174
 STRING 4175
 // Items: IL53 (WC2HumanAct01Wilhelm02), Description (Description)
 {
-Проте нам вдалося врятувати Десницю Тиру. Та Андорал.
+Проте нам вдалося врятувати Десниця Тиру. І Андорал.
 }
 
 STRING 4176
@@ -2212,7 +2212,7 @@ STRING 4186
 STRING 4187
 // Items: IL57 (WC2HumanAct01Terenas03), Description (Description)
 {
-А ви як я бачу носите королівський знак Азероту, проте я не знаю, хто ви. Ви захисник принца?
+Ви носите королівський знак Азероту, проте я не знаю, хто ви. Ви захисник принца?
 }
 
 STRING 4188
@@ -2248,7 +2248,7 @@ STRING 4192
 STRING 4193
 // Items: IL60 (WC2HumanAct01Terenas05), Description (Description)
 {
-А Ви Ваша Величносте, мабуть, втомилися. Запрошую до палацу, аби відпочити .
+Ви, мабуть, втомилися, Ваша Величносте. Запрошую вас відпочити в палаці.
 }
 
 STRING 4194
@@ -2452,7 +2452,7 @@ WC2HumanAct01Thoras04
 STRING 4237
 // Items: IL09 (WC2HumanAct01Danath02), Description (Description)
 {
-Я визнаю, що це мудрий вибір, проте Лордерон і Даларан потребують нашої допомоги просто зараз.
+Я визнаю, що це мудрий вибір, але Лордерон і Даларан потребують нашої допомоги просто зараз.
 }
 
 STRING 4241
@@ -2494,7 +2494,7 @@ STRING 4250
 STRING 4251
 // Items: IL65 (WC2HumanAct01Terenas10), Description (Description)
 {
-Чи треба мені нагадувати, за чиїм велінням ми тут зібралися? Хто фінансував цю раду від самого початку? Нам потрібен не просто генерал, нам потрібен той, хто зможе нас об'єднати.
+Чи треба мені нагадувати, за чиїм велінням ми тут зібралися? Хто фінансував цю раду від самого початку? Нам потрібен не просто бойовий командир, нам потрібен той, хто зможе нас об'єднати.
 }
 
 STRING 4253
@@ -2711,7 +2711,7 @@ STRING 4292
 
 STRING 4293
 {
-Тиждень потому — Місто Лордерон, столиця одноіменного королівства.
+Тиждень потом — Місто Лордерон, столиця одноіменного королівства.
 }
 
 STRING 4294
@@ -2902,7 +2902,7 @@ STRING 4328
 }
 
 STRING 4329
-// Units: HLPA (Supreme Commander), Propernames (Proper Names)
+// Items: IL42 (WC2HumanAct01Lothar23), Tip (Tooltip - Basic)
 {
 Андуїн Лотар
 }
@@ -2922,7 +2922,7 @@ STRING 4331
 STRING 4332
 // Items: IL17 (WC2HumanAct01Khadgar01), Description (Description)
 {
-Саме так, це містечко Південнобережжя, що між Далараном та Альтераком.
+Авжеж. Містечко Південнобережжя, між Далараном та Альтераком.
 }
 
 STRING 4334
@@ -2964,7 +2964,7 @@ STRING 4339
 STRING 4340
 // Items: IL40 (WC2HumanAct01Lothar21), Description (Description)
 {
-Ми захистимо містечко Гіллзбрад і перекриємо орочі шляхи постачання з моря. І тоді ми вдаримо по армії Молота Згуби з тилу.
+Ми захистимо містечко Гіллзбрад і перекриємо оркські шляхи постачання з моря. Тоді ми вдаримо по армії Молота Згуби з тилу.
 }
 
 STRING 4341
