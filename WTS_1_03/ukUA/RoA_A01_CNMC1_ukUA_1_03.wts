@@ -629,13 +629,13 @@ Wooden Floor
 STRING 2868
 // Destructibles: B00H (Fence), Name (Name)
 {
-Фехтувальник
+Fence
 }
 
 STRING 2869
 // Destructibles: B00I (Fence), Name (Name)
 {
-Фехтувальник
+Fence
 }
 
 STRING 2870
@@ -2170,7 +2170,7 @@ WC2HumanAct01Wilhelm03
 STRING 4180
 // Items: IL55 (WC2HumanAct01Terenas01), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4181
@@ -2188,7 +2188,7 @@ WC2HumanAct01Terenas01
 STRING 4183
 // Items: IL56 (WC2HumanAct01Terenas02), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4184
@@ -2206,7 +2206,7 @@ WC2HumanAct01Terenas02
 STRING 4186
 // Items: IL57 (WC2HumanAct01Terenas03), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4187
@@ -2224,7 +2224,7 @@ WC2HumanAct01Terenas03
 STRING 4189
 // Items: IL58 (WC2HumanAct01Terenas04), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4190
@@ -2242,7 +2242,7 @@ WC2HumanAct01Terenas04
 STRING 4192
 // Items: IL60 (WC2HumanAct01Terenas05), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4193
@@ -2260,7 +2260,7 @@ WC2HumanAct01Terenas05
 STRING 4195
 // Items: IL61 (WC2HumanAct01Terenas06), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4196
@@ -2278,7 +2278,7 @@ WC2HumanAct01Terenas06
 STRING 4198
 // Items: IL62 (WC2HumanAct01Terenas07), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4200
@@ -2290,7 +2290,7 @@ WC2HumanAct01Terenas07
 STRING 4201
 // Items: IL63 (WC2HumanAct01Terenas08), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4202
@@ -2308,7 +2308,7 @@ WC2HumanAct01Terenas08
 STRING 4204
 // Items: IL64 (WC2HumanAct01Terenas09), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4205
@@ -2326,7 +2326,7 @@ WC2HumanAct01Terenas09
 STRING 4207
 // Items: IL65 (WC2HumanAct01Terenas10), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4209
@@ -2338,7 +2338,7 @@ WC2HumanAct01Terenas10
 STRING 4210
 // Items: IL66 (WC2HumanAct01Terenas11), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4211
@@ -2356,7 +2356,7 @@ WC2HumanAct01Terenas11
 STRING 4213
 // Items: IL67 (WC2HumanAct01Terenas12), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4214
@@ -2374,7 +2374,7 @@ WC2HumanAct01Terenas12
 STRING 4216
 // Items: IL68 (WC2HumanAct01Terenas13), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4218
@@ -2386,7 +2386,7 @@ WC2HumanAct01Terenas13
 STRING 4219
 // Items: IL69 (WC2HumanAct01Terenas14), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4221
@@ -2398,7 +2398,7 @@ WC2HumanAct01Terenas14
 STRING 4222
 // Items: IL70 (WC2HumanAct01Terenas15), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4223
@@ -3036,7 +3036,7 @@ WC2HumanAct01Alonsus01A
 STRING 4352
 // Items: IL78 (WC2HumanAct01Terenas14A), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4353
@@ -3054,7 +3054,7 @@ WC2HumanAct01Terenas14A
 STRING 4355
 // Items: IL79 (WC2HumanAct01Terenas13A), Tip (Tooltip - Basic)
 {
-Теренас Менетіл II
+Terenas Menethil
 }
 
 STRING 4356

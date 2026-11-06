@@ -1,0 +1,919 @@
+{
+  "RoA_A01_M02_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HERO|r\nDanath - captain of Anduin Lothar and nephew of the king Thoras Trollbane. Excellent warrior that can bash enemies with his shield and boost friendly units attack rate with his shouts.",
+    "ukUA": "|cff8080ffНОВИЙ ГЕРОЙ|r\nДанат — капітан Андуїна Лотара та племінник короля Тораса Тролебоя. Славний воїн, який здатний приголомшувати ворогів своїм щитом та пришвидшувати атаки союзників бойовим кличем."
+  },
+  "RoA_A01_M02_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW SEMI HERO|r\nGavinrad - is one of the Azerothien veterans, who became the paladin of the Silver Hand order. Able to restore friendly units health with \"Healing Word\" and boost their melee attack with \"Vengeance Aura\".",
+    "ukUA": "|cff8080ffНОВИЙ НАПІВГЕРОЙ|r\nҐавінрад — один із ветеранів Азероту, який став паладином ордену Срібної Десниці. Він здатний відновлювати здоров'я союзних одиниць за допомогою «Healing Word» та посилювати ближні атаки через «Vengeance Aura»."
+  },
+  "RoA_A01_M02_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Help the Villagers",
+    "ukUA": "Допомогти селянам"
+  },
+  "RoA_A01_M02_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore’s surviving citizens are still in danger. You must clear the nearby villages of orcish raiders to ensure their safety.",
+    "ukUA": "Вцілілі мешканці Південнобережжя все ще в небезпеці. Ви мусите зачистити навколишні села від орчих нападників, аби убезпечити ці землі."
+  },
+  "RoA_A01_M02_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nHelp the Villagers\n - Retake 7 Farms\n - Danath must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nДопомогти селянам\n - Поверніть 7 ферм\n - Данат має вижити"
+  },
+  "RoA_A01_M02_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nHelp the Villagers",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nДопомогти селянам"
+  },
+  "RoA_A01_M02_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms",
+    "ukUA": "Поверніть 7 ферм"
+  },
+  "RoA_A01_M02_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive",
+    "ukUA": "Данат має вижити"
+  },
+  "RoA_A01_M02_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (0 / 7)",
+    "ukUA": "Поверніть 7 ферм (0 / 7)"
+  },
+  "RoA_A01_M02_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (1 / 7)",
+    "ukUA": "Поверніть 7 ферм (1 / 7)"
+  },
+  "RoA_A01_M02_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (2 / 7)",
+    "ukUA": "Поверніть 7 ферм (2 / 7)"
+  },
+  "RoA_A01_M02_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (3 / 7)",
+    "ukUA": "Поверніть 7 ферм (3 / 7)"
+  },
+  "RoA_A01_M02_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (4 / 7)",
+    "ukUA": "Поверніть 7 ферм (4 / 7)"
+  },
+  "RoA_A01_M02_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (5 / 7)",
+    "ukUA": "Поверніть 7 ферм (5 / 7)"
+  },
+  "RoA_A01_M02_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (6 / 7)",
+    "ukUA": "Поверніть 7 ферм (6 / 7)"
+  },
+  "RoA_A01_M02_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nHelp the Villagers\n - |cffff0000Danath must Survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nДопомогти селянам\n - |cffff0000Данат має вижити (Провалено)|r"
+  },
+  "RoA_A01_M02_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore",
+    "ukUA": "Південнобережжя"
+  },
+  "RoA_A01_M02_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The town lies in ruins after the orcish onslaught. Restore it to serve as a stronghold for Anduin Lothar’s army, and prepare the land for the coming battles.",
+    "ukUA": "Місто лежить у руїнах після орчої навали. Відбудуйте його, аби воно стало твердинею для армії Андуїна Лотара, також вам необхідно підготувати ці землі до майбутніх битв."
+  },
+  "RoA_A01_M02_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nSouthshore\n - Repair Town Hall\n - Repair Barracks",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nПівденнобережжя\n - Полагодьте міську ратушу\n - Полагодьте казарми"
+  },
+  "RoA_A01_M02_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nSouthshore",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r\nПівденнобережжя"
+  },
+  "RoA_A01_M02_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - |cff808080Repair Town Hall (Completed)|r\n - Repair Barracks",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПівденнобережжя\n - |cff808080Полагодьте міську ратушу (Завершено)|r\n - Полагодьте казарми"
+  },
+  "RoA_A01_M02_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - Repair Town Hall\n - |cff808080Repair Barracks (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПівденнобережжя\n - Полагодьте міську ратушу \n - |cff808080Полагодьте казарми(Завершено)|r"
+  },
+  "RoA_A01_M02_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Town Hall",
+    "ukUA": "Полагодьте міську ратушу"
+  },
+  "RoA_A01_M02_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Barracks",
+    "ukUA": "Полагодьте казарми"
+  },
+  "RoA_A01_M02_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reinforce the Navy",
+    "ukUA": "Підсилити флот"
+  },
+  "RoA_A01_M02_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The elves’ brethren remain in enemy hands, and only a stronger fleet can bring them to safety. Expand your navy and prepare to strike across the waters.",
+    "ukUA": "Зниклі побратими ельфів, все ще в руках ворога, і лише за допомогою потужного флоту можна буде розраховувати на те щоб доправити їх у безпечне місце. Розбудуйте свій флот і готуйтеся піту у морський наступ."
+  },
+  "RoA_A01_M02_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Lumber Mill",
+    "ukUA": "Побудуйте Ельфійську лісопильню"
+  },
+  "RoA_A01_M02_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Shipyard",
+    "ukUA": "Побудуйте корабельню"
+  },
+  "RoA_A01_M02_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Oil Rig",
+    "ukUA": "Побудуйте нафтову платформу"
+  },
+  "RoA_A01_M02_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy orc shipyard",
+    "ukUA": "Знищіть орочі корабельні"
+  },
+  "RoA_A01_M02_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy enemy ships",
+    "ukUA": "Знищіть ворожі кораблі"
+  },
+  "RoA_A01_M02_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nReinforce the Navy\n - Build Lumber Mill\n - Build Shipyard\n - Build Oil Rig\n - Destroy orc shipyard\n - Destroy enemy ships",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nПідсилити флот\n - Побудуйте Ельфійську лісопильню\n - Побудуйте корабельню\n - Побудуйте нафтову платформу\n - Знищіть орочі корабельні\n - Знищіть ворожі кораблі"
+  },
+  "RoA_A01_M02_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nReinforce the Navy",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nПідсилити флот"
+  },
+  "RoA_A01_M02_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Shipyard (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідсилити флот\n - |cff808080Побудуйте корабельню (Виконано)|r"
+  },
+  "RoA_A01_M02_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Lumber Mill (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідсилити флот\n - |cff808080Побудуйте Ельфійську лісопильню (Виконано)|r"
+  },
+  "RoA_A01_M02_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Oil Rig (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідсилити флот\n - |cff808080Побудуйте нафтову платформу (Виконано)|r"
+  },
+  "RoA_A01_M02_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy enemy ships (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідсилити флот\n - |cff808080Знищіть ворожі кораблі (Виконано)|r"
+  },
+  "RoA_A01_M02_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy orc shipyard (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідсилити флот\n - |cff808080Знищіть орочі корабельні (Виконано)|r"
+  },
+  "RoA_A01_M02_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dangerous River",
+    "ukUA": "Небезпечні води"
+  },
+  "RoA_A01_M02_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Sail north toward Tarren Mill, but beware! The river may be patrolled by the Horde navy. Proceed with caution and keep your fleet ready for battle.",
+    "ukUA": "Пливіть на північ до Таррен-Млина, але будьте уважні! Ці води пильно патрулює флот Орди. Рухайтеся обережно і тримайте гармати напоготові."
+  },
+  "RoA_A01_M02_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reach the circle of Power.",
+    "ukUA": "Допливіть до кола сили."
+  },
+  "RoA_A01_M02_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "At least 1 ship must survive.",
+    "ukUA": "Як мінімум 1 корабель має вціліти."
+  },
+  "RoA_A01_M02_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDangerous River\n - Reach the circle of Power\n - At least 1 ship must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nНебезпечні води\n - Допливіть до кола сили\n - Як мінімум 1 корабель має вціліти"
+  },
+  "RoA_A01_M02_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDangerous River",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nНебезпечні води"
+  },
+  "RoA_A01_M02_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDangerous River\n - |cffff0000At least 1 ship should survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nНебезпечні води\n  - |cffff0000Як мінімум 1 корабель має вціліти (Провалено)|r"
+  },
+  "RoA_A01_M02_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven Allies",
+    "ukUA": "Ельфійські союзники"
+  },
+  "RoA_A01_M02_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven captives are held in a camp at Tarren Mill. Break their chains and bring them to safety, their aid will be invaluable in the battles to come.",
+    "ukUA": "Полонені ельфи утримуються у таборі коло Таррен-Млина. Визволіть їх та виведіть у безпечне місце, їхня допомога безцінною в майбутніх битвах."
+  },
+  "RoA_A01_M02_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill all Prison camp Guards",
+    "ukUA": "Вбийте всіх вартових тюремників"
+  },
+  "RoA_A01_M02_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must Survive.",
+    "ukUA": "Данат має вижити."
+  },
+  "RoA_A01_M02_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nElven Allies\n - Kill all Prison camp Guards\n - Danath must Survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nЕльфійські союзники\n - Вбийте всіх вартових тюремників\n - Данат має вижити"
+  },
+  "RoA_A01_M02_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nElven Allies",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nЕльфійські союзники"
+  },
+  "RoA_A01_M02_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nElven Allies\n - |cffff0000Danath must Survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЕльфійські союзники\n - |cffff0000Данат має вижити. (Провалено)|r"
+  },
+  "RoA_A01_M02_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nElven Allies\n - Enter the Circle of Power and free Milan the Scribe",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nЕльфійські союзники\n - Зайдіть у коло сили та звільніть ельфійського літописця."
+  },
+  "RoA_A01_M02_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Enter the Circle of Power and free Milan the Scribe.",
+    "ukUA": "Зайдіть у коло сили та звільніть ельфійського літописця."
+  },
+  "RoA_A01_M02_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "ukUA": "|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r"
+  },
+  "RoA_A01_M02_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prison Camps",
+    "ukUA": "Тобори з полоненими"
+  },
+  "RoA_A01_M02_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Local villagers who survived the orcish assault have been imprisoned for slave labor. Free them from their chains, and they will join your cause.",
+    "ukUA": "Місцевих селян, які пережили орчу навалу, ув'язнили для рабської праці. Звільніть їх, і вони стануть до ваших лав."
+  },
+  "RoA_A01_M02_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (0/4 freed)",
+    "ukUA": "Звільніть 4 полонених (0/4 звільнено)"
+  },
+  "RoA_A01_M02_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nPrison Camps\n - Free 4 prisoners",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nТобори з полоненими\n - Звілінть 4 полонених"
+  },
+  "RoA_A01_M02_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nPrison Camps",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nТобори з полоненими"
+  },
+  "RoA_A01_M02_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners",
+    "ukUA": "Звільніть 4 полонених"
+  },
+  "RoA_A01_M02_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (3/4 freed)",
+    "ukUA": "Звільніть 4 полонених (3/4 звільнено)"
+  },
+  "RoA_A01_M02_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (2/4 freed)",
+    "ukUA": "Звільніть 4 полонених (2/4 звільнено)"
+  },
+  "RoA_A01_M02_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (1/4 freed)",
+    "ukUA": "Звільніть 4 полонених (1/4 звільнено)"
+  },
+  "RoA_A01_M02_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Quest Objectives",
+    "ukUA": "Цілі завдання"
+  },
+  "RoA_A01_M02_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Farms left to retake:",
+    "ukUA": "Лишилося ферм:"
+  },
+  "RoA_A01_M02_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Troll Destroyers left:",
+    "ukUA": "Лишилося Руйнівників тролів:"
+  },
+  "RoA_A01_M02_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Lumber Mill - The Elves offered their superior skills in service to the Alliance, providing more efficient means for processing lumber.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r\nЕльфійська лісопильня - Ельфи запропонували Альянсу свої навички та вміння, поділившись найбільш ефективним способом обробки деревини."
+  },
+  "RoA_A01_M02_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Archers -  descendants of the elder race of Highbornes, these sylvan woodsmen are unmatched in their use of the bow.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r\nЕльфійські лучники - Нащадки давньої раси високородних Квел'дорай, ці лісові мешканці не мають собі рівних у володінні луком."
+  },
+  "RoA_A01_M02_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nShipyards are primarily responsible for constructing various warships within the Alliance's naval forces. They also serve as depots for harvested oil.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r\nКорабельні - Насамперед відповідальні за будівництво флоту Альянсу. А також слугують сховищами для видобутої нафти."
+  },
+  "RoA_A01_M02_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Destroyers are powerful warships from the fleets of Quel'thalas. Crewed with highly-skilled Elven seafarers, these swift-sailing vessels are prepared to engage the enemy wherever they may be found.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r\nРуйнівники ельфів — це потужні військові кораблі з флоту Квел'Таласу. Екіпаж цих швидкохідних суден складається з висококласних ельфійських мореплавців, які готові вступити в бій із ворогом, хоч би ким він не був."
+  },
+  "RoA_A01_M02_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prisoners left:",
+    "ukUA": "Лишилося полонених:"
+  },
+  "RoA_A01_M02_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Alterac",
+    "ukUA": "Люди Альтераку"
+  },
+  "RoA_A01_M02_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Blackrock Clan",
+    "ukUA": "Клан Чорного Каменю"
+  },
+  "RoA_A01_M02_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Lordaeron",
+    "ukUA": "Люди Лордерону"
+  },
+  "RoA_A01_M02_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Stromgarde",
+    "ukUA": "Люди Стормварту"
+  },
+  "RoA_A01_M02_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Rangers of Quel’Thalas",
+    "ukUA": "Ренжери Квел'Таласу"
+  },
+  "RoA_A01_M02_SCRN_014": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Horde",
+    "ukUA": "Сили Орди"
+  },
+  "RoA_A01_M02_SCRN_015": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Alliance",
+    "ukUA": "Сили Альянсу"
+  },
+  "RoA_A01_M02_SCRN_016": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Captain of Blackrock Clan",
+    "ukUA": "Орочий Капітан Карехт"
+  },
+  "RoA_A01_M02_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The Horde was here… everywhere these bastards go, they spread death and destruction… I should’ve been in Stromgarde when they laid siege to it…and my father would’ve...",
+    "ukUA": "Орда була тут… куди тільки ці виродки не ступали, вони сіяли смерть і руйнування… Я мавби бути Стромварті, коли його взяли в облогу… і мій батько б…"
+  },
+  "RoA_A01_M02_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain, we need to search for supplies, our men are running low on food and water.",
+    "ukUA": "Капітане, нам потрібно шукати припаси, у наших людей майже скінчились їжа та вода."
+  },
+  "RoA_A01_M02_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Let's check this cellar, maybe there is something.",
+    "ukUA": "Перевіримо цей підвал — можливо щось є."
+  },
+  "RoA_A01_M02_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain Danath, we have survivors!",
+    "ukUA": "Капітане Данате, у нас є вцілілі!"
+  },
+  "RoA_A01_M02_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Greetings! We’ve been hiding here from those greenskinned beasts. They plundered Southshore and have settled in ravaged villages nearby.",
+    "ukUA": "Вітаю вас! Ми ховалися тут від тих зеленошкірих чудовиськ. Вони пограбували Південнобережжя і поселилися у спустошених селах неподалік."
+  },
+  "RoA_A01_M02_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That’s what savage mongrels do. Men, let’s pay them a visit!",
+    "ukUA": "Так і чинять дикунські виродки. Навідаємось до них!"
+  },
+  "RoA_A01_M02_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "I can write a tale about you.",
+    "ukUA": "Я можу написати про тебе історію."
+  },
+  "RoA_A01_M02_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "No one ever listens…",
+    "ukUA": "Ніхто не слухає…"
+  },
+  "RoA_A01_M02_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "Stay a while and listen.",
+    "ukUA": "Постій трохи й послухай."
+  },
+  "RoA_A01_M02_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "Humanz… ehk, Kill them!",
+    "ukUA": "Люди… ікх, вбийте їх!"
+  },
+  "RoA_A01_M02_VO_S003_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Filthy creature, my sword will sober you up!",
+    "ukUA": "Брудна істото, мій меч тебе зробить тверезим!"
+  },
+  "RoA_A01_M02_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Please! No hurt!",
+    "ukUA": "Будь ласка! Не треба насильства!"
+  },
+  "RoA_A01_M02_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "The humans are attacking! Kill them!",
+    "ukUA": "Люди нападають! Вбийте їх!"
+  },
+  "RoA_A01_M02_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I’ll never get tired of killing this scum!",
+    "ukUA": "Я ніколи не втомлюся винищувати цю мерзоту!"
+  },
+  "RoA_A01_M02_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Hey! Quit disturbing me, me need wipe wipe!",
+    "ukUA": "Агов! Не турбуйте мене, мені треба витертись витертись!"
+  },
+  "RoA_A01_M02_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Zug zug zug, Argh! Hey! Ow, me need alone time!",
+    "ukUA": "Заґ заґ заґ, аргх! Агов мені треба побути наодинці!"
+  },
+  "RoA_A01_M02_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The orcs will bother you no more, old man. We have secured a perimeter around Southshore.",
+    "ukUA": "Орки більше вас не потурбують вас, старий. Ми все зачистили навколо Південнобережжя."
+  },
+  "RoA_A01_M02_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Thank you, brave commander. Please stay a while and get some rest. We have some food and supplies that we can share with your soldiers.",
+    "ukUA": "Дякуємо вам, відважний командире. Залишіться трохи і відпочиньте. У нас є деяка їжа та припаси якими ми можемо поділимося з вашими воїнами."
+  },
+  "RoA_A01_M02_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I have a better idea. Give us a couple of strong workers and we will rebuild the town hall together. This town can be a perfect base for the Alliance army that is marching in this direction.",
+    "ukUA": "У мене краща ідея. Дайте нам кількох сильних робітників — і ми разом відбудуємо ратушу. Це містечко стане відмінною базою для армії Альянсу, що прямує сюди."
+  },
+  "RoA_A01_M02_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Very well, everything you need, sir.",
+    "ukUA": "Добре, усе, що потрібно, сір."
+  },
+  "RoA_A01_M02_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Well, well, the mysterious elves of Silvermoon. What a surprise to see you here…",
+    "ukUA": "Так, так, загадкові ельфи з Срібномісяця. Який сюрприз бачити вас тут..."
+  },
+  "RoA_A01_M02_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Greetings, human. We were sent here to rescue a contingent of archers headed to Dalaran. Our spies report that shortly after passing through the Alterac grasslands, they were ambushed by Horde troops. We believe that they are now held in a small prison camp near the northwest region of Tarren Mill.",
+    "ukUA": "Вітаю, людино. Нас відправили сюди, щоб врятувати загін лучників, що прямував до Даларану. Наші шпигуни доповідають, що незабаром після проходу через поля Альтераку вони потрапили в засідку Орди. Ми вважаємо, що їх зараз тримають ув'язненими у невеликому таборі неподалік північно-західної частини Таррен-Млина."
+  },
+  "RoA_A01_M02_VO_S008_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "To reach Tarren Mill, you have to sail up the Darrowmere River, yet you landed here.",
+    "ukUA": "Щоб дістатися до Таррен-Млина, треба плисти вгору по річці Дерроумер, а ви висадилися тут."
+  },
+  "RoA_A01_M02_VO_S008_004": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "That was our destination, but troll destroyers are guarding the river mouth. We can’t defeat those without reinforcements.",
+    "ukUA": "Це і було наше місце призначення, але  руйнівники тролів стерегли гирло річки. Ми не переможемо їх без підкріплення."
+  },
+  "RoA_A01_M02_VO_S008_005": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Trolls…I see. I can help you, but on one condition, elf.",
+    "ukUA": "Тролі… добре, зрозуміло. Я можу допомогти, але за однієї умови, ельфе."
+  },
+  "RoA_A01_M02_VO_S008_006": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "I’m listening.",
+    "ukUA": "Слухаю."
+  },
+  "RoA_A01_M02_VO_S008_007": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I will be the man in charge of this operation.",
+    "ukUA": "Виключно я буду відповідальним за цю операцію."
+  },
+  "RoA_A01_M02_VO_S008_008": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Very well. Our sylvan craftsman will build an elven lumber mill. With it, we can build more ships quickly.",
+    "ukUA": "Як побажєете. Наш лісовий майстер(sylvan craftsman) побудує вам ельфійську лісопильню. Завдяки їй ви зможете побудувати більше кораблів."
+  },
+  "RoA_A01_M02_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "These rivers used to bring commerce throughout the kingdoms, now they’re polluted with the stench of beasts and savages.",
+    "ukUA": "Колись ці річки слугували торгівельними шляхами всім королівствам, а тепер вони отруєні смородом звірів та дикунів."
+  },
+  "RoA_A01_M02_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "I couldn’t agree more, our forward scouts have warned us of many orcish watch posts looming on both sides of the river, and the troll destroyers are ever vigilant.",
+    "ukUA": "Не можу не погодитися. Наші розвідники попередили нас про безліч оркських вартових веж, що височіють по обидва боки річки, а руйнівники тролів ніколи не втрачають пильності."
+  },
+  "RoA_A01_M02_VO_S009_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I hope you elves are as good battling on the sea as you are with magic, otherwise, I may have delivered me and my men an early death.",
+    "ukUA": "Сподіваюся, ви, ельфи, так само вправно воюєте на морі, як і володієте магією, інакше я, мабуть, прирік себе і своїх людей на передчасну смерть."
+  },
+  "RoA_A01_M02_VO_S009_004": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Ha! Fear not, human, you will not die on my watch. Not today.",
+    "ukUA": "Ха! Не бійся, людино, ти не помреш у мою зміну. Не сьогодні."
+  },
+  "RoA_A01_M02_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Kul'tiran ships… They were destroyed by the dragons when Admiral Proudmoore tried to retake Southshore…",
+    "ukUA": "Кул-тіраські кораблі… Їх знищили дракони, коли адмірал Праудмур намагався відбити Південнобережжя…"
+  },
+  "RoA_A01_M02_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "We are approaching Tarren Mill. Careful now, I bet the orcs there are much better prepared than the ones we saw in Southshore.",
+    "ukUA": "Ми наближаємося до Таррен-Млину. Будьте обережні, закладаюся, тутешні орки підготувалися значно краще за тих, кого ми бачили в Південнобережжі."
+  },
+  "RoA_A01_M02_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "We have learned there are more survivors held captive in the woods around Tarren Mill. The orcs are using them as forced labor.",
+    "ukUA": "Ми дізналися, що в лісах навколо Таррен-Млину утримують у полоні ще більше вцілілих. Орки використовують їх як робочу силу."
+  },
+  "RoA_A01_M02_VO_S011_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Then we must help them. These poor fellows must have endured too much. Once we get there, you’ll see to it.",
+    "ukUA": "Тоді ми мусимо їм допомогти. Ці бідолахи й так натерпілися занадто багато. Щойно дістанемося туди, ви про це подбаєте."
+  },
+  "RoA_A01_M02_VO_S011_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Yes, captain.",
+    "ukUA": "Так, капітане."
+  },
+  "RoA_A01_M02_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Damn the orcs!",
+    "ukUA": "Кляті орки!"
+  },
+  "RoA_A01_M02_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "My sword is yours!",
+    "ukUA": "Мій меч до ваших послуг!"
+  },
+  "RoA_A01_M02_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Help us!",
+    "ukUA": "Допоможіть нам!"
+  },
+  "RoA_A01_M02_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "These wretched orcs are forcing us to work day and night!",
+    "ukUA": "Ці мерзенні тварюки змушували нас працювати вдень і вночі!"
+  },
+  "RoA_A01_M02_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Thank you, sire!",
+    "ukUA": "Дякую вам, сіре!"
+  },
+  "RoA_A01_M02_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Time to repay those blasted orcs in kind!",
+    "ukUA": "Час повернути цим проклятим оркам борг тією ж монетою!"
+  },
+  "RoA_A01_M02_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "Wretched orcs, now they’ll see.",
+    "ukUA": "Мерзенні орки, тепер вони побачать."
+  },
+  "RoA_A01_M02_VO_S012_008": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "The prisoners have been freed. Now, onto Tarren Mill!",
+    "ukUA": "Всіх в'язнів звільнено. Тепер — вперед до Таррен-Млину!"
+  },
+  "RoA_A01_M02_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "OCA",
+    "unit_name": "Orc Captain",
+    "enUS": "Hah! As expected, the elven stench has attracted the human insects! Kill them all warriors!",
+    "ukUA": "Ха! Як і очікувалося, ельфійський сморід привабив людських комах! Вбити всіх!"
+  },
+  "RoA_A01_M02_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I don’t think so!",
+    "ukUA": "Я так не думаю!"
+  },
+  "RoA_A01_M02_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "Thank you, sir. We were heading to Dalaran, to help the Kirin Tor battle the Horde, but we got captured instead.",
+    "ukUA": "Дякую, сіре. Ми прямували до Даларана, щоб допомогти Кірін-Тору в битві з Ордою, але замість цього потрапили в полон."
+  },
+  "RoA_A01_M02_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Haha, you should bring better scouts next time, elf. Lucky you, you’re in good company now.",
+    "ukUA": "Ха-ха, наступного разу вам варто взяти кращих розвідників, ельфе. На ваше щастя, тепер ви в хорошій компанії."
+  },
+  "RoA_A01_M02_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "What's that?",
+    "ukUA": "Що це?"
+  },
+  "RoA_A01_M02_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That is the sound of hope.",
+    "ukUA": "Це звук надії."
+  }
+}

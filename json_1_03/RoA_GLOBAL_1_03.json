@@ -1,0 +1,3915 @@
+{
+  "RoA_GLOBAL_ARTIFACTS_001": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Alliance Flag",
+    "ukUA": "Прапор Альянсу"
+  },
+  "RoA_GLOBAL_ARTIFACTS_002": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Keg of Strong Ale",
+    "ukUA": "Пінта міцного еля"
+  },
+  "RoA_GLOBAL_ARTIFACTS_003": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Purchase Ale",
+    "ukUA": "Придбати пінту міцного еля"
+  },
+  "RoA_GLOBAL_ARTIFACTS_004": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Boosts unit combat damage. But intoxicates with Alcohol.",
+    "ukUA": "Пришвидшує швидкість атаки, але викликає спʼяніння від чого одиниця отримує більше шкоди."
+  },
+  "RoA_GLOBAL_ARTIFACTS_005": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Drenches units in alcohol, causing their movement speed to be reduced, attack speed <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage.",
+    "ukUA": "При використанні викликає сильне сп'яніння, що зменшує швидкість пересування, але підвищує на <Absk,DataB1,%>% швидкість атаки. Під час дії ефекту «сп'яніння» одиниця буде отримувати на <Absk,DataC1,%>% більше шкоди."
+  },
+  "RoA_GLOBAL_ARTIFACTS_006": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Amulet of the Tidemother",
+    "ukUA": "Амулет Матері Приливу"
+  },
+  "RoA_GLOBAL_ARTIFACTS_007": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Amulet of the Tidemother",
+    "ukUA": "Амулет Матері Приливу"
+  },
+  "RoA_GLOBAL_ARTIFACTS_008": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff8c00Artifact|r|nGives permanent 150 bonus to hit points when worn. Also increases the owner's hit point regeneration by <Arll,DataA1> hit points per second.  \n\n|cffffcc00History|r  \n|cffffdeadA gift from Lady Proudmoore, this silver amulet bears the crest of Kul Tiras. Said to be blessed by the sea itself, it steadies Derek’s spirit in battle and heals his wounds with the tide’s eternal rhythm.|r\n",
+    "ukUA": "|cffff8c00Артефакт|r|nПід час носіння дає постійний бонус 150 од. здоров'я. Також збільшує регенерацію здоров'я власника на <Arll,DataA1> од. здоров'я за секунду.\r\n\r\n|cffffcc00Історія|r\r\n|cffffdeadЦей срібний амулет із гербом Кул-Тіраса — подарунок леді Праудмур. Кажуть, він благословенний самим морем: він заспокоює дух Дерека в бою і гоїть його рани у вічному ритмі приливу.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_009": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gospel of St. Thomas",
+    "ukUA": "Євангеліє св. Томи"
+  },
+  "RoA_GLOBAL_ARTIFACTS_010": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff8c00Artifact|r\nA Holy book that increases Intelligence of the Hero by 3 and allows its owner to cast spells: |n- Healing Prayer|n- Mark of the Heretic\n\n|cffffcc00History|r\n|cffffdeadThe Gospel of St. Thomas, the healer of Tirisfal, known for his compassion and valor. This sacred relic is said to radiate with his benevolent spirit, granting those near it the power to mend wounds and restore vigor, and protection against dark powers.|r",
+    "ukUA": "|cffff8c00Артефакт|r\n Священна книга, яка збільшує Інтелект героя на 3 та дозволяє її власнику накладати заклинання: |n- Зцілювальна молитва|n- Тавро єретика\n|cffffcc00Історія|r\n|cffffdeadЄвангеліє св. Томи, цілителя Тірісфалю, відомого своїм співчуттям та відвагою. Кажуть, що ця священна реліквія випромінює його добросердний дух, даруючи тим, хто перебуває поруч, силу гоїти рани та відновлювати снагу, а також захист від темних сил.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_011": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Prayer",
+    "ukUA": "Зцілювальна молитва"
+  },
+  "RoA_GLOBAL_ARTIFACTS_012": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Prayer",
+    "ukUA": "Зцілювальна молитва"
+  },
+  "RoA_GLOBAL_ARTIFACTS_013": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <AGah,DataA1> hit points over <AGah,Dur1> seconds.",
+    "ukUA": "Зцілює цільову дружню одиницю на <AGah,DataA1> од. здоров'я протягом <AGah,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_014": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <ABHp,DataA1> hit points over <ABHp,Dur1> seconds.",
+    "ukUA": "Зцілює цільову дружню одиницю на <ABHp,DataA1> од. здоров'я протягом <ABHp,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_015": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "ukUA": "Тавро єретика"
+  },
+  "RoA_GLOBAL_ARTIFACTS_016": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "ukUA": "Тавро єретика"
+  },
+  "RoA_GLOBAL_ARTIFACTS_017": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "ukUA": "Тавро єретика"
+  },
+  "RoA_GLOBAL_ARTIFACTS_018": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "ukUA": "Тавро єретика"
+  },
+  "RoA_GLOBAL_ARTIFACTS_019": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has Mark of the Heretic; it has reduced armor and can be seen by the enemy.",
+    "ukUA": "Ця одиниця має Тавро єретика: її броню знижено, і вона видима для ворога."
+  },
+  "RoA_GLOBAL_ARTIFACTS_020": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Reduces a target enemy unit's armor by <ABMh,DataA1> and gives vision of that unit. |nLasts <ABMh,Dur1> seconds.",
+    "ukUA": "Знижує броню цільової ворожої одиниці на <ABMh,DataA1> та надає бачення цієї одиниці. |nТриває <ABMh,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_021": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Reduces a target enemy unit's armor by <ADiF,DataA1> and gives vision of that unit. |nLasts <ADiF,Dur1> seconds.",
+    "ukUA": "Знижує броню цільової ворожої одиниці на <ADiF,DataA1> та надає бачення цієї одиниці. |nТриває <ADiF,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_022": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Reduces a target enemy unit's armor by <AEFA,DataA1> and gives vision of that unit. |nLasts <AEFA,Dur1> seconds.",
+    "ukUA": "Знижує броню цільової ворожої одиниці на <AEFA,DataA1> та надає бачення цієї одиниці. |nТриває <AEFA,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_023": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gospel of St. Maksimus",
+    "ukUA": "Євангеліє св. Максимуса"
+  },
+  "RoA_GLOBAL_ARTIFACTS_024": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff8c00Artifact|r\nA Holy book that increases Intelligence of the Hero by 3 and allows its owner to cast spells: |n- Inner Fire|n- Dispel Magic\n\n|cffffcc00History|r\n|cffffdeadThe Gospel of St. Maksimus, relic of the revered cleric who defended Tyr's Hand during the Troll Wars. Infused with the wisdom of a valiant defender, it offers unparalleled insight and clarity.|r",
+    "ukUA": "|cffff8c00Артефакт|r\n Священна книга, яка збільшує Інтелект героя на 3 та дозволяє її власнику накладати заклинання: |n- Внутрішній вогонь|n- Розвіяти магію\n|cffffcc00Історія|r\n|cffffdeadЄвангеліє св. Максимуса, реліквія шанованого священника, який боронив Десницю Тиру під час Тролячих Війн. Пронизана мудрістю відважного захисника, вона дарує неперевершену проникливість та ясність розуму.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_025": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Removes all buffs from units in a target area. |n|cffffcc00Deals <AEDS,DataB1> damage to summoned units.|r",
+    "ukUA": "Знімає всі позитивні ефекти з одиниць у вказаній ділянці. |n|cffffcc00Завдає <AEDS,DataB1> од. шкоди прикликаним одиницям.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_026": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Removes all buffs from units in a target area. |n|cffffcc00Deals <AsDm,DataB1> damage to summoned units.|r",
+    "ukUA": "Знімає всі позитивні ефекти з одиниць у вказаній ділянці. |n|cffffcc00Завдає <AsDm,DataB1> од. шкоди прикликаним одиницям.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_027": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases a target friendly unit's damage by <AIDR,DataA1,%>%. |nLasts <AIDR,Dur1> seconds.",
+    "ukUA": "Збільшує шкоду цільової дружньої одиниці на <AIDR,DataA1,%>%. |nТриває <AIDR,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_028": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases a target friendly unit's damage by <AEIF,DataA1,%>% and armor by <AEIF,DataB1>. |nLasts <AEIF,Dur1> seconds.",
+    "ukUA": "Збільшує шкоду цільової дружньої одиниці на <AEIF,DataA1,%>% та броню на <AEIF,DataB1>. |nТриває <AEIF,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_029": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases a target friendly unit's damage by <AspI,DataA1,%>% and armor by <AspI,DataB1>. |nLasts <AspI,Dur1> seconds.",
+    "ukUA": "Збільшує шкоду цільової дружньої одиниці на <AspI,DataA1,%>% та броню на <AspI,DataB1>. |nТриває <AspI,Dur1> сек."
+  },
+  "RoA_GLOBAL_ARTIFACTS_030": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Blessed Armor of Justice",
+    "ukUA": "Благословенна броня справедливості"
+  },
+  "RoA_GLOBAL_ARTIFACTS_031": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff8c00Artifact|r\nIncreases the Strength, Agility and Intelligence of the Hero by |cffffc8002|r when worn. Also provides Armor bonus by |cffffc8005|r.\n\n|cffffcc00History|r\n|cffffdeadThis armor was granted to Uther Lightbringer on the very first day he became a paladin. Archbishop Alonsus Faol himself blessed it and placed holy enchantments upon it.|r",
+    "ukUA": "|cffff8c00Артефакт|r\n Збільшує Силу, Спритність та Інтелект героя на |cffffc8002|r, поки одягнена. \n\nТакож надає бонус до Броні |cffffc8005|r.\n\n|cffffcc00Історія|r\n\n|cffffdeadЦю броню було даровано Утеру Світлоносцю в найперший день, коли він став паладином. Сам архієпископ Алонс Фаол благословив її та наклав на неї священні чари.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_032": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Korkron Armor",
+    "ukUA": "Кор'кронська броня"
+  },
+  "RoA_GLOBAL_ARTIFACTS_033": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff8c00Artifact|r|nEnhances the Hero's armor by <AId7,DataA1>.",
+    "ukUA": "|cffff8c00Артефакт|r\n\nКор'кронські вартові носять броню яка кувалась у тих самих кузнях що й «Обладунки Згуби» вождя. Така броня значно підвищує броню, що значно знижує всю отримувану шкоду.\n\n|nПідвищує броню героя на <AId7,DataA1> од."
+  },
+  "RoA_GLOBAL_ARTIFACTS_034": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Golden Key",
+    "ukUA": "Золотий ключ"
+  },
+  "RoA_GLOBAL_ARTIFACTS_035": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "A golden key. Opens nearby door.",
+    "ukUA": "Ключ від якоїсь брами."
+  },
+  "RoA_GLOBAL_BUILDINGS_001": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Mound",
+    "ukUA": "Оґрівський пагорб"
+  },
+  "RoA_GLOBAL_BUILDINGS_002": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Mound",
+    "ukUA": "Оґрівський пагорб"
+  },
+  "RoA_GLOBAL_BUILDINGS_003": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pig Farm",
+    "ukUA": "Свиноферма"
+  },
+  "RoA_GLOBAL_BUILDINGS_004": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Oil Refinery",
+    "ukUA": "Нафтопереробний завод"
+  },
+  "RoA_GLOBAL_BUILDINGS_005": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Juggernaut",
+    "ukUA": "Джаґґернаут Оґрів"
+  },
+  "RoA_GLOBAL_BUILDINGS_006": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Lumber Mill",
+    "ukUA": "Лісопильня тролів"
+  },
+  "RoA_GLOBAL_BUILDINGS_007": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Lumber Mill",
+    "ukUA": "Лісопильня тролів"
+  },
+  "RoA_GLOBAL_BUILDINGS_008": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Guard Tower",
+    "ukUA": "Вартова вежа"
+  },
+  "RoA_GLOBAL_BUILDINGS_009": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Lumber Mill",
+    "ukUA": "Ельфійська лісопильня"
+  },
+  "RoA_GLOBAL_BUILDINGS_010": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Build Elven Lumber Mill",
+    "ukUA": "Звести Ельфійську лісопильню"
+  },
+  "RoA_GLOBAL_BUILDINGS_011": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The elves offered their superior skills in service to the Alliance, providing more efficient means for processing lumber.|nServes as a drop-off point for harvested lumber.|n|n|cffffcc00Research:|r Lumber Saw Upgrade, Iron Arrows, Elven Ranger Training, Marksmaship, Ranger Scouting, Longbows, Ensnare.",
+    "ukUA": "Слугує пунктом здачі деревини.\n\nПокращення: «Покращена деревообробка» - «Стріли з заліза» - «Тренування рейнджерів» - «Влучна стрільба» - «Розвідка рейнджерів» - «Довгі луки» - «Обплутування»"
+  },
+  "RoA_GLOBAL_BUILDINGS_012": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scouting structure. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry.|n|n|cffffcc00Upgrades to:|r Guard Tower or Cannon Tower.|n|n|cffffcc00Can't attack units.|r",
+    "ukUA": "Розвідницька вежа споруда яка не обладнана зброєю. Збільшує зону видимості навколо себе. \n\nЗдібності: Нечестива варта\n\nМоже бути перебудована у: «Вартова вежа» або «Гарматна вежа»\n\n|cffffcc00Не може атакувати жодні цілі.|"
+  },
+  "RoA_GLOBAL_BUILDINGS_013": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Defensive structure, effective against air units. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry|n|n|cffffcc00Attacks land and air units.|r",
+    "ukUA": "Оборонна споруда, вкрай ефективна проти повітряних цілей. Збільшує зону видимості.\n\nЗдібності: Нечестива варта\n\n|cffffcc00Атакує наземні та повітряні цілі.|r"
+  },
+  "RoA_GLOBAL_BUILDINGS_014": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Powerful defensive structure, effective gatherings of land units. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry.|n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Споруда для важкої оборони, вкрай ефективна проти скупчень ворожих цілей та флоту. Збільшує зону видимості.\n\nЗдібності: Нечестива варта\n\n|cffffcc00Атакує тільки наземні цілі.|r"
+  },
+  "RoA_GLOBAL_BUILDINGS_015": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Tavern",
+    "ukUA": "Корчма"
+  },
+  "RoA_GLOBAL_BUILDINGS_016": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vase",
+    "ukUA": "Пуста ваза"
+  },
+  "RoA_GLOBAL_BUILDINGS_017": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vase",
+    "ukUA": "Пуста ваза"
+  },
+  "RoA_GLOBAL_BUILDINGS_018": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vase",
+    "ukUA": "Пуста ваза"
+  },
+  "RoA_GLOBAL_BUILDINGS_019": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Armor Suit",
+    "ukUA": "Обладунки"
+  },
+  "RoA_GLOBAL_BUILDINGS_020": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chest",
+    "ukUA": "Скриня"
+  },
+  "RoA_GLOBAL_BUILDINGS_021": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chest",
+    "ukUA": "Скриня"
+  },
+  "RoA_GLOBAL_BUILDINGS_022": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "House Ruins",
+    "ukUA": "Завали"
+  },
+  "RoA_GLOBAL_BUILDINGS_023": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "City Clock Tower",
+    "ukUA": "Міська годдиникова вежа"
+  },
+  "RoA_GLOBAL_BUILDINGS_024": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Knight Statue",
+    "ukUA": "Статуя лицаря"
+  },
+  "RoA_GLOBAL_BUILDINGS_025": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Knight Statue",
+    "ukUA": "Статуя лицаря"
+  },
+  "RoA_GLOBAL_BUILDINGS_026": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Food Supplies",
+    "ukUA": "Припаси"
+  },
+  "RoA_GLOBAL_BUILDINGS_027": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Oil Patch",
+    "ukUA": "Нафтове родовище"
+  },
+  "RoA_GLOBAL_HEROES_ALO_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "ukUA": "Сір Андуїн Лотар"
+  },
+  "RoA_GLOBAL_HEROES_ALO_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "ukUA": "Сір Андуїн Лотар"
+  },
+  "RoA_GLOBAL_HEROES_ALO_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "ukUA": "Сір Андуїн Лотар"
+  },
+  "RoA_GLOBAL_HEROES_ALO_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "ukUA": "Сір Андуїн Лотар"
+  },
+  "RoA_GLOBAL_HEROES_ALO_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow",
+    "ukUA": "Каральний Удар"
+  },
+  "RoA_GLOBAL_HEROES_ALO_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit was hit by Punishing Blow; it will take damage over time and move more slowly.",
+    "ukUA": "Цей юніт уражений Каральним Ударом; він отримуватиме шкоду з часом і рухатиметься повільніше."
+  },
+  "RoA_GLOBAL_HEROES_ALO_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Punishing Blow - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Каральний Удар - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow - [|cffffcc00Level 1|r]",
+    "ukUA": "Каральний Удар - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow - [|cffffcc00Level 2|r]",
+    "ukUA": "Каральний Удар - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow - [|cffffcc00Level 3|r]",
+    "ukUA": "Каральний Удар - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy which deals large initial damage, and then deals damage over time. The pierced unit has its movement speed slowed for a short duration. |n|n|cffffcc00Level 1|r - <ALPb,DataE1> strike damage, <ALPb,DataA1> duration damage. |n|cffffcc00Level 2|r - <ALPb,DataE2> strike damage, <ALPb,DataA2> duration damage. |n|cffffcc00Level 3|r - <ALPb,DataE3> strike damage, <ALPb,DataA3> duration damage.",
+    "ukUA": "Лотар вражає ворога мечем, завдаючи значної початкової шкоди, а потім шкоди з часом. Уражений юніт має сповільнену швидкість руху протягом короткого часу. |n|n|cffffcc00Рівень 1|r - <ALPb,DataE1> шкоди від удару, <ALPb,DataA1> шкоди з часом. |n|cffffcc00Рівень 2|r - <ALPb,DataE2> шкоди від удару, <ALPb,DataA2> шкоди з часом. |n|cffffcc00Рівень 3|r - <ALPb,DataE3> шкоди від удару, <ALPb,DataA3> шкоди з часом."
+  },
+  "RoA_GLOBAL_HEROES_ALO_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE1> initial damage, and <ALPb,DataA1> damage every <ALPb,Cast1> seconds for <ALPb,Dur1> seconds. The pierce slows the movement speed of the targeted unit for a short duration.",
+    "ukUA": "Лотар вражає ворога мечем, завдаючи <ALPb,DataE1> початкової шкоди та <ALPb,DataA1> шкоди кожні <ALPb,Cast1> секунд протягом <ALPb,Dur1> секунд. Удар сповільнює швидкість руху цілі на короткий час."
+  },
+  "RoA_GLOBAL_HEROES_ALO_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE2> initial damage, and <ALPb,DataA2> damage every <ALPb,Cast2> seconds for <ALPb,Dur2> seconds. The pierce slows the movement speed of the targeted unit for a short duration.",
+    "ukUA": "Лотар вражає ворога мечем, завдаючи <ALPb,DataE2> початкової шкоди та <ALPb,DataA2> шкоди кожні <ALPb,Cast2> секунд протягом <ALPb,Dur2> секунд. Удар сповільнює швидкість руху цілі на короткий час."
+  },
+  "RoA_GLOBAL_HEROES_ALO_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE3> initial damage, and <ALPb,DataA3> damage every <ALPb,Cast3> seconds for <ALPb,Dur3> seconds. The pierce slows the movement speed of the targeted unit for a short duration.",
+    "ukUA": "Лотар вражає ворога мечем, завдаючи <ALPb,DataE3> початкової шкоди та <ALPb,DataA3> шкоди кожні <ALPb,Cast3> секунд протягом <ALPb,Dur3> секунд. Удар сповільнює швидкість руху цілі на короткий час."
+  },
+  "RoA_GLOBAL_HEROES_ALO_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap",
+    "ukUA": "Героїчний Стрибок"
+  },
+  "RoA_GLOBAL_HEROES_ALO_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps at the targeted unit, slams the ground, dealing <ALsl,DataA1> damage to nearby enemy land units and slowing their movement by <ALsl,DataC1,%>% and attack rate by <ALsl,DataD1,%>%.",
+    "ukUA": "Лотар стрибає до цілі, вдаряє об землю, завдаючи <ALsl,DataA1> шкоди ворожим наземним юнітам поблизу та сповільнюючи їхній рух на <ALsl,DataC1,%>% і швидкість атаки на <ALsl,DataD1,%>%."
+  },
+  "RoA_GLOBAL_HEROES_ALO_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps at the targeted unit, slams the ground, dealing damage to and slowing the movement speed and attack rate of nearby enemy land units. |n|n|cffffcc00Level 1|r - <ALsl,DataA1> damage, <ALsl,DataC1,%>% move, <ALsl,DataD1,%>% attack. |n|cffffcc00Level 2|r - <ALsl,DataA2> damage, <ALsl,DataC2,%>% move, <ALsl,DataD2,%>% attack. |n|cffffcc00Level 3|r - <ALsl,DataA3> damage, <ALsl,DataC3,%>% move, <ALsl,DataD3,%>% attack.",
+    "ukUA": "Лотар стрибає до цілі, вдаряє об землю, завдаючи шкоди та сповільнюючи швидкість руху й атаки ворожих наземних юнітів поблизу. |n|n|cffffcc00Рівень 1|r - <ALsl,DataA1> шкоди, <ALsl,DataC1,%>% рух, <ALsl,DataD1,%>% атака. |n|cffffcc00Рівень 2|r - <ALsl,DataA2> шкоди, <ALsl,DataC2,%>% рух, <ALsl,DataD2,%>% атака. |n|cffffcc00Рівень 3|r - <ALsl,DataA3> шкоди, <ALsl,DataC3,%>% рух, <ALsl,DataD3,%>% атака."
+  },
+  "RoA_GLOBAL_HEROES_ALO_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps the at targeted unit, slams the ground, dealing <ALsl,DataA2> damage to nearby enemy land units and slowing their movement by <ALsl,DataC2,%>% and attack rate by <ALsl,DataD2,%>%.",
+    "ukUA": "Лотар стрибає до цілі, вдаряє об землю, завдаючи <ALsl,DataA2> шкоди ворожим наземним юнітам поблизу та сповільнюючи їхній рух на <ALsl,DataC2,%>% і швидкість атаки на <ALsl,DataD2,%>%."
+  },
+  "RoA_GLOBAL_HEROES_ALO_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps the at targeted unit, slams the ground, dealing <ALsl,DataA3> damage to nearby enemy land units and slowing their movement by <ALsl,DataC3,%>% and attack rate by <ALsl,DataD3,%>%.",
+    "ukUA": "Лотар стрибає до цілі, вдаряє об землю, завдаючи <ALsl,DataA3> шкоди ворожим наземним юнітам поблизу та сповільнюючи їхній рух на <ALsl,DataC3,%>% і швидкість атаки на <ALsl,DataD3,%>%."
+  },
+  "RoA_GLOBAL_HEROES_ALO_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Heroic Leap - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Героїчний Стрибок - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap - [|cffffcc00Level 1|r]",
+    "ukUA": "Героїчний Стрибок - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap - [|cffffcc00Level 1|r]",
+    "ukUA": "Героїчний Стрибок - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap - [|cffffcc00Level 1|r]",
+    "ukUA": "Героїчний Стрибок - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap",
+    "ukUA": "Героїчний Стрибок"
+  },
+  "RoA_GLOBAL_HEROES_ALO_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap",
+    "ukUA": "Героїчний Стрибок"
+  },
+  "RoA_GLOBAL_HEROES_ALO_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has been hit by Heroic Leap; its movement speed and attack rate are reduced.",
+    "ukUA": "Цей юніт уражений Героїчним Стрибком; його швидкість руху та атаки знижена."
+  },
+  "RoA_GLOBAL_HEROES_ALO_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap Slam",
+    "ukUA": "Удар Героїчного Стрибка"
+  },
+  "RoA_GLOBAL_HEROES_ALO_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes",
+    "ukUA": "Розмашисті Удари"
+  },
+  "RoA_GLOBAL_HEROES_ALO_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Sweeping Strikes - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Розмашисті Удари - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes - [|cffffcc00Level 1|r]",
+    "ukUA": "Розмашисті Удари - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes - [|cffffcc00Level 2|r]",
+    "ukUA": "Розмашисті Удари - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes - [|cffffcc00Level 3|r]",
+    "ukUA": "Розмашисті Удари - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that he damages multiple enemies with his attack. |n|n|cffffcc00Level 1|r - <ALcl,DataA1,%>% damage is splash. |n|cffffcc00Level 2|r - <ALcl,DataA2,%>% damage is splash. |n|cffffcc00Level 3|r - <ALcl,DataA3,%>% damage is splash.",
+    "ukUA": "Лотар вражає з такою силою, що завдає шкоди кільком ворогам одночасно. |n|n|cffffcc00Рівень 1|r - <ALcl,DataA1,%>% шкоди розлітається навколо. |n|cffffcc00Рівень 2|r - <ALcl,DataA2,%>% шкоди розлітається навколо. |n|cffffcc00Рівень 3|r - <ALcl,DataA3,%>% шкоди розлітається навколо."
+  },
+  "RoA_GLOBAL_HEROES_ALO_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that <ALcl,DataA1,%>% of his damage strikes through to enemies near the primary attacked unit.",
+    "ukUA": "Лотар вражає з такою силою, що <ALcl,DataA1,%>% його шкоди передається ворогам поблизу основної цілі."
+  },
+  "RoA_GLOBAL_HEROES_ALO_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that <ALcl,DataA2,%>% of his damage strikes through to enemies near the primary attacked unit.",
+    "ukUA": "Лотар вражає з такою силою, що <ALcl,DataA2,%>% його шкоди передається ворогам поблизу основної цілі."
+  },
+  "RoA_GLOBAL_HEROES_ALO_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that <ALcl,DataA3,%>% of his damage strikes through to enemies near the primary attacked unit.",
+    "ukUA": "Лотар вражає з такою силою, що <ALcl,DataA3,%>% його шкоди передається ворогам поблизу основної цілі."
+  },
+  "RoA_GLOBAL_HEROES_ALO_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Die by the Sword",
+    "ukUA": "Смерть від Меча"
+  },
+  "RoA_GLOBAL_HEROES_ALO_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Die by the Sword",
+    "ukUA": "Смерть від Меча"
+  },
+  "RoA_GLOBAL_HEROES_ALO_039": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Die by the Sword",
+    "ukUA": "Вивчити Смерть від Меча"
+  },
+  "RoA_GLOBAL_HEROES_ALO_040": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar displays his mastery with sword dealing <ALbl,DataA1> damage per second to nearby enemy land units.",
+    "ukUA": "Лотар демонструє майстерність володіння мечем, завдаючи <ALbl,DataA1> шкоди за секунду ворожим наземним юнітам поблизу."
+  },
+  "RoA_GLOBAL_HEROES_ALO_041": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar displays his mastery with sword becoming immune to magic and dealing <ALbl,DataA1> damage per second to nearby enemy land units. |nLasts <ALbl,Dur1> seconds.",
+    "ukUA": "Лотар демонструє майстерність володіння мечем, стаючи невразливим до магії та завдаючи <ALbl,DataA1> шкоди за секунду ворожим наземним юнітам поблизу. |nТриває <ALbl,Dur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_DPR_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek Proudmoore",
+    "ukUA": "Дерек Праудмур"
+  },
+  "RoA_GLOBAL_HEROES_DPR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "ukUA": "Капітан"
+  },
+  "RoA_GLOBAL_HEROES_DPR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "ukUA": "Капітан"
+  },
+  "RoA_GLOBAL_HEROES_DPR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "ukUA": "Капітан"
+  },
+  "RoA_GLOBAL_HEROES_DPR_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot",
+    "ukUA": "Постріл з Пістоля"
+  },
+  "RoA_GLOBAL_HEROES_DPR_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Pistol Shot - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Постріл з Пістоля - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot - [|cffffcc00Level 1|r]",
+    "ukUA": "Постріл з Пістоля - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot - [|cffffcc00Level 2|r]",
+    "ukUA": "Постріл з Пістоля - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot - [|cffffcc00Level 3|r]",
+    "ukUA": "Постріл з Пістоля - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing damage and stunning the target. |n|n|cffffcc00Level 1|r - <AdSp,DataA1> damage, <AdSp,Dur1> second stun. |n|cffffcc00Level 2|r - <AdSp,DataA2> damage, <AdSp,Dur2> second stun. |n|cffffcc00Level 3|r - <AdSp,DataA3> damage, <AdSp,Dur3> second stun.",
+    "ukUA": "Дерек стріляє у ворожу одиницю, завдаючи шкоди та оглушуючи ціль. |n|n|cffffcc00Рівень 1|r - <AdSp,DataA1> од. шкоди, <AdSp,Dur1> секунд оглушення. |n|cffffcc00Рівень 2|r - <AdSp,DataA2> шкоди, <AdSp,Dur2> секунд оглушення. |n|cffffcc00Рівень 3|r - <AdSp,DataA3> шкоди, <AdSp,Dur3> секунд оглушення."
+  },
+  "RoA_GLOBAL_HEROES_DPR_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing <AdSp,DataA1> damage and stunning the target for <AdSp,Dur1> seconds.",
+    "ukUA": "Дерек стріляє у ворожу одиницю, завдаючи <AdSp,DataA1> од. шкоди та оглушуючи ціль на <AdSp,Dur1> сек."
+  },
+  "RoA_GLOBAL_HEROES_DPR_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing <AdSp,DataA2> damage and stunning the target for <AdSp,Dur2> seconds.",
+    "ukUA": "Дерек стріляє у ворожого юніта, завдаючи <AdSp,DataA2> шкоди та оглушуючи ціль на <AdSp,Dur2> сек."
+  },
+  "RoA_GLOBAL_HEROES_DPR_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing <AdSp,DataA3> damage and stunning the target for <AdSp,Dur3> seconds.",
+    "ukUA": "Дерек стріляє у ворожу одиницю, завдаючи <AdSp,DataA3> шкоди та оглушуючи ціль на <AdSp,Dur3> сек."
+  },
+  "RoA_GLOBAL_HEROES_DPR_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "ukUA": "Кидок Гранати"
+  },
+  "RoA_GLOBAL_HEROES_DPR_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "ukUA": "Кидок Гранати"
+  },
+  "RoA_GLOBAL_HEROES_DPR_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "ukUA": "Кидок Гранати"
+  },
+  "RoA_GLOBAL_HEROES_DPR_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "ukUA": "Кидок Гранати"
+  },
+  "RoA_GLOBAL_HEROES_DPR_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has been bombed.  It has reduced armor, and is being damaged over time.",
+    "ukUA": "Одиницю оглушено гранатою. Броня знижена, і він отримує періодичну шкоду."
+  },
+  "RoA_GLOBAL_HEROES_DPR_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Grenade Toss - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Кидок Гранати - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss - [|cffffcc00Level 1|r]",
+    "ukUA": "Кидок Гранати - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss - [|cffffcc00Level 2|r]",
+    "ukUA": "Кидок Гранати - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss - [|cffffcc00Level 3|r]",
+    "ukUA": "Кидок Гранати - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor; deals high damage over time to the primary target; deals slightly less damage over time to nearby targets.|nLasts <ANab,Dur1> seconds.|n|n|cffffcc00Level 1|r - <ANab,DataD1> max damage per second, reduces armor by <ANab,DataC1>.|n|cffffcc00Level 2|r - <ANab,DataD2> max damage per second, reduces armor by <ANab,DataC2>.|n|cffffcc00Level 3|r - <ANab,DataD3> max damage per second, reduces armor by <ANab,DataC3>.",
+    "ukUA": "Дерек кидає гранату в ціль. Після вибуху бомба розкидає уламки по сусідніх одиницях.|n|nЗнижує броню; завдає значної шкоди з часом основній цілі; завдає трохи меншої шкоди з часом сусіднім цілям.|nТриває <ANab,Dur1> сек.|n|n|cffffcc00Рівень 1|r - до <ANab,DataD1> шкоди за секунду, знижує броню на <ANab,DataC1>.|n|cffffcc00Рівень 2|r - до <ANab,DataD2> шкоди за сек., знижує броню на <ANab,DataC2>.|n|cffffcc00Рівень 3|r - до <ANab,DataD3> шкоди за сек., знижує броню на <ANab,DataC3>."
+  },
+  "RoA_GLOBAL_HEROES_DPR_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer",
+    "ukUA": "Фехтувальник"
+  },
+  "RoA_GLOBAL_HEROES_DPR_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fencer - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Фехтувальник - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer - [|cffffcc00Level 1|r]",
+    "ukUA": "Фехтувальник - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer - [|cffffcc00Level 2|r]",
+    "ukUA": "Фехтувальник - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer - [|cffffcc00Level 3|r]",
+    "ukUA": "Фехтувальник - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fishnets",
+    "ukUA": "Рибальські Сіті"
+  },
+  "RoA_GLOBAL_HEROES_DPR_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fishnets",
+    "ukUA": "Рибальські Сіті"
+  },
+  "RoA_GLOBAL_HEROES_DPR_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fishnets",
+    "ukUA": "Вивчити Рибальські Сіті"
+  },
+  "RoA_GLOBAL_HEROES_DPR_039": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws fishnets with hooks that ensnare enemy ground units damaging them over time and stunning them for <ADpW,Dur1> second.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>.",
+    "ukUA": "Дерек кидає рибальські сіті з гачками, що заплутують наземних ворожих юнітів, завдаючи шкоди з часом та оглушуючи їх на <ADpW,Dur1> секунду.|n|n|cffffcc00Максимальна Шкода|r - <ADpW,DataD1>."
+  },
+  "RoA_GLOBAL_HEROES_DPR_040": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws fishnets with hooks, stunning enemy land units for <ADpW,Dur1> second and damaging them.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>.",
+    "ukUA": "Дерек кидає рибальські сіті з гачками, оглушуючи наземних ворогів на <ADpW,Dur1> секунду та завдаючи їм шкоди.|n|n|cffffcc00Максимальна Шкода|r - <ADpW,DataD1>."
+  },
+  "RoA_GLOBAL_HEROES_DTR_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath Trollbane",
+    "ukUA": "Данат Тролебій"
+  },
+  "RoA_GLOBAL_HEROES_DTR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath Trollbane",
+    "ukUA": "Данат Тролебій"
+  },
+  "RoA_GLOBAL_HEROES_DTR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "ukUA": "Капітан"
+  },
+  "RoA_GLOBAL_HEROES_DTR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Captain",
+    "ukUA": "Воскресити Капітана"
+  },
+  "RoA_GLOBAL_HEROES_DTR_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Captain",
+    "ukUA": "Воскресити Капітана"
+  },
+  "RoA_GLOBAL_HEROES_DTR_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde",
+    "ukUA": "За Стромварт"
+  },
+  "RoA_GLOBAL_HEROES_DTR_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn For Stromgarde - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити За Стромварт - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde - [|cffffcc00Level 1|r]",
+    "ukUA": "За Стромварт - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde - [|cffffcc00Level 2|r]",
+    "ukUA": "За Стромварт - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde - [|cffffcc00Level 3|r]",
+    "ukUA": "За Стромварт - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde",
+    "ukUA": "За Стромварт"
+  },
+  "RoA_GLOBAL_HEROES_DTR_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde",
+    "ukUA": "За Стромварт"
+  },
+  "RoA_GLOBAL_HEROES_DTR_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash",
+    "ukUA": "Удар Щитом"
+  },
+  "RoA_GLOBAL_HEROES_DTR_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash - [|cffffcc00Level 1|r]",
+    "ukUA": "Удар Щитом - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash - [|cffffcc00Level 2|r]",
+    "ukUA": "Удар Щитом - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash - [|cffffcc00Level 3|r]",
+    "ukUA": "Удар Щитом - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Shield Bash - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Удар Щитом - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield which deals <ADsb,DataA1> damage to each enemy land unit in a line, up to <ADsb,DataB1> max damage.",
+    "ukUA": "Данат б'є ворогів своїм щитом, завдаючи <ADsb,DataA1> шкоди кожному наземному ворогу на лінії, до <ADsb,DataB1> максимальної шкоди."
+  },
+  "RoA_GLOBAL_HEROES_DTR_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield which deals <ADsb,DataA2> damage to each enemy land unit in a line, up to <ADsb,DataB2> max damage.",
+    "ukUA": "Данат б'є ворогів своїм щитом, завдаючи <ADsb,DataA2> шкоди кожному наземному ворогу на лінії, до <ADsb,DataB2> максимальної шкоди."
+  },
+  "RoA_GLOBAL_HEROES_DTR_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield which deals <ADsb,DataA3> damage to each enemy land unit in a line, up to <ADsb,DataB3> max damage.",
+    "ukUA": "Данат б'є ворогів своїм щитом, завдаючи <ADsb,DataA3> шкоди кожному наземному ворогу на лінії, до <ADsb,DataB3> максимальної шкоди."
+  },
+  "RoA_GLOBAL_HEROES_DTR_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield. |n|n|cffffcc00Level 1|r - <ADsb,DataA1> damage per unit. |n|cffffcc00Level 2|r - <ADsb,DataA2> damage per unit. |n|cffffcc00Level 3|r - <ADsb,DataA3> damage per unit.",
+    "ukUA": "Данат б'є ворогів своїм щитом. |n|n|cffffcc00Рівень 1|r - <ADsb,DataA1> шкоди за юніта. |n|cffffcc00Рівень 2|r - <ADsb,DataA2> шкоди за юніта. |n|cffffcc00Рівень 3|r - <ADsb,DataA3> шкоди за юніта."
+  },
+  "RoA_GLOBAL_HEROES_DTR_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege Mastery",
+    "ukUA": "Майстерність Облоги"
+  },
+  "RoA_GLOBAL_HEROES_DTR_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege Mastery  - [|cffffcc00Level 1|r]",
+    "ukUA": "Майстерність Облоги - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege Mastery  - [|cffffcc00Level 2|r]",
+    "ukUA": "Майстерність Облоги - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege Mastery  - [|cffffcc00Level 3|r]",
+    "ukUA": "Майстерність Облоги - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Siege Mastery - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Майстерність Облоги - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Horn of Stromgarde",
+    "ukUA": "Ріг Стромварту"
+  },
+  "RoA_GLOBAL_HEROES_DTR_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Horn of Stromgarde",
+    "ukUA": "Ріг Стромварту"
+  },
+  "RoA_GLOBAL_HEROES_DTR_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Horn of Stromgarde",
+    "ukUA": "Вивчити Ріг Стромварту"
+  },
+  "RoA_GLOBAL_HEROES_DTR_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent.",
+    "ukUA": "Викликає 6 Королівських Вартових Стромварту на допомогу Данату. Виклик є постійним."
+  },
+  "RoA_GLOBAL_HEROES_DTR_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent.",
+    "ukUA": "Викликає 6 Королівських Вартових Стромварту на допомогу Данату. Виклик є постійним."
+  },
+  "RoA_GLOBAL_HEROES_KAS_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "ukUA": "Курдран та Скай’рі"
+  },
+  "RoA_GLOBAL_HEROES_KAS_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "ukUA": "Курдран та Скай’рі"
+  },
+  "RoA_GLOBAL_HEROES_KAS_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "ukUA": "Курдран та Скай’рі"
+  },
+  "RoA_GLOBAL_HEROES_KAS_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "ukUA": "Курдран та Скай’рі"
+  },
+  "RoA_GLOBAL_HEROES_KAS_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "ukUA": "Курдран та Скай’рі"
+  },
+  "RoA_GLOBAL_HEROES_KAS_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "ukUA": "Курдран та Скай’рі"
+  },
+  "RoA_GLOBAL_HEROES_KAS_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "ukUA": "Верховний тан"
+  },
+  "RoA_GLOBAL_HEROES_KAS_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "ukUA": "Верховний тан"
+  },
+  "RoA_GLOBAL_HEROES_KAS_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "ukUA": "Верховний тан"
+  },
+  "RoA_GLOBAL_HEROES_KAS_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "ukUA": "Верховний тан"
+  },
+  "RoA_GLOBAL_HEROES_KAS_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "ukUA": "Верховний тан"
+  },
+  "RoA_GLOBAL_HEROES_KAS_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Land",
+    "ukUA": "Приземлитися"
+  },
+  "RoA_GLOBAL_HEROES_KAS_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Land",
+    "ukUA": "Приземлитися"
+  },
+  "RoA_GLOBAL_HEROES_KAS_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree lands on the ground.",
+    "ukUA": "Скай’рі сідає на землю."
+  },
+  "RoA_GLOBAL_HEROES_KAS_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree lands on the ground.",
+    "ukUA": "Скай’рі сідає на землю."
+  },
+  "RoA_GLOBAL_HEROES_KAS_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Take Wing",
+    "ukUA": "Злетіти"
+  },
+  "RoA_GLOBAL_HEROES_KAS_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree takes wing and flies in the sky.",
+    "ukUA": "Скай’рі злітає у небо."
+  },
+  "RoA_GLOBAL_HEROES_KAS_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree takes wing and flies in the sky.",
+    "ukUA": "Скай’рі злітає у небо."
+  },
+  "RoA_GLOBAL_HEROES_KAS_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw",
+    "ukUA": "Жбурляння молоту"
+  },
+  "RoA_GLOBAL_HEROES_KAS_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Hammer Throw - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Жбурляння молоту - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw - [|cffffcc00Level 1|r]",
+    "ukUA": "Жбурляння молоту - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw - [|cffffcc00Level 2|r]",
+    "ukUA": "Жбурляння молоту - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw - [|cffffcc00Level 3|r]",
+    "ukUA": "Жбурляння молоту - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "A magical hammer that is thrown at an enemy unit, causing damage and stunning the target. |n|n|cffffcc00Level 1|r - <AKht,DataA1> damage, <AKht,Dur1> second stun. |n|cffffcc00Level 2|r - <AKht,DataA2> damage, <AKht,Dur2> second stun. |n|cffffcc00Level 3|r - <AKht,DataA3> damage, <AKht,Dur3> second stun.",
+    "ukUA": "Магічний молот, що жбурляэться у ворожу одиницю, завдаючи шкоди та приголомшуючи її. |n|n|cffffcc00Рівень 1|r - <AKht,DataA1> од. шкоди, приголомшення на <AKht,Dur1> сек. |n|cffffcc00Рівень 2|r - <AKht,DataA2> од. шкоди, приголомшення на <AKht,Dur2> сек. |n|cffffcc00Рівень 3|r - <AKht,DataA3> од. шкоди, приголомшення на <AKht,Dur3> сек."
+  },
+  "RoA_GLOBAL_HEROES_KAS_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA1> damage and stunning the target for <AKht,Dur1> seconds.",
+    "ukUA": "Жбурляє магічний молот у цільову ворожу одиницю, завдаючи <AKht,DataA1> од. шкоди та приголомшуючи ціль на <AKht,Dur1> сек."
+  },
+  "RoA_GLOBAL_HEROES_KAS_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA2> damage and stunning the target for <AKht,Dur2> seconds.",
+    "ukUA": "Жбурляє магічний молот у цільову ворожу одиницю, завдаючи <AKht,DataA2> од. шкоди та приголомшуючи ціль на <AKht,Dur2> сек."
+  },
+  "RoA_GLOBAL_HEROES_KAS_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA3> damage and stunning the target for <AKht,Dur3> seconds.",
+    "ukUA": "Жбурляє магічний молот у цільову ворожу одиницю, завдаючи <AKht,DataA3> од. шкоди та приголомшуючи ціль на <AKht,Dur3> сек."
+  },
+  "RoA_GLOBAL_HEROES_KAS_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB2> enemy units for <AKuW,DataA2> damage.",
+    "ukUA": "Викликає розряд блискавки на цільову ворожу одиницю, вражаючи до <AKuW,DataB2> ворожих одиниць на <AKuW,DataA2> од. шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KAS_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB3> enemy units for <AKuW,DataA3> damage.",
+    "ukUA": "Викликає розряд блискавки на цільову ворожу одиницю, вражаючи до <AKuW,DataB3> ворожих одиниць на <AKuW,DataA3> од. шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KAS_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB1> enemy units for <AKuW,DataA1> damage.",
+    "ukUA": "Викликає розряд блискавки на цільову ворожу одиницю, вражаючи до <AKuW,DataB1> ворожих одиниць на <AKuW,DataA1> од. шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KAS_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers",
+    "ukUA": "Сталеве пір'я"
+  },
+  "RoA_GLOBAL_HEROES_KAS_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Iron Feathers - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Сталеве пір'я - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers - [|cffffcc00Level 1|r]",
+    "ukUA": "Сталеве пір'я - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers - [|cffffcc00Level 2|r]",
+    "ukUA": "Сталеве пір'я - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers - [|cffffcc00Level 3|r]",
+    "ukUA": "Сталеве пір'я - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Skyree grows layers of sharp feather armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Level 1|r - <AUts,DataA1,%>% damage returned, <AUts,DataC1> bonus armor. |n|cffffcc00Level 2|r -  <AUts,DataA2,%>% damage returned, <AUts,DataC2> bonus armor. |n|cffffcc00Level 3|r -  <AUts,DataA3,%>% damage returned, <AUts,DataC3> bonus armor.",
+    "ukUA": "Скай'рі нарощує сталеве пір'я що посилює її захист і повертає шкоду ворожим бійцям ближнього бою. |n|n|cffffcc00Рівень 1|r - повертає <AUts,DataA1,%>% шкоди, <AUts,DataC1> бонусної броні. |n|cffffcc00Рівень 2|r - повертає <AUts,DataA2,%>% шкоди, <AUts,DataC2> бонусної броні. |n|cffffcc00Рівень 3|r - повертає <AUts,DataA3,%>% шкоди, <AUts,DataC3> бонусної броні."
+  },
+  "RoA_GLOBAL_HEROES_KHA_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Khadgar",
+    "ukUA": "Кадґар"
+  },
+  "RoA_GLOBAL_HEROES_KHA_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Khadgar",
+    "ukUA": "Кадґар"
+  },
+  "RoA_GLOBAL_HEROES_KHA_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Khadgar",
+    "ukUA": "Кадґар"
+  },
+  "RoA_GLOBAL_HEROES_KHA_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Archmage",
+    "ukUA": "Архімаг"
+  },
+  "RoA_GLOBAL_HEROES_KHA_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Archmage",
+    "ukUA": "Воскресити Архімага"
+  },
+  "RoA_GLOBAL_HEROES_KHA_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Archmage",
+    "ukUA": "Воскресити Архімага"
+  },
+  "RoA_GLOBAL_HEROES_KHA_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chain Lightning",
+    "ukUA": "Ланцюгова Блискавка"
+  },
+  "RoA_GLOBAL_HEROES_KHA_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB1> times, dealing <AKhc,DataA1> damage on the primary target. Each jump deals less damage.",
+    "ukUA": "Викликає розряд блискавки, що відскакує до <AKhc,DataB1> разів, завдаючи <AKhc,DataA1> шкоди основній цілі. Кожен відскок завдає менше шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KHA_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB2> times, dealing <AKhc,DataA2> damage on the primary target. Each jump deals less damage.",
+    "ukUA": "Викликає розряд блискавки, що відскакує до <AKhc,DataB2> разів, завдаючи <AKhc,DataA2> шкоди основній цілі. Кожен відскок завдає менше шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KHA_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB3> times, dealing <AKhc,DataA3> damage on the primary target. Each jump deals less damage.",
+    "ukUA": "Викликає розряд блискавки, що відскакує до <AKhc,DataB3> разів, завдаючи <AKhc,DataA3> шкоди основній цілі. Кожен відскок завдає менше шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KHA_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AKhc,DataA1> damage, jumps <AKhc,DataB1> times. |n|cffffcc00Level 2|r - <AKhc,DataA2> damage, jumps <AKhc,DataB2> times. |n|cffffcc00Level 3|r - <AKhc,DataA3> damage, jumps <AKhc,DataB3> times.",
+    "ukUA": "Кидає розряд блискавки у ворожу ціль, що переходить на сусідніх ворогів. Кожен перехід завдає менше шкоди. |n|n|cffffcc00Рівень 1|r - <AKhc,DataA1> шкоди, відскакує <AKhc,DataB1> разів. |n|cffffcc00Рівень 2|r - <AKhc,DataA2> шкоди, відскакує <AKhc,DataB2> разів. |n|cffffcc00Рівень 3|r - <AKhc,DataA3> шкоди, відскакує <AKhc,DataB3> разів."
+  },
+  "RoA_GLOBAL_HEROES_KHA_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage.",
+    "ukUA": "Кидає розряд блискавки, що відскакує до <A642:ACcl,DataB2> разів, завдаючи <A642:ACcl,DataA2> шкоди основній цілі. Кожен відскок завдає менше шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KHA_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB1> times, dealing <A642:ACcl,DataA1> damage to the primary target.",
+    "ukUA": "Кидає розряд блискавки, що відскакує до <A642:ACcl,DataB1> разів, завдаючи <A642:ACcl,DataA1> шкоди основній цілі."
+  },
+  "RoA_GLOBAL_HEROES_KHA_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage.",
+    "ukUA": "Кидає розряд блискавки, що відскакує до <A642:ACcl,DataB2> разів, завдаючи <A642:ACcl,DataA2> шкоди основній цілі. Кожен відскок завдає менше шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KHA_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "ukUA": "Вогняний Розряд"
+  },
+  "RoA_GLOBAL_HEROES_KHA_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "ukUA": "Вогняний Розряд"
+  },
+  "RoA_GLOBAL_HEROES_KHA_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "ukUA": "Вогняний Розряд"
+  },
+  "RoA_GLOBAL_HEROES_KHA_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fire Bolt - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Вогняний Розряд - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 1|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 2|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 3|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit was hit by a Fire Bolt, and is taking damage over time.",
+    "ukUA": "Цей юніт уражений Вогняним Розрядом і отримує шкоду з часом."
+  },
+  "RoA_GLOBAL_HEROES_KHA_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit when hit.|nThe firebolt explodes with pillar of fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - initial <AKfB,DataD1> max damage and stun for <AKfB,Dur1> seconds, with later 45 damage per second for 3 seconds, followed by minor damage for 6 seconds. |n|cffffcc00Level 2|r -  initial <AKfB,DataD2> max damage and stun for <AKfB,Dur2> seconds, with later 80 damage a second for 3 seconds, followed by light damage for 6 seconds. |n|cffffcc00Level 3|r -  initial <AKfB,DataD3> max damage and stun for <AKfB,Dur3> seconds, with later 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds.",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожу ціль при влучанні.|nРозряд вибухає стовпом полум'я, який завдає шкоди наземним юнітам в області з часом. |n|n|cffffcc00Рівень 1|r - початкова шкода до <AKfB,DataD1> та оглушення на <AKfB,Dur1> секунд, потім 45 шкоди за секунду протягом 3 секунд, далі незначна шкода протягом 6 секунд. |n|cffffcc00Рівень 2|r - початкова шкода до <AKfB,DataD2> та оглушення на <AKfB,Dur2> секунд, потім 80 шкоди за секунду протягом 3 секунд, далі легка шкода протягом 6 секунд. |n|cffffcc00Рівень 3|r - початкова шкода до <AKfB,DataD3> та оглушення на <AKfB,Dur3> секунд, потім 110 шкоди за секунду протягом 3 секунд, далі помірна шкода протягом 6 секунд."
+  },
+  "RoA_GLOBAL_HEROES_KHA_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Illusions",
+    "ukUA": "Ілюзії"
+  },
+  "RoA_GLOBAL_HEROES_KHA_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Illusions - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Ілюзії - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Illusions - [|cffffcc00Level 1|r]",
+    "ukUA": "Ілюзії - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Illusions - [|cffffcc00Level 2|r]",
+    "ukUA": "Ілюзії - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Illusions - [|cffffcc00Level 3|r]",
+    "ukUA": "Ілюзії - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit.  |n|n|cffffcc00Level 1|r - <AKhi,DataA1>% damage to enemy, <AKhi,DataB1> damage taken. |n|cffffcc00Level 2|r -  <AKhi,DataA2>% damage to enemy, <AKhi,DataB2> damage taken. |n|cffffcc00Level 3|r -  <AKhi,DataA3>% damage to enemy, <AKhi,DataB3> damage taken.",
+    "ukUA": "Створює ілюзорну копію цільового юніта. |n|n|cffffcc00Рівень 1|r - <AKhi,DataA1>% шкоди ворогу, отримує <AKhi,DataB1> шкоди. |n|cffffcc00Рівень 2|r - <AKhi,DataA2>% шкоди ворогу, отримує <AKhi,DataB2> шкоди. |n|cffffcc00Рівень 3|r - <AKhi,DataA3>% шкоди ворогу, отримує <AKhi,DataB3> шкоди."
+  },
+  "RoA_GLOBAL_HEROES_KHA_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA1>% damage to enemy units, takes <AKhi,DataB1> times the damage from enemy attacks, and will disappear after <AKhi,Dur1> seconds or when its hit points reach zero.",
+    "ukUA": "Створює ілюзорну копію цільового юніта. Ілюзорна копія завдає <AKhi,DataA1>% шкоди ворожим юнітам, отримує шкоду від ворожих атак у <AKhi,DataB1> разів більше, та зникає через <AKhi,Dur1> секунд або коли її здоров'я досягає нуля."
+  },
+  "RoA_GLOBAL_HEROES_KHA_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA2>% damage to enemy units, takes <AKhi,DataB2> times the damage from enemy attacks, and will disappear after <AKhi,Dur2> seconds or when its hit points reach zero.",
+    "ukUA": "Створює ілюзорну копію цільового юніта. Ілюзорна копія завдає <AKhi,DataA2>% шкоди ворожим юнітам, отримує шкоду від ворожих атак у <AKhi,DataB2> разів більше, та зникає через <AKhi,Dur2> секунд або коли її здоров'я досягає нуля."
+  },
+  "RoA_GLOBAL_HEROES_KHA_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA3>% damage to enemy units, takes <AKhi,DataB3> times the damage from enemy attacks, and will disappear after <AKhi,Dur3> seconds or when its hit points reach zero.",
+    "ukUA": "Створює ілюзорну копію цільового юніта. Ілюзорна копія завдає <AKhi,DataA3>% шкоди ворожим юнітам, отримує шкоду від ворожих атак у <AKhi,DataB3> разів більше, та зникає через <AKhi,Dur3> секунд або коли її здоров'я досягає нуля."
+  },
+  "RoA_GLOBAL_HEROES_KHA_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arcane Storm",
+    "ukUA": "Потаємна Буря"
+  },
+  "RoA_GLOBAL_HEROES_KHA_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arcane Storm",
+    "ukUA": "Потаємна Буря"
+  },
+  "RoA_GLOBAL_HEROES_KHA_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arcane Storm",
+    "ukUA": "Потаємна Буря"
+  },
+  "RoA_GLOBAL_HEROES_KHA_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is being damaged by Arcane Storm.",
+    "ukUA": "Цей юніт отримує шкоду від Потаємної Бурі."
+  },
+  "RoA_GLOBAL_HEROES_KHA_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down waves of arcane shards that damage units in a target area. |n|n|cffffcc00Waves|r - <AKaS,DataA1>. |n|cffffcc00Damage|r - <AKaS,DataB1>  each.",
+    "ukUA": "Викликає хвилі потаємних уламків, що завдають шкоди юнітам в цільовій області. |n|n|cffffcc00Хвиль|r - <AKaS,DataA1>. |n|cffffcc00Шкода|r - <AKaS,DataB1> кожна."
+  },
+  "RoA_GLOBAL_HEROES_KHA_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <AKaS,DataA1> arcane shard waves; each wave deals <AKaS,DataB1> damage to units in an area.",
+    "ukUA": "Викликає <AKaS,DataA1> хвиль потаємних уламків; кожна хвиля завдає <AKaS,DataB1> шкоди юнітам в області."
+  },
+  "RoA_GLOBAL_HEROES_MTS_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "ukUA": "Мілан Ліпописець"
+  },
+  "RoA_GLOBAL_HEROES_MTS_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "ukUA": "Мілан Ліпописець"
+  },
+  "RoA_GLOBAL_HEROES_MTS_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Chronicler",
+    "ukUA": "Воскресити Літописця"
+  },
+  "RoA_GLOBAL_HEROES_MTS_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Chronicler",
+    "ukUA": "Воскресити Літописця"
+  },
+  "RoA_GLOBAL_HEROES_MTS_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor",
+    "ukUA": "Схоласт,Слуга,Зброєносець,Літописець,Капрал,Сержант,Лейтенант,Капітан,Командир,Майор,Полковник,Маршал,Фельдмаршал,Сенешаль,Королівський Радник"
+  },
+  "RoA_GLOBAL_HEROES_MTS_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor",
+    "ukUA": "Схоласт,Слуга,Зброєносець,Літописець,Капрал,Сержант,Лейтенант,Капітан,Командир,Майор,Полковник,Маршал,Фельдмаршал,Сенешаль,Королівський Радник"
+  },
+  "RoA_GLOBAL_HEROES_MTS_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "ukUA": "Тренування Мілана"
+  },
+  "RoA_GLOBAL_HEROES_MTS_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "ukUA": "Вогняний Розряд"
+  },
+  "RoA_GLOBAL_HEROES_MTS_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy land unit for <AFBM,Dur1> seconds and deals <AFBM,DataA1> damage.  |n|n|cffffcc00Can target land units.|r",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожий наземний юніт на <AFBM,Dur1> секунд та завдає <AFBM,DataA1> шкоди. |n|n|cffffcc00Може цілитись у наземних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy land or mechanical unit for <AFBM,Dur2> seconds and deals <AFBM,DataA2> damage. |n|n|cffffcc00Can target land and mechanical units.|r",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожий наземний або механічний юніт на <AFBM,Dur2> секунд та завдає <AFBM,DataA2> шкоди. |n|n|cffffcc00Може цілитись у наземних та механічних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy land, mechanical or air unit  for <AFBM,Dur3> seconds and deals <AFBM,DataA3> damage.  |n|n|cffffcc00Can target land, mechanical and air units.|r",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожий наземний, механічний або повітряний юніт на <AFBM,Dur3> секунд та завдає <AFBM,DataA3> шкоди. |n|n|cffffcc00Може цілитись у наземних, механічних та повітряних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit or building for <AFBM,Dur4> seconds and deals <AFBM,DataA4> damage. |n|n|cffffcc00Can target land, mechanical, air units and buildings.|r",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожий юніт або будівлю на <AFBM,Dur4> секунд та завдає <AFBM,DataA4> шкоди. |n|n|cffffcc00Може цілитись у наземних, механічних, повітряних юнітів та будівлі.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur1> seconds and deals up to initial <AKfB,DataD1>  damage.The firebolt explodes with a pillar of flame that burns ground units for 45 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take minor damage.",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожий юніт на <AKfB,Dur1> секунд та завдає до <AKfB,DataD1> початкової шкоди. Розряд вибухає стовпом полум'я, що завдає наземним юнітам 45 шкоди за секунду протягом 3 секунд. Коли стовп полум'я згасає, юніти в ньому продовжують отримувати незначну шкоду."
+  },
+  "RoA_GLOBAL_HEROES_MTS_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur2> seconds and deals up to initial <AKfB,DataD2>  damage.|nThe firebolt explodes with a pillar of flame that burns ground units for 80 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take light damage.",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожий юніт на <AKfB,Dur2> секунд та завдає до <AKfB,DataD2> початкової шкоди.|nРозряд вибухає стовпом полум'я, що завдає наземним юнітам 80 шкоди за секунду протягом 3 секунд. Коли стовп полум'я згасає, юніти в ньому продовжують отримувати легку шкоду."
+  },
+  "RoA_GLOBAL_HEROES_MTS_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur3> seconds and deals up to initial <AKfB,DataD3>  damage.|nThe firebolt explodes with a pillar of flame that burns ground units for 110 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage.",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожий юніт на <AKfB,Dur3> секунд та завдає до <AKfB,DataD3> початкової шкоди.|nРозряд вибухає стовпом полум'я, що завдає наземним юнітам 110 шкоди за секунду протягом 3 секунд. Коли стовп полум'я згасає, юніти в ньому продовжують отримувати помірну шкоду."
+  },
+  "RoA_GLOBAL_HEROES_MTS_039": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit when hit.|nThe firebolt explodes with pillar of fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - initial <AKfB,DataD1> max damage and stun for <AKfB,Dur1> seconds, with later 45 damage per second for 3 seconds, followed by minor damage for 6 seconds. |n|cffffcc00Level 2|r -  initial <AKfB,DataD2> max damage and stun for <AKfB,Dur2> seconds, with later 80 damage a second for 3 seconds, followed by light damage for 6 seconds. |n|cffffcc00Level 3|r -  initial <AKfB,DataD3> max damage and stun for <AKfB,Dur3> seconds, with later 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds.",
+    "ukUA": "Кидає вогняний розряд, що оглушує ворожу ціль при влучанні.|nРозряд вибухає стовпом полум'я, який завдає шкоди наземним юнітам в області з часом. |n|n|cffffcc00Рівень 1|r - початкова шкода до <AKfB,DataD1> та оглушення на <AKfB,Dur1> секунд, потім 45 шкоди за секунду протягом 3 секунд, далі незначна шкода протягом 6 секунд. |n|cffffcc00Рівень 2|r - початкова шкода до <AKfB,DataD2> та оглушення на <AKfB,Dur2> секунд, потім 80 шкоди за секунду протягом 3 секунд, далі легка шкода протягом 6 секунд. |n|cffffcc00Рівень 3|r - початкова шкода до <AKfB,DataD3> та оглушення на <AKfB,Dur3> секунд, потім 110 шкоди за секунду протягом 3 секунд, далі помірна шкода протягом 6 секунд."
+  },
+  "RoA_GLOBAL_HEROES_MTS_040": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fire Bolt - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Вогняний Розряд - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_041": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 1|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_042": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 2|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_043": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 3|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_044": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 1|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_045": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 2|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_046": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 3|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_047": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 4|r]",
+    "ukUA": "Вогняний Розряд - [|cffffcc00Рівень 4|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_048": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread",
+    "ukUA": "Ельфійський Хліб"
+  },
+  "RoA_GLOBAL_HEROES_MTS_049": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 1|r]",
+    "ukUA": "Ельфійський Хліб - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_050": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 2|r]",
+    "ukUA": "Ельфійський Хліб - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_051": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 3|r]",
+    "ukUA": "Ельфійський Хліб - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_052": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 4|r]",
+    "ukUA": "Ельфійський Хліб - [|cffffcc00Рівень 4|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_053": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA1> hit points.",
+    "ukUA": "Мілан з'їдає ельфійський хліб і зцілює себе на <AMeb,DataA1> здоров'я."
+  },
+  "RoA_GLOBAL_HEROES_MTS_054": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA2> hit points.",
+    "ukUA": "Мілан з'їдає ельфійський хліб і зцілює себе на <AMeb,DataA2> здоров'я."
+  },
+  "RoA_GLOBAL_HEROES_MTS_055": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA3> hit points.",
+    "ukUA": "Мілан з'їдає ельфійський хліб і зцілює себе на <AMeb,DataA3> здоров'я."
+  },
+  "RoA_GLOBAL_HEROES_MTS_056": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA4> hit points.",
+    "ukUA": "Мілан з'їдає ельфійський хліб і зцілює себе на <AMeb,DataA4> здоров'я."
+  },
+  "RoA_GLOBAL_HEROES_MTS_057": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 1|r]",
+    "ukUA": "Тенета - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_058": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 2|r]",
+    "ukUA": "Тенета - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_059": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 3|r]",
+    "ukUA": "Тенета - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_060": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 4|r]",
+    "ukUA": "Тенета - [|cffffcc00Рівень 4|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_061": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur2> seconds.",
+    "ukUA": "Прив'язує цільовий юніт до землі, унеможливлюючи рух. Заплутані повітряні юніти можна атакувати як наземні. |nТриває <AEMi,Dur2> секунд."
+  },
+  "RoA_GLOBAL_HEROES_MTS_062": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur3> seconds.",
+    "ukUA": "Прив'язує цільовий юніт до землі, унеможливлюючи рух. Заплутані повітряні юніти можна атакувати як наземні. |nТриває <AEMi,Dur3> секунд."
+  },
+  "RoA_GLOBAL_HEROES_MTS_063": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur4> seconds. |n|n|cffffcc00Can also target heroes.|r",
+    "ukUA": "Прив'язує цільовий юніт до землі, унеможливлюючи рух. Заплутані повітряні юніти можна атакувати як наземні. |nТриває <AEMi,Dur4> секунд. |n|n|cffffcc00Може також цілитись у героїв.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_064": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Blood of the Highborn",
+    "ukUA": "Кров Високородних"
+  },
+  "RoA_GLOBAL_HEROES_MTS_065": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Blood of the Highborn",
+    "ukUA": "Кров Високородних"
+  },
+  "RoA_GLOBAL_HEROES_MTS_066": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pick Sword",
+    "ukUA": "Взяти Меч"
+  },
+  "RoA_GLOBAL_HEROES_MTS_067": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan Equips his Sword and becomes melee attacker. |n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Мілан бере свій Меч і стає бійцем ближнього бою. |n|n|cffffcc00Атакує наземних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_068": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pick Bow",
+    "ukUA": "Взяти Лук"
+  },
+  "RoA_GLOBAL_HEROES_MTS_069": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan Equips his bow and becomes ranged attacker. |n|n|cffffcc00Attacks land and air units.|r",
+    "ukUA": "Мілан бере свій лук і стає стрільцем дальнього бою. |n|n|cffffcc00Атакує наземних та повітряних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retera",
+    "ukUA": "Ретера"
+  },
+  "RoA_GLOBAL_HEROES_RET_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Professor",
+    "ukUA": "Професор"
+  },
+  "RoA_GLOBAL_HEROES_RET_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Professor",
+    "ukUA": "Воскресити Професора"
+  },
+  "RoA_GLOBAL_HEROES_RET_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Professor",
+    "ukUA": "Воскресити Професора"
+  },
+  "RoA_GLOBAL_HEROES_RET_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling",
+    "ukUA": "Вівцепад"
+  },
+  "RoA_GLOBAL_HEROES_RET_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Bamboozling - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Вівцепад- [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling - [|cffffcc00Level 1|r]",
+    "ukUA": "Вівцепад - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling - [|cffffcc00Level 2|r]",
+    "ukUA": "Вівцепад - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling - [|cffffcc00Level 3|r]",
+    "ukUA": "Вівцепад - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down waves of falling sheeps that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each.",
+    "ukUA": "Викликає хвилі падаючих овець, що завдають шкоди одиницям в цільовій області. |n|n|cffffcc00Рівень 1|r - <AHbz,DataA1> хвиль по <AHbz,DataB1> шкоди кожна. |n|cffffcc00Рівень 2|r - <AHbz,DataA2> хвиль по <AHbz,DataB2> шкоди кожна. |n|cffffcc00Рівень 3|r - <AHbz,DataA3> хвиль по <AHbz,DataB3> шкоди кожна."
+  },
+  "RoA_GLOBAL_HEROES_RET_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <ARBQ,DataA1> falling sheep waves; each wave deals <ARBQ,DataB1> damage to units in an area.",
+    "ukUA": "Викликає <ARBQ,DataA1> хвиль падаючих овець; кожна хвиля завдає <ARBQ,DataB1> шкоди юнітам в області."
+  },
+  "RoA_GLOBAL_HEROES_RET_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <ARBQ,DataA2> falling sheep waves; each wave deals <ARBQ,DataB2> damage to units in an area.",
+    "ukUA": "Викликає <ARBQ,DataA2> хвиль падаючих овець; кожна хвиля завдає <ARBQ,DataB2> шкоди юнітам в області."
+  },
+  "RoA_GLOBAL_HEROES_RET_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <ARBQ,DataA3> falling sheep waves; each wave deals <ARBQ,DataB3> damage to units in an area.",
+    "ukUA": "Викликає <ARBQ,DataA3> хвиль падаючих овець; кожна хвиля завдає <ARBQ,DataB3> шкоди юнітам в області."
+  },
+  "RoA_GLOBAL_HEROES_RET_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram",
+    "ukUA": "Прикликати Барана"
+  },
+  "RoA_GLOBAL_HEROES_RET_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Summon Ram - [|cffffcc00Level %d|r].",
+    "ukUA": "Вивчити Прикликати Барана - [|cffffcc00Рівень %d|r]."
+  },
+  "RoA_GLOBAL_HEROES_RET_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB1> Rams to fight the Professor's enemies. |nLasts <AOsf,Dur1> seconds. |n|n|cffffcc00Level 1|r - <osw1,realHP> hit points, <osw1,mindmg1> - <osw1,maxdmg1> damage. |n|cffffcc00Level 2|r - <osw2,realHP> hit points, <osw2,mindmg1> - <osw2,maxdmg1> damage and Critical Strike. |n|cffffcc00Level 3|r - <osw3,realHP> hit points, <osw3,mindmg1> - <osw3,maxdmg1> damage, Critical Strike and Devour.",
+    "ukUA": "Прикликає <AOsf,DataB1> Баранів на допомогу проти ворогів Професора. |nТриває <AOsf,Dur1> секунд. |n|n|cffffcc00Рівень 1|r - <osw1,realHP> здоров'я, <osw1,mindmg1> - <osw1,maxdmg1> шкоди. |n|cffffcc00Рівень 2|r - <osw2,realHP> здоров'я, <osw2,mindmg1> - <osw2,maxdmg1> шкоди та Критичний Удар. |n|cffffcc00Рівень 3|r - <osw3,realHP> здоров'я, <osw3,mindmg1> - <osw3,maxdmg1> шкоди, Критичний Удар та Поглинання."
+  },
+  "RoA_GLOBAL_HEROES_RET_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram - [|cffffcc00Level 1|r]",
+    "ukUA": "Прикликати Барана - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram - [|cffffcc00Level 2|r]",
+    "ukUA": "Прикликати Барана - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram - [|cffffcc00Level 3|r]",
+    "ukUA": "Прикликати Барана - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB1> Ram companions. Each ram has <hSH1,realHP> hit points and deals <hSH1,mindmg1> - <hSH1,maxdmg1> damage. |nLasts <AOsf,Dur1> seconds. |n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Прикликає <AOsf,DataB1> Баранів-компаньйонів. Кожен баран має <hSH1,realHP> здоров'я та завдає <hSH1,mindmg1> - <hSH1,maxdmg1> шкоди. |nТриває <AOsf,Dur1> секунд. |n|n|cffffcc00Атакує наземних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB2> Ram companions that have Critical Strike. Each ram has <hSH2,realHP> hit points and deals <hSH2,mindmg1> - <hSH2,maxdmg1> damage. |nLasts <AOsf,Dur2> seconds. |n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Прикликає <AOsf,DataB2> Баранів-компаньйонів з Критичним Ударом. Кожен баран має <hSH2,realHP> здоров'я та завдає <hSH2,mindmg1> - <hSH2,maxdmg1> шкоди. |nТриває <AOsf,Dur2> секунд. |n|n|cffffcc00Атакує наземних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB3> Ram companions that have Critical Strike and Devour. Each ram has <hSH3,realHP> hit points and deals <hSH3,mindmg1> - <hSH3,maxdmg1> damage. |nLasts <AOsf,Dur3> seconds. |n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Прикликає <AOsf,DataB3> Баранів-компаньйонів з Критичним Ударом та Поглинанням. Кожен баран має <hSH3,realHP> здоров'я та завдає <hSH3,mindmg1> - <hSH3,maxdmg1> шкоди. |nТриває <AOsf,Dur3> секунд. |n|n|cffffcc00Атакує наземних юнітів.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation",
+    "ukUA": "Тріангуляція"
+  },
+  "RoA_GLOBAL_HEROES_RET_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation",
+    "ukUA": "Тріангуляція"
+  },
+  "RoA_GLOBAL_HEROES_RET_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation",
+    "ukUA": "Тріангуляція"
+  },
+  "RoA_GLOBAL_HEROES_RET_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Triangulation - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Тріангуляцію - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation - [|cffffcc00Level 1|r]",
+    "ukUA": "Тріангуляція - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation - [|cffffcc00Level 2|r]",
+    "ukUA": "Тріангуляція - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation - [|cffffcc00Level 3|r]",
+    "ukUA": "Тріангуляція - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn.  |n|n|cffffcc00Level 1|r - Lasts <ARUL,HeroDur1> seconds. |n|cffffcc00Level 2|r - Lasts <ARUL,HeroDur2> seconds. |n|cffffcc00Level 3|r - Lasts <ARUL,HeroDur3> seconds.",
+    "ukUA": "Розділяє Професора на 3 спеціалізованих воїнів. Якщо хоч один з них проживе до кінця свого таймеру, Професор відроджується. |n|n|cffffcc00Рівень 1|r - Триває <ARUL,HeroDur1> секунд. |n|cffffcc00Рівень 2|r - Триває <ARUL,HeroDur2> секунд. |n|cffffcc00Рівень 3|r - Триває <ARUL,HeroDur3> секунд."
+  },
+  "RoA_GLOBAL_HEROES_RET_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur1> seconds.",
+    "ukUA": "Розділяє Професора на 3 спеціалізованих воїнів. Якщо хоч один з них проживе до кінця свого таймеру, Професор відроджується. |nТриває <ARUL,HeroDur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_RET_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur2> seconds.",
+    "ukUA": "Розділяє Професора на 3 спеціалізованих воїнів. Якщо хоч один з них проживе до кінця свого таймеру, Професор відроджується. |nТриває <ARUL,HeroDur2> секунд."
+  },
+  "RoA_GLOBAL_HEROES_RET_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur3> seconds.",
+    "ukUA": "Розділяє Професора на 3 спеціалізованих воїнів. Якщо хоч один з них проживе до кінця свого таймеру, Професор відроджується. |nТриває <ARUL,HeroDur3> секунд."
+  },
+  "RoA_GLOBAL_HEROES_RET_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Permanent Polymorph",
+    "ukUA": "Постійне перетворення"
+  },
+  "RoA_GLOBAL_HEROES_RET_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Permanent Polymorph",
+    "ukUA": "Постійне перетворення"
+  },
+  "RoA_GLOBAL_HEROES_RET_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Permanent Polymorph",
+    "ukUA": "Вивчити Постійне перетворення"
+  },
+  "RoA_GLOBAL_HEROES_RET_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes.",
+    "ukUA": "Перетворює ворожу одиницю на вівцю назавжди. |nНе можна накласти на Героїв."
+  },
+  "RoA_GLOBAL_HEROES_RET_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes.",
+    "ukUA": "Перетворює ворожу одиницю на вівцю назавжди. |nНе можна накласти на Героїв."
+  },
+  "RoA_GLOBAL_HEROES_TME_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Terenas Menethil II",
+    "ukUA": "Теренас Менетіл II"
+  },
+  "RoA_GLOBAL_HEROES_TME_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "ukUA": "Монарх"
+  },
+  "RoA_GLOBAL_HEROES_TME_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "ukUA": "Монарх"
+  },
+  "RoA_GLOBAL_HEROES_TME_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "ukUA": "Монарх"
+  },
+  "RoA_GLOBAL_HEROES_TME_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Royal Aura",
+    "ukUA": "Королівська аура"
+  },
+  "RoA_GLOBAL_HEROES_TME_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Royal Aura",
+    "ukUA": "Королівська аура"
+  },
+  "RoA_GLOBAL_HEROES_TME_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is under the effects of Royal Aura; it has an increased movement speed and attack rate.",
+    "ukUA": "Ця одиниця перебуває під дією Королівської аури: її швидкість руху та швидкість атаки збільшено."
+  },
+  "RoA_GLOBAL_HEROES_TME_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <ATra,DataA1,%>% and attack rate by <ATra,DataB1,%>%.",
+    "ukUA": "Збільшує швидкість руху союзних одиниць поруч на <ATra,DataA1,%>% і швидкість атаки на <ATra,DataB1,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <ATra,DataA2,%>% and attack rate by <ATra,DataB2,%>%.",
+    "ukUA": "Збільшує швидкість руху союзних одиниць поруч на <ATra,DataA2,%>% і швидкість атаки на <ATra,DataB2,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <ATra,DataA3,%>% and attack rate by <ATra,DataB3,%>%.",
+    "ukUA": "Збільшує швидкість руху союзних одиниць поруч на <ATra,DataA3,%>% і швидкість атаки на <ATra,DataB3,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <A00N,DataA1,%>% and attack rate by <A00N,DataB1,%>%.",
+    "ukUA": "Збільшує швидкість руху союзних одиниць поруч на <A00N,DataA1,%>% і швидкість атаки на <A00N,DataB1,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <A00N,DataA2,%>% and attack rate by <A00N,DataB2,%>%.",
+    "ukUA": "Збільшує швидкість руху союзних одиниць поруч на <A00N,DataA2,%>% і швидкість атаки на <A00N,DataB2,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <A00N,DataA3,%>% and attack rate by <A00N,DataB3,%>%.",
+    "ukUA": "Збільшує швидкість руху союзних одиниць поруч на <A00N,DataA3,%>% і швидкість атаки на <A00N,DataB3,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TUR_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon",
+    "ukUA": "Тураліон"
+  },
+  "RoA_GLOBAL_HEROES_TUR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon",
+    "ukUA": "Тураліон"
+  },
+  "RoA_GLOBAL_HEROES_TUR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Paladin of Protection",
+    "ukUA": "Паладин Захисту"
+  },
+  "RoA_GLOBAL_HEROES_TUR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Paladin of Protection",
+    "ukUA": "Паладин Захисту"
+  },
+  "RoA_GLOBAL_HEROES_TUR_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration",
+    "ukUA": "Освячення"
+  },
+  "RoA_GLOBAL_HEROES_TUR_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration",
+    "ukUA": "Освячення"
+  },
+  "RoA_GLOBAL_HEROES_TUR_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration",
+    "ukUA": "Освячення"
+  },
+  "RoA_GLOBAL_HEROES_TUR_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - 45 damage a second for 3 seconds, followed by minor damage for 6 seconds. Also allies are healed by <ATcH,DataA1,%>%  per second. |n|cffffcc00Level 2|r - 80 damage a second for 3 seconds, followed by light damage for 6 seconds. Also allies are healed by <ATcH,DataA2,%>%  per second. |n|cffffcc00Level 3|r - 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds. Also allies are healed by <ATcH,DataA3,%>%  per second.",
+    "ukUA": "Створює стовп священного вогню, який завдає шкоди наземним одиницям у вказаній ділянці з часом. |n|n|cffffcc00Рівень 1|r - 45 од. шкоди за сек. протягом 3 сек., після чого незначна шкода протягом 6 сек. Також союзники зцілюються на <ATcH,DataA1,%>% за сек. |n|cffffcc00Рівень 2|r - 80 од. шкоди за сек. протягом 3 сек., після чого легка шкода протягом 6 сек. Також союзники зцілюються на <ATcH,DataA2,%>% за сек. |n|cffffcc00Рівень 3|r - 110 од. шкоди за сек. протягом 3 сек., після чого помірна шкода протягом 6 сек. Також союзники зцілюються на <ATcH,DataA3,%>% за сек."
+  },
+  "RoA_GLOBAL_HEROES_TUR_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire that burns ground units for 45 damage a second for 3 seconds. As the pillar of flame subsides, enemy units within the fire continue to take minor damage, while non-mechanical allies are healed by <ATcH,DataA1,%>%  per second.",
+    "ukUA": "Створює стовп священного вогню, що спалює наземні одиниці, завдаючи 45 од. шкоди протягом 3 сек. Коли стовп полум'я вщухає, ворожі одиниці в його межах продовжують отримувати незначну шкоду, а немеханічні союзники зцілюються на <ATcH,DataA1,%>% за сек."
+  },
+  "RoA_GLOBAL_HEROES_TUR_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire  that burns ground units for 80 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take light damage, while non-mechanical allies are healed by <ATcH,DataA2,%>%  per second.",
+    "ukUA": "Створює стовп священного вогню, що спалює наземні одиниці, завдаючи 80 од. шкоди протягом 3 сек. Коли стовп полум'я вщухає, одиниці в його межах продовжують отримувати легку шкоду, а немеханічні союзники зцілюються на <ATcH,DataA2,%>% за сек."
+  },
+  "RoA_GLOBAL_HEROES_TUR_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire that burns ground units for 110 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage, while non-mechanical allies are healed by <ATcH,DataA3,%>%  per second.",
+    "ukUA": "Створює стовп священного вогню, що спалює наземні одиниці, завдаючи 110 од. шкоди протягом 3 сек. Коли стовп полум'я вщухає, одиниці в його межах продовжують отримувати помірну шкоду, а немеханічні союзники зцілюються на <ATcH,DataA3,%>% за сек."
+  },
+  "RoA_GLOBAL_HEROES_TUR_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Consecration - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Освячення - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration - [|cffffcc00Level 1|r]",
+    "ukUA": "Освячення - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration - [|cffffcc00Level 2|r]",
+    "ukUA": "Освячення - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration - [|cffffcc00Level 3|r]",
+    "ukUA": "Освячення - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike",
+    "ukUA": "Удар Хрестоносця"
+  },
+  "RoA_GLOBAL_HEROES_TUR_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike",
+    "ukUA": "Удар Хрестоносця"
+  },
+  "RoA_GLOBAL_HEROES_TUR_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Crusader Strike - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Удар Хрестоносця - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike - [|cffffcc00Level 1|r]",
+    "ukUA": "Удар Хрестоносця - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike - [|cffffcc00Level 2|r]",
+    "ukUA": "Удар Хрестоносця - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike - [|cffffcc00Level 3|r]",
+    "ukUA": "Удар Хрестоносця - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is afflicted by Crusader Strike. It cannot cast spells, attacks for less damage, and will take damage over time.",
+    "ukUA": "Цю одиницю уражено Ударом Хрестоносця. Одиниця не може накладати заклинання, завдає менше шкоди та періодично отримує шкоду."
+  },
+  "RoA_GLOBAL_HEROES_TUR_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause damage over time, prevent the casting of spells, and reduce attack damage by <APEM,DataC1,%>%.|n|n|cffffcc00Level 1|r - 100 damage over <APEM,Dur1> seconds.|n|cffffcc00Level 2|r - 225 damage over <APEM,Dur2> seconds.|n|cffffcc00Level 3|r - 375 damage over <APEM,Dur3> seconds.|n|nLasts roughly half as long on Heroes.",
+    "ukUA": "Огортає ворожого юніта священним полум'ям, яке завдає шкоди з часом, забороняє накладання заклинань і зменшує шкоду від атак на <APEM,DataC1,%>%.|n|n|cffffcc00Рівень 1|r - 100 шкоди за <APEM,Dur1> секунд.|n|cffffcc00Рівень 2|r - 225 шкоди за <APEM,Dur2> секунд.|n|cffffcc00Рівень 3|r - 375 шкоди за <APEM,Dur3> секунд.|n|nТриває приблизно вдвічі коротше на героях."
+  },
+  "RoA_GLOBAL_HEROES_TUR_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause <APEM,DataA1> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC1,%>%.|nLasts <APEM,Dur1> seconds.",
+    "ukUA": "Огортає ворожу одиницю священним полум'ям, яке завдає <APEM,DataA1> од. шкоди за секунду, забороняє накладання заклинань і зменшує шкоду від атак на <APEM,DataC1,%>%.|nТриває <APEM,Dur1> сек."
+  },
+  "RoA_GLOBAL_HEROES_TUR_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause <APEM,DataA2> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC2,%>%.|nLasts <APEM,Dur2> seconds.",
+    "ukUA": "Огортає ворожу одиницю священним полум'ям, яке завдає <APEM,DataA2> шкоди за сек., забороняє накладання заклинань і зменшує шкоду від атак на <APEM,DataC2,%>%.|nТриває <APEM,Dur2> сек."
+  },
+  "RoA_GLOBAL_HEROES_TUR_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause <APEM,DataA3> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC3,%>%.|nLasts <APEM,Dur3> seconds.",
+    "ukUA": "Огортає ворожого юніта священним полум'ям, яке завдає <APEM,DataA3> шкоди за секунду, забороняє накладання заклинань і зменшує шкоду від атак на <APEM,DataC3,%>%.|nТриває <APEM,Dur3> секунд."
+  },
+  "RoA_GLOBAL_HEROES_TUR_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield of the Righteous",
+    "ukUA": "Щит Праведника"
+  },
+  "RoA_GLOBAL_HEROES_TUR_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield of the Righteous",
+    "ukUA": "Щит Праведника"
+  },
+  "RoA_GLOBAL_HEROES_TUR_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield of the Righteous",
+    "ukUA": "Щит Праведника"
+  },
+  "RoA_GLOBAL_HEROES_TUR_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Shield of the Righteous - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Щит Праведника - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon lifted his Shield; it is temporarily protected from physical damage and negative spells.",
+    "ukUA": "Тураліон підняв свій Щит; він тимчасово захищений від фізичної шкоди та негативних заклинань."
+  },
+  "RoA_GLOBAL_HEROES_TUR_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lift Shield of the Righteous - [|cffffcc00Level 1|r]",
+    "ukUA": "Підняти Щит Праведника - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lift Shield of the Righteous - [|cffffcc00Level 2|r]",
+    "ukUA": "Підняти Щит Праведника - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lift Shield of the Righteous - [|cffffcc00Level 3|r]",
+    "ukUA": "Підняти Щит Праведника - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon lifts his shield that absorbs all damage by consuming his mana. |n|n|cffffcc00Level 1|r - <ATsR,DataA1> damage per point of mana. |n|cffffcc00Level 2|r - <ATsR,DataA2> damage per point of mana. |n|cffffcc00Level 3|r - <ATsR,DataA3> damage per point of mana.",
+    "ukUA": "Тураліон піднімає щит, що поглинає всю шкоду, витрачаючи його ману. |n|n|cffffcc00Рівень 1|r - <ATsR,DataA1> шкоди за одиницю мани. |n|cffffcc00Рівень 2|r - <ATsR,DataA2> шкоди за одиницю мани. |n|cffffcc00Рівень 3|r - <ATsR,DataA3> шкоди за одиницю мани."
+  },
+  "RoA_GLOBAL_HEROES_TUR_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lifts a shield that absorbs <ATsR,DataA1> damage per point of mana.",
+    "ukUA": "Піднімає щит, що поглинає <ATsR,DataA1> шкоди за одиницю мани."
+  },
+  "RoA_GLOBAL_HEROES_TUR_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lifts a shield that absorbs <ATsR,DataA2> damage per point of mana.",
+    "ukUA": "Піднімає щит, що поглинає <ATsR,DataA2> шкоди за одиницю мани."
+  },
+  "RoA_GLOBAL_HEROES_TUR_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lifts a shield that absorbs <ATsR,DataA3> damage per point of mana.",
+    "ukUA": "Піднімає щит, що поглинає <ATsR,DataA3> шкоди за одиницю мани."
+  },
+  "RoA_GLOBAL_HEROES_UTL_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Uther",
+    "ukUA": "Утер Світлоносець"
+  },
+  "RoA_GLOBAL_HEROES_UTL_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "ukUA": "Лорд Паладин"
+  },
+  "RoA_GLOBAL_HEROES_UTL_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "ukUA": "Лорд Паладин"
+  },
+  "RoA_GLOBAL_HEROES_UTL_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "ukUA": "Лорд Паладин"
+  },
+  "RoA_GLOBAL_HEROES_UTL_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave",
+    "ukUA": "Священна Хвиля"
+  },
+  "RoA_GLOBAL_HEROES_UTL_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Holy Wave - [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Священну Хвилю - [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave - [|cffffcc00Level 1|r]",
+    "ukUA": "Священна Хвиля - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave - [|cffffcc00Level 2|r]",
+    "ukUA": "Священна Хвиля - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave - [|cffffcc00Level 3|r]",
+    "ukUA": "Священна Хвиля - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of energy that heals a target and bounces to nearby friendlies. Each bounce restores fewer hit points. |n|n|cffffcc00Level 1|r - Heals <AUaW,DataA1> damage, jumps <AUaW,DataB1> times. |n|cffffcc00Level 2|r - Heals <AUaW,DataA2> damage, jumps <AUaW,DataB2> times. |n|cffffcc00Level 3|r - Heals <AUaW,DataA3> damage, jumps <AUaW,DataB3> times.",
+    "ukUA": "Викликає хвилю енергії, що зцілює ціль і відскакує до найближчих союзників. Кожен відскок відновлює менше здоров'я. |n|n|cffffcc00Рівень 1|r - Лікує <AUaW,DataA1> шкоди, відскакує <AUaW,DataB1> разів. |n|cffffcc00Рівень 2|r - Лікує <AUaW,DataA2> шкоди, відскакує <AUaW,DataB2> разів. |n|cffffcc00Рівень 3|r - Лікує <AUaW,DataA3> шкоди, відскакує <AUaW,DataB3> разів."
+  },
+  "RoA_GLOBAL_HEROES_UTL_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB1> times, healing <AUaW,DataA1> damage on the primary target. Each bounce restores fewer hit points.",
+    "ukUA": "Викликає хвилю цілющої енергії, що відскакує до <AUaW,DataB1> разів, зцілюючи основну ціль на <AUaW,DataA1> шкоди. Кожен відскок відновлює менше здоров'я."
+  },
+  "RoA_GLOBAL_HEROES_UTL_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB2> times, healing <AUaW,DataA2> damage on the primary target. Each bounce restores fewer hit points.",
+    "ukUA": "Викликає хвилю цілющої енергії, що відскакує до <AUaW,DataB2> разів, зцілюючи основну ціль на <AUaW,DataA2> шкоди. Кожен відскок відновлює менше здоров'я."
+  },
+  "RoA_GLOBAL_HEROES_UTL_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB3> times, healing <AUaW,DataA3> damage on the primary target. Each bounce restores fewer hit points.",
+    "ukUA": "Викликає хвилю цілющої енергії, що відскакує до <AUaW,DataB3> разів, зцілюючи основну ціль на <AUaW,DataA3> шкоди. Кожен відскок відновлює менше здоров'я."
+  },
+  "RoA_GLOBAL_HEROES_UTL_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice",
+    "ukUA": "Молот Правосуддя"
+  },
+  "RoA_GLOBAL_HEROES_UTL_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Hammer of Justice",
+    "ukUA": "Вивчити Молот Правосуддя"
+  },
+  "RoA_GLOBAL_HEROES_UTL_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice - [|cffffcc00Level 1|r]",
+    "ukUA": "Молот Правосуддя - [|cffffcc00Рівень 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice - [|cffffcc00Level 2|r]",
+    "ukUA": "Молот Правосуддя - [|cffffcc00Рівень 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice - [|cffffcc00Level 3|r]",
+    "ukUA": "Молот Правосуддя - [|cffffcc00Рівень 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00250|r",
+    "ukUA": "Молот Світла з'являється в небі та падає на землю за короткий проміжок часу. Цілі, що потрапили під удар, отримають масивну шкоду. Час накладання: |cffffcc004с|r Шкода: |cffffcc00250|r"
+  },
+  "RoA_GLOBAL_HEROES_UTL_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crashing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: 5s\nDamage: 150 / 200 / 250",
+    "ukUA": "Молот Світла з'являється в небі та падає на землю за короткий проміжок часу. Цілі, що потрапили під удар, отримають масивну шкоду. Час накладання: 5с Шкода: 150 / 200 / 250"
+  },
+  "RoA_GLOBAL_HEROES_UTL_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00150|r",
+    "ukUA": "Молот Світла з'являється в небі та падає на землю за короткий проміжок часу. Цілі, що потрапили під удар, отримають масивну шкоду. Час накладання: |cffffcc004с|r Шкода: |cffffcc00150|r"
+  },
+  "RoA_GLOBAL_HEROES_UTL_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00200|r",
+    "ukUA": "Молот Світла з'являється в небі та падає на землю за короткий проміжок часу. Цілі, що потрапили під удар, отримають масивну шкоду. Час накладання: |cffffcc004с|r Шкода: |cffffcc00200|r"
+  },
+  "RoA_GLOBAL_HEROES_UTL_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Storm",
+    "ukUA": "Священна Буря"
+  },
+  "RoA_GLOBAL_HEROES_UTL_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Holy Storm",
+    "ukUA": "Вивчити Священну Бурю"
+  },
+  "RoA_GLOBAL_HEROES_UTL_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down waves of holy flares that damage nearby enemy units. Each wave deals <AUhs,DataA1> damage. |nLasts for <AUhs,Dur1> seconds.",
+    "ukUA": "Викликає хвилі священних спалахів, що завдають шкоди ворожим одиницям поблизу. Кожна хвиля завдає <AUhs,DataA1> од. шкоди. |nТриває <AUhs,Dur1> сек."
+  },
+  "RoA_GLOBAL_HEROES_UTL_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down a wave of holy flares every <AUhs,DataB1> seconds that damages nearby enemy units. Each wave deals <AUhs,DataA1> damage. |nLasts for <AUhs,Dur1> seconds.",
+    "ukUA": "Викликає хвилю священних спалахів кожні <AUhs,DataB1> секунд, що завдають шкоди ворожим юнітам поблизу. Кожна хвиля завдає <AUhs,DataA1> шкоди. |nТриває <AUhs,Dur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_WIL_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wilhelm",
+    "ukUA": "Вільгельм"
+  },
+  "RoA_GLOBAL_HEROES_WIL_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wilhelm is a veteran captain that defended Stormwind alongside with Meryn. After exodus to Lordaeron he serves Anduin Lothar as his personal bodyguard.",
+    "ukUA": "Вільгельм — досвідчений капітан, що захищав Штормовій разом із Мерином. Після виходу до Лордерону він служить особистим охоронцем Андуїна Лотара."
+  },
+  "RoA_GLOBAL_HEROES_WIL_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AIDe,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AIDe,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AIDe,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AIDe,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <ADDe,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <ADDe,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <ADDe,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <ADDe,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AEDE,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AEDE,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AEDE,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AEDE,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <A024,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <A024,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <A024,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <A024,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AE1O,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AE1O,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AE1O,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AE1O,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD2,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD2,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AAD2,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AAD2,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD3,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD3,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AAD3,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AAD3,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD4,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD4,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AAD4,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AAD4,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD5,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD5,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AAD5,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AAD5,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD6,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD6,DataC1,%>% of normal speed.",
+    "ukUA": "Активувати, щоб отримувати лише <AAD6,DataA1,%>% шкоди від пробивних атак. Поки Захист активний, швидкість руху знижена на <AAD6,DataC1,%>% від звичайної."
+  },
+  "RoA_GLOBAL_HEROES_WIL_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lion Song",
+    "ukUA": "Левова Пісня"
+  },
+  "RoA_GLOBAL_HEROES_WIL_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lion Song",
+    "ukUA": "Левова Пісня"
+  },
+  "RoA_GLOBAL_HEROES_WIL_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Lion Song  [|cffffcc00Level %d|r]",
+    "ukUA": "Вивчити Левову Пісню [|cffffcc00Рівень %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_WIL_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wilhelm sends a battlecry that reduces nearby enemy units' attack damage by <A621,DataA1,%>% for <A621,Dur1> seconds.",
+    "ukUA": "Вільгельм видає бойовий клич, що знижує шкоду атаки ворожих юнітів поблизу на <A621,DataA1,%>% протягом <A621,Dur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_WIL_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Second Chance",
+    "ukUA": "Другий Шанс"
+  },
+  "RoA_GLOBAL_HEROES_WIL_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Second Chance",
+    "ukUA": "Другий Шанс"
+  },
+  "RoA_GLOBAL_HEROES_WIL_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Unit plays dead, in order to restore health and come back to fight. Ability has a <A61V,Cool1> second cooldown.",
+    "ukUA": "Юніт вдає, що мертвий, щоб відновити здоров'я та повернутися до бою. Здібність має перезарядку <A61V,Cool1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_WIL_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gavinrad the Dire",
+    "ukUA": "Ґавінрад Безжальний"
+  },
+  "RoA_GLOBAL_HEROES_WIL_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "ukUA": "Цілюще Слово"
+  },
+  "RoA_GLOBAL_HEROES_WIL_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "ukUA": "Цілюще Слово"
+  },
+  "RoA_GLOBAL_HEROES_WIL_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "ukUA": "Цілюще Слово"
+  },
+  "RoA_GLOBAL_HEROES_WIL_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "ukUA": "Цілюще Слово"
+  },
+  "RoA_GLOBAL_HEROES_WIL_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has heard Healing Word; it is healing hit points over time.",
+    "ukUA": "Цей одиниця почула Цілюще Слово; віно відновлює здоров'я з часом."
+  },
+  "RoA_GLOBAL_HEROES_WIL_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <AWhR,DataA1> hit points over <AWhR,Dur1> seconds.",
+    "ukUA": "Зцілює цільового союзного юніта на <AWhR,DataA1> здоров'я протягом <AWhR,Dur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_WIL_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <AGah,DataA1> hit points over <AGah,Dur1> seconds.",
+    "ukUA": "Зцілює цільового союзного юніта на <AGah,DataA1> здоров'я протягом <AGah,Dur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_WIL_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <ABHp,DataA1> hit points over <ABHp,Dur1> seconds.",
+    "ukUA": "Зцілює цільового союзного юніта на <ABHp,DataA1> здоров'я протягом <ABHp,Dur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_WIL_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Lance",
+    "ukUA": "Священне Спис"
+  },
+  "RoA_GLOBAL_HEROES_WIL_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Lance",
+    "ukUA": "Священне Спис"
+  },
+  "RoA_GLOBAL_HEROES_WIL_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The pure essence of the casters heart, mind, and soul strikes out dealing <AGhl,DataA1>  damage and stunning target for <AGhl,Dur1> seconds.",
+    "ukUA": "Чиста сутність серця, розуму та душі заклинача завдає удару, спричиняючи <AGhl,DataA1> шкоди та оглушуючи ціль на <AGhl,Dur1> секунд."
+  },
+  "RoA_GLOBAL_HEROES_WIL_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "ukUA": "Аура Помсти"
+  },
+  "RoA_GLOBAL_HEROES_WIL_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "ukUA": "Аура Помсти"
+  },
+  "RoA_GLOBAL_HEROES_WIL_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "ukUA": "Аура Помсти"
+  },
+  "RoA_GLOBAL_HEROES_WIL_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "ukUA": "Аура Помсти"
+  },
+  "RoA_GLOBAL_HEROES_WIL_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "An aura that gives nearby friendly land units a <AGva,DataA1,%>% bonus damage to their melee attacks.",
+    "ukUA": "Аура, що дає союзним наземним юнітам поблизу <AGva,DataA1,%>% бонусної шкоди в ближньому бою."
+  },
+  "RoA_GLOBAL_HEROES_WIL_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is under the effects of Vengeance Aura; its melee attacks will deal more damage.",
+    "ukUA": "Цей юніт перебуває під впливом Аури Помсти; його атаки ближнього бою завдаватимуть більше шкоди."
+  },
+  "RoA_GLOBAL_MENU_001": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Rise of the Alliance",
+    "ukUA": "Rise of the Alliance 1.01 UA 0.4"
+  },
+  "RoA_GLOBAL_MENU_002": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Lothar, in charge of the scattered armies of Azeroth since the death of King Llane, has led his people across the Great Sea to the shores of Lordaeron.",
+    "ukUA": "Сір Лотар, що керує розпорошеними військами Азероту після смерті короля Ллейна, провів свій народ через Велике море до берегів Лордерона."
+  },
+  "RoA_GLOBAL_MENU_003": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Varies",
+    "ukUA": "Варіюється"
+  },
+  "RoA_GLOBAL_MENU_004": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Cinematic Act I",
+    "ukUA": "Сюжетний ролик Акт I"
+  },
+  "RoA_GLOBAL_MENU_005": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron",
+    "ukUA": "Лордерон"
+  },
+  "RoA_GLOBAL_MENU_006": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter One",
+    "ukUA": "Розділ перший"
+  },
+  "RoA_GLOBAL_MENU_007": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battle for Lordaeron",
+    "ukUA": "Битва за Лордерон"
+  },
+  "RoA_GLOBAL_MENU_008": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Two",
+    "ukUA": "Розділ другий"
+  },
+  "RoA_GLOBAL_MENU_009": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ambush at Tarren Mill",
+    "ukUA": "Засідка у Таррен-Млині"
+  },
+  "RoA_GLOBAL_MENU_010": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Three",
+    "ukUA": "Розділ третрій"
+  },
+  "RoA_GLOBAL_MENU_011": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege of Dalaran",
+    "ukUA": "Облога Даларана"
+  },
+  "RoA_GLOBAL_MENU_012": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Four",
+    "ukUA": "Падіння Зуд'Дара"
+  },
+  "RoA_GLOBAL_UNITS_001": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elite guardsman of the royal family. |n|n|cffffcc00Abilities:|r Defend, Long Blades.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Елітні вартові королівської родини.|n|n|cffffcc00Здібності:|r Захищатися, Довгі мечі.|nВідкривається завдяки покращенню - Тренування ближнього бою Альянсу.|n|n|cffffcc00Атакує наземні одиниці.|r"
+  },
+  "RoA_GLOBAL_UNITS_002": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Long Blades",
+    "ukUA": "Довгі мечі"
+  },
+  "RoA_GLOBAL_UNITS_003": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Long Blades",
+    "ukUA": "Довгі мечі"
+  },
+  "RoA_GLOBAL_UNITS_004": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The long blade that causes <ALob,DataA1,%>% of this unit's attack damage to splash towards enemies near its primary target.",
+    "ukUA": "Довгий меч, через який <ALob,DataA1,%>% шкоди від атаки цієї одиниці переходить на ворогів поблизу основної цілі."
+  },
+  "RoA_GLOBAL_UNITS_005": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Defender of Faith",
+    "ukUA": "Захистник віри"
+  },
+  "RoA_GLOBAL_UNITS_006": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elite soldier of the Silver Hand order. |n|n|cffffcc00Abilities:|r Holy Defense, Long Blades.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Елітний воїн ордену Срібної Десницы. |n|n|cffffcc00Здібності:|r Свята оборона, Довгі мечы.|nВідкривається завдяки покращенню - Тренування ближнього бою Альянсу.|n|n|cffffcc00Атакує наземні одиниці.|r"
+  },
+  "RoA_GLOBAL_UNITS_007": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Defense",
+    "ukUA": "Свята оборона"
+  },
+  "RoA_GLOBAL_UNITS_008": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Defense",
+    "ukUA": "Свята оборона"
+  },
+  "RoA_GLOBAL_UNITS_011": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Stop Holy Defense",
+    "ukUA": "Запинити святу оборону"
+  },
+  "RoA_GLOBAL_UNITS_013": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Regional Defender",
+    "ukUA": "Захистник краю"
+  },
+  "RoA_GLOBAL_UNITS_014": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Guard Dog",
+    "ukUA": "Вартовий пес"
+  },
+  "RoA_GLOBAL_UNITS_015": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Man at Arms",
+    "ukUA": "Піхотинець"
+  },
+  "RoA_GLOBAL_UNITS_016": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Man at Arms",
+    "ukUA": "Тренувати піхотинця"
+  },
+  "RoA_GLOBAL_UNITS_017": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons Man at Arms to fight at your side.",
+    "ukUA": "Прикликає піхотинців, що б'ються на вашому боці."
+  },
+  "RoA_GLOBAL_UNITS_018": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons from 1 to 2 Man at Arms or Arbalists to fight at your side.",
+    "ukUA": "Прикликає одного або двух піхотинців або арбалетчиків, щоб б'ються на вашому боці."
+  },
+  "RoA_GLOBAL_UNITS_021": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scout",
+    "ukUA": "Розвідник"
+  },
+  "RoA_GLOBAL_UNITS_023": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dwarf",
+    "ukUA": "Дворф"
+  },
+  "RoA_GLOBAL_UNITS_024": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bowman",
+    "ukUA": "Лучник"
+  },
+  "RoA_GLOBAL_UNITS_025": {
+    "type": "UNITS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train Bowman",
+    "ukUA": "Тренувати лучника"
+  },
+  "RoA_GLOBAL_UNITS_026": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Versatile ranged soldier. |n|n|cffffcc00Abilities:|r Longbow.|nUnlocked by upgrade - Imrpoved Ranged Weapons. |n|n|cffffcc00Attacks land and air units.|r",
+    "ukUA": "Універсальний воїн дальнього бою.|n|n|cffffcc00Здібності:|r Довгий лук.|nВідкривається після дослідження «Покращена далекобійна зброя».|n|n|cffffcc00Атакує наземні та повітряні цілі.|r"
+  },
+  "RoA_GLOBAL_UNITS_027": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Longbow",
+    "ukUA": "Довгий лук"
+  },
+  "RoA_GLOBAL_UNITS_028": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Longbow",
+    "ukUA": "Довгий лук"
+  },
+  "RoA_GLOBAL_UNITS_029": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Longbow",
+    "ukUA": "Довгий лук"
+  },
+  "RoA_GLOBAL_UNITS_030": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "ukUA": "Збільшує відстань атаки на 200 од."
+  },
+  "RoA_GLOBAL_UNITS_031": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "ukUA": "Збільшує відстань атаки на 200 од."
+  },
+  "RoA_GLOBAL_UNITS_032": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "ukUA": "Збільшує відстань атаки на 200 од."
+  },
+  "RoA_GLOBAL_UNITS_033": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "ukUA": "Збільшує відстань атаки на 200 од."
+  },
+  "RoA_GLOBAL_UNITS_034": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Trooper",
+    "ukUA": "Солдат"
+  },
+  "RoA_GLOBAL_UNITS_035": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Riposte",
+    "ukUA": "Контратака"
+  },
+  "RoA_GLOBAL_UNITS_036": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Riposte",
+    "ukUA": "Контратака"
+  },
+  "RoA_GLOBAL_UNITS_037": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Riposte",
+    "ukUA": "Контратака"
+  },
+  "RoA_GLOBAL_UNITS_038": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Riposte",
+    "ukUA": "Контратака"
+  },
+  "RoA_GLOBAL_UNITS_039": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Kul Tiran soldier is trained to respond instantly to every blow. Returns |cffffcc00<AKpR,DataA1,%>%|r of melee damage taken back to the attacker.",
+    "ukUA": "Кул-Тіраський солдат миттєво проводить контратаку після кожного удару. Нападник отримує |cffffcc00<AKpR,DataA1,%>%|r шкоди від завданої ним атаки ближнього бою."
+  },
+  "RoA_GLOBAL_UNITS_040": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Returns |cffffcc0010%|r of melee damage taken.",
+    "ukUA": "Нападник отримує |cffffcc0010%|r  шкоди від завданої ним атаки ближнього бою."
+  },
+  "RoA_GLOBAL_UNITS_041": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Footmen",
+    "ukUA": "TRANSLATION FROM GAME CLIENT"
+  },
+  "RoA_GLOBAL_UNITS_042": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Footmen are the initial line of defense against the Horde.|n|n|cffffcc00Abilities:|r Defend.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r",
+    "ukUA": "Піхотинці — перша лінія оборони проти Орди.|n|n|cffffcc00Здібності:|r Захист.|nВідкривається завдяки покращенню - Тренування ближнього бою Альянсу.|n|n|cffffcc00Атакує наземні одиниці.|r"
+  },
+  "RoA_GLOBAL_UNITS_043": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Frigate",
+    "ukUA": "Фригат"
+  },
+  "RoA_GLOBAL_UNITS_044": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "ukUA": "Лінкор"
+  },
+  "RoA_GLOBAL_UNITS_045": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "ukUA": "Лінкор"
+  },
+  "RoA_GLOBAL_UNITS_046": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "ukUA": "Лінкор"
+  },
+  "RoA_GLOBAL_UNITS_047": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "ukUA": "Лінкор"
+  },
+  "RoA_GLOBAL_UNITS_048": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "ukUA": "Лінкор"
+  },
+  "RoA_GLOBAL_UNITS_049": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "ukUA": "Лінкор"
+  },
+  "RoA_GLOBAL_UNITS_050": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "ukUA": "Лінкор"
+  },
+  "RoA_GLOBAL_UNITS_051": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Archer",
+    "ukUA": "Ельфійський лучник"
+  },
+  "RoA_GLOBAL_UNITS_052": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Elven Archer",
+    "ukUA": "Тренувати ельфа лучника"
+  },
+  "RoA_GLOBAL_UNITS_053": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sylvan Craftsman",
+    "ukUA": "Лісовий майстер"
+  },
+  "RoA_GLOBAL_UNITS_054": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sylvan Craftsmen are the diligent workers from Quel’Thalas. They harvest gold and lumber, construct buildings, and perform repairs with practiced skill.|n|n|cffffcc00Attacks land units and trees.|r",
+    "ukUA": "Лісові ремісники — працьовиті майстри Квел'Таласа. Вони добувають золото й деревину, зводять споруди та вправно виконують ремонтні роботи.\n\n|cffffcc00Атакує наземні цілі та дерева.|r"
+  },
+  "RoA_GLOBAL_UNITS_055": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Sylvan Craftsman",
+    "ukUA": "Тренувати лісового майстра"
+  },
+  "RoA_GLOBAL_UNITS_056": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Brute",
+    "ukUA": "Рубайло"
+  },
+  "RoA_GLOBAL_UNITS_057": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Brute",
+    "ukUA": "Рубайло"
+  },
+  "RoA_GLOBAL_UNITS_058": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Axethrower",
+    "ukUA": "Троль Сокирокид"
+  },
+  "RoA_GLOBAL_UNITS_059": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Axethrower",
+    "ukUA": "Троль Сокирокид"
+  },
+  "RoA_GLOBAL_UNITS_060": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Rage",
+    "ukUA": "Лють"
+  },
+  "RoA_GLOBAL_UNITS_061": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Rage",
+    "ukUA": "Лють"
+  },
+  "RoA_GLOBAL_UNITS_062": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Rage",
+    "ukUA": "Лють"
+  },
+  "RoA_GLOBAL_UNITS_063": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is in Rage; it's speed and attack rates are increased, but it will also take more damage from attacks.",
+    "ukUA": "Ця одиниця у стані люті; її швидкість та сила атаки збільшена, проте вона отримує більше шкоди від атак."
+  },
+  "RoA_GLOBAL_UNITS_064": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Berserker",
+    "ukUA": "Троль Берсерк"
+  },
+  "RoA_GLOBAL_UNITS_065": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Destroyer",
+    "ukUA": "Руйнівник тролів"
+  },
+  "RoA_GLOBAL_UNITS_066": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Destroyer",
+    "ukUA": "Руйнівник тролів"
+  },
+  "RoA_GLOBAL_UNITS_067": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre",
+    "ukUA": "Оґр"
+  },
+  "RoA_GLOBAL_UNITS_068": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Apprentice, Adept, Master",
+    "ukUA": "Учень, Адепт, Майстер"
+  },
+  "RoA_GLOBAL_UNITS_069": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre",
+    "ukUA": "Оґр"
+  },
+  "RoA_GLOBAL_UNITS_070": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Magi Training",
+    "ukUA": "Покращення Оґрів-магів"
+  },
+  "RoA_GLOBAL_UNITS_071": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Magi Training",
+    "ukUA": "Покращення Оґрів-магів"
+  },
+  "RoA_GLOBAL_UNITS_072": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "- Eye of Kilrogg,- Eye of Kilrogg|n- Bloodlust,- Eye of Kilrogg|n- Bloodlust|n- Runes",
+    "ukUA": "- Кровожерливість,- Кровожерливість|n- Око Кілроґа,- Кровожерливість|n- Око Кілроґа|n- Руни"
+  },
+  "RoA_GLOBAL_UNITS_073": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Sappers",
+    "ukUA": "Загін ґоблінів саперів"
+  },
+  "RoA_GLOBAL_UNITS_074": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Sappers",
+    "ukUA": "Загін ґоблінів саперів"
+  },
+  "RoA_GLOBAL_UNITS_075": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Death Knight",
+    "ukUA": "Лицар смерті"
+  },
+  "RoA_GLOBAL_UNITS_076": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Death Knight",
+    "ukUA": "Лицар смерті"
+  },
+  "RoA_GLOBAL_UNITS_077": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Unholy",
+    "ukUA": "Нечестивість"
+  },
+  "RoA_GLOBAL_UNITS_078": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Initiate, Adept, Master, Necromancer",
+    "ukUA": "Посвячений, Адепт, Володар, Некромант"
+  },
+  "RoA_GLOBAL_UNITS_079": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Initiate, Adept, Master, Necromancer",
+    "ukUA": "Посвячений, Адепт, Володар, Некромант"
+  },
+  "RoA_GLOBAL_UNITS_080": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind",
+    "ukUA": "- Дотик пітьми|n- Підняти мерців,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність|n- Смерч"
+  },
+  "RoA_GLOBAL_UNITS_081": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind",
+    "ukUA": "- Дотик пітьми|n- Підняти мерців,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність|n- Смерч"
+  },
+  "RoA_GLOBAL_UNITS_082": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Undead",
+    "ukUA": "Невмерлий"
+  },
+  "RoA_GLOBAL_UNITS_083": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Undead",
+    "ukUA": "Невмерлий"
+  },
+  "RoA_GLOBAL_UNITS_084": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dragon",
+    "ukUA": "Багряний дракон"
+  },
+  "RoA_GLOBAL_UNITS_085": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kor'kron Guard",
+    "ukUA": "Кор'кронський вартовий"
+  },
+  "RoA_GLOBAL_UNITS_086": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "ukUA": "Катапульта"
+  },
+  "RoA_GLOBAL_UNITS_087": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "ukUA": "Катапульта"
+  },
+  "RoA_GLOBAL_UNITS_088": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "ukUA": "Катапульта"
+  },
+  "RoA_GLOBAL_UNITS_089": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Zeppelin",
+    "ukUA": "Дирижабль ґоблінів"
+  },
+  "RoA_GLOBAL_UNITS_090": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Alchemist",
+    "ukUA": "Майстерня ґобліна алхіміка"
+  },
+  "RoA_GLOBAL_UNITS_091": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bonecrusher",
+    "ukUA": "Кістколам"
+  }
+}

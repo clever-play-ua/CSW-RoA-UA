@@ -1,0 +1,190 @@
+{
+  "AFA": {
+    "enUS": "Alonsus Faol",
+    "ukUA": "Алонс Фаол"
+  },
+  "ALO": {
+    "enUS": "Anduin Lothar",
+    "ukUA": "Андуїн Лотар"
+  },
+  "ANT": {
+    "enUS": "Antonidas",
+    "ukUA": "Антонідас"
+  },
+  "APE": {
+    "enUS": "Aiden Perenolde",
+    "ukUA": "Ейден Перенольд"
+  },
+  "APR": {
+    "enUS": "Admiral Proudmoore",
+    "ukUA": "Адмірал Дейлін Праудмур"
+  },
+  "ART": {
+    "enUS": "Arthas",
+    "ukUA": "Артас Менетіл"
+  },
+  "DPR": {
+    "enUS": "Derek Proudmoore",
+    "ukUA": "Дерек Праудмур"
+  },
+  "DRE": {
+    "enUS": "Drenden",
+    "ukUA": "Дренден"
+  },
+  "DRO": {
+    "enUS": "Drunk Orc",
+    "ukUA": "Сп'янільний орк"
+  },
+  "DTR": {
+    "enUS": "Danath Trollbane",
+    "ukUA": "Данат Тролебій"
+  },
+  "GGR": {
+    "enUS": "Genn Graymane",
+    "ukUA": "Ґенн Сивогрив"
+  },
+  "GRU": {
+    "enUS": "Grunt",
+    "ukUA": "Рубайло"
+  },
+  "GTD": {
+    "enUS": "Gavinrad the Dire",
+    "ukUA": "Ґавінрад Безжальний"
+  },
+  "KAS": {
+    "enUS": "Kurdran and Sky'ree",
+    "ukUA": "Курдран та Скай’рі"
+  },
+  "KGU": {
+    "enUS": "Kings Guard",
+    "ukUA": "Королівська варта"
+  },
+  "KHA": {
+    "enUS": "Khadgar",
+    "ukUA": "Кадґар"
+  },
+  "KRA": {
+    "enUS": "Krasus",
+    "ukUA": "Крас"
+  },
+  "KSU": {
+    "enUS": "Kael'thas Sunstrider",
+    "ukUA": "Кель’тас Сонячний Блукач"
+  },
+  "KTH": {
+    "enUS": "Kel’Thuzad",
+    "ukUA": "Кел’Тузад"
+  },
+  "KWI": {
+    "enUS": "Kurdran Wildhammer",
+    "ukUA": "Курдран Дикий Молот"
+  },
+  "LDC": {
+    "enUS": "Lord Darius Crowley",
+    "ukUA": "Лорд Даріус Кроулі"
+  },
+  "MAA": {
+    "enUS": "Man at Arms",
+    "ukUA": "Ополчення"
+  },
+  "MAM": {
+    "enUS": "Mayor Marcus",
+    "ukUA": "Мер Маркус"
+  },
+  "MBL": {
+    "enUS": "Maim Blackhand",
+    "ukUA": "Мейм Чорнорук"
+  },
+  "MBR": {
+    "enUS": "Muradin Bronzebeard",
+    "ukUA": "Мурадін Бронзобородий"
+  },
+  "MER": {
+    "enUS": "Meryn",
+    "ukUA": "Мерин"
+  },
+  "MOD": {
+    "enUS": "Modera",
+    "ukUA": "Модера"
+  },
+  "MTS": {
+    "enUS": "Milan the Scribe",
+    "ukUA": "Мілан Ліпописець"
+  },
+  "NTP": {
+    "enUS": "Nobbel the Pious",
+    "ukUA": "Ноббел Благочестивий"
+  },
+  "OCA": {
+    "enUS": "Orc Captain",
+    "ukUA": "Орк Капітан"
+  },
+  "ODO": {
+    "enUS": "Orgrim Doomhammer",
+    "ukUA": "Орґрім Молот Згуби"
+  },
+  "OPI": {
+    "enUS": "Orc Pirate",
+    "ukUA": "Орк-пірат"
+  },
+  "PEO": {
+    "enUS": "Peon",
+    "ukUA": "Батрак"
+  },
+  "PRI": {
+    "enUS": "Prisoner",
+    "ukUA": "В'язень"
+  },
+  "RBL": {
+    "enUS": "Dal’Rend Blackhand",
+    "ukUA": "Ренд Чорнорук"
+  },
+  "RDE": {
+    "enUS": "Regional Defender",
+    "ukUA": "Захисник краю"
+  },
+  "RET": {
+    "enUS": "Retera",
+    "ukUA": "Ретера Непокорний Рятівник"
+  },
+  "TGO": {
+    "enUS": "Teron Gorefiend",
+    "ukUA": "Терон Кровобіс"
+  },
+  "THA": {
+    "enUS": "Tharbek",
+    "ukUA": "Тарбек"
+  },
+  "TME": {
+    "enUS": "Terenas Menethil II",
+    "ukUA": "Теренас Менетіл II"
+  },
+  "TTR": {
+    "enUS": "Thoras Trollbane",
+    "ukUA": "Торас Тролебій"
+  },
+  "TUR": {
+    "enUS": "Turalyon",
+    "ukUA": "Тураліон"
+  },
+  "USC": {
+    "enUS": "Utok Scratcher",
+    "ukUA": "Уток Дряпач"
+  },
+  "UTL": {
+    "enUS": "Uther the Lightbringer",
+    "ukUA": "Утер Світлоносець"
+  },
+  "VWR": {
+    "enUS": "Varian Wrynn",
+    "ukUA": "Варіан Рінн"
+  },
+  "WIL": {
+    "enUS": "Wilhelm",
+    "ukUA": "Вільгельм"
+  },
+  "ZTW": {
+    "enUS": "Zuluhed the Whacked",
+    "ukUA": "Зулугед"
+  }
+}

@@ -2690,7 +2690,7 @@ STRING 726
 
 STRING 727
 {
-Setting up magical generator in:
+Генератор буде встановлено через:
 }
 
 STRING 728
@@ -2759,7 +2759,7 @@ STRING 738
 STRING 740
 // Units: nDam (Dam), Name (Name)
 {
-Dam
+Зруйонована гребля
 }
 
 STRING 741

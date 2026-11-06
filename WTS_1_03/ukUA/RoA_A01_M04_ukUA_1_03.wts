@@ -505,7 +505,7 @@ WC2Human04Gavinrad_Intro01
 STRING 2454
 // Items: IL04 (WC2Human04Milan_Intro01), Tip (Tooltip - Basic)
 {
-Мілан Ліпописець
+Milan The Scribe
 }
 
 STRING 2456
@@ -1153,7 +1153,7 @@ WC2Human04Lothar_Outro03
 STRING 2589
 // Items: IL50 (WC2Human04Danath_Outro03), Tip (Tooltip - Basic)
 {
-Данат Тролебій
+Danath Trolbane
 }
 
 STRING 2590
@@ -1350,12 +1350,12 @@ STRING 2701
 
 STRING 2702
 {
-Lothar must survive.
+Лотар має вижити.
 }
 
 STRING 2703
 {
-Danath must survive.
+Данат має вижити.
 }
 
 STRING 2708
@@ -1744,7 +1744,7 @@ STRING 2814
 
 STRING 2816
 {
-Remaining enemies:
+Лишилося ворожих одиниць:
 }
 
 STRING 2817
@@ -1976,7 +1976,7 @@ STRING 2876
 
 STRING 2878
 {
-Flags to put in a circle:
+Встановлено прапорів:
 }
 
 STRING 2879
@@ -2167,7 +2167,7 @@ WC2Human04Gavinrad_Ambush01
 STRING 2943
 // Items: IL72 (WC2Human04Milan_Ambush01), Tip (Tooltip - Basic)
 {
-Мілан Ліпописець
+Milan The Scribe
 }
 
 STRING 2944
@@ -2894,7 +2894,7 @@ STRING 3137
 
 STRING 3138
 {
-Build 4 Oil Plarforms.
+Побудуйте 4 нафтові платфори.
 }
 
 STRING 3139

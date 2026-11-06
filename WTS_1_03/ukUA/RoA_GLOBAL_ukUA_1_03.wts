@@ -1,6 +1,6 @@
 ﻿STRING 1
 {
-Rise of the Alliance 1.01 UA 0.4
+Rise of the Alliance 1.03 UK 0.4
 }
 
 STRING 2
@@ -3020,7 +3020,7 @@ Snowcap
 
 STRING 992
 {
-Pig Farm
+Свиноферма
 }
 
 STRING 993
@@ -3040,7 +3040,7 @@ Snowcap
 
 STRING 996
 {
-Troll Lumber Mill
+Лісопильня тролів
 }
 
 STRING 997
@@ -3110,7 +3110,7 @@ Snowcap
 
 STRING 1010
 {
-Ogre Mound
+Оґрівський пагорб
 }
 
 STRING 1011
@@ -3120,7 +3120,7 @@ Snowcap
 
 STRING 1012
 {
-Goblin Alchemist
+Майстерня ґобліна алхіміка
 }
 
 STRING 1013
@@ -6163,7 +6163,7 @@ STRING 1689
 
 STRING 1690
 {
-Rage
+Лють
 }
 
 STRING 1691
@@ -7044,7 +7044,7 @@ This unit is Feared; it cannot preform attacks or spells and will run from comba
 
 STRING 1939
 {
-Rage
+Лють
 }
 
 STRING 1942
@@ -7069,7 +7069,7 @@ STRING 1946
 
 STRING 1947
 {
-Undead
+Невмерлий
 }
 
 STRING 1949
@@ -7204,7 +7204,7 @@ Superior Ogre Magi Training
 
 STRING 1985
 {
-Ogre Magi Training
+Покращення Оґрів-магів
 }
 
 STRING 1986
@@ -7504,7 +7504,7 @@ STRING 2052
 
 STRING 2053
 {
-Longbow
+Довгий лук
 }
 
 STRING 2055
@@ -9541,7 +9541,7 @@ STRING 2925
 
 STRING 2926
 {
-Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage.
+Кидає розряд блискавки, що відскакує до <A642:ACcl,DataB2> разів, завдаючи <A642:ACcl,DataA2> шкоди основній цілі. Кожен відскок завдає менше шкоди.
 }
 
 STRING 2929
@@ -9632,6 +9632,8 @@ Shirt of Knowledge
 STRING 3012
 {
 Сір Лотар, що керує розпорошеними військами Азероту після смерті короля Ллейна, провів свій народ через Велике море до берегів Лордерона.
+
+(Переклад українською CLEVER PLAY UA)
 }
 
 STRING 3014
@@ -9786,7 +9788,7 @@ STRING 3059
 
 STRING 3060
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 3062
@@ -9796,12 +9798,12 @@ STRING 3062
 
 STRING 3064
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 3065
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 3066
@@ -13632,7 +13634,7 @@ STRING 3928
 
 STRING 3929
 {
-Chest
+Скриня
 }
 
 STRING 3930
@@ -13957,7 +13959,7 @@ STRING 3994
 
 STRING 3995
 {
-Vase
+Пуста ваза
 }
 
 STRING 3996
@@ -13967,7 +13969,7 @@ STRING 3996
 
 STRING 3997
 {
-Vase
+Пуста ваза
 }
 
 STRING 3998
@@ -15187,7 +15189,7 @@ Demonic Standard
 
 STRING 4241
 {
-Knight Statue
+Статуя лицаря
 }
 
 STRING 4242
@@ -15557,7 +15559,7 @@ STRING 4319
 
 STRING 4321
 {
-Royal Aura
+Королівська аура
 }
 
 STRING 4331
@@ -15677,7 +15679,7 @@ STRING 4359
 
 STRING 4360
 {
-Captain
+Капітан
 }
 
 STRING 4361
@@ -15747,7 +15749,7 @@ STRING 4378
 
 STRING 4379
 {
-Holy Defense
+Свята оборона
 }
 
 STRING 4380
@@ -15842,12 +15844,12 @@ STRING 4433
 
 STRING 4437
 {
-Consecration
+Освячення
 }
 
 STRING 4438
 {
-Consecration
+Освячення
 }
 
 STRING 4441
@@ -15994,12 +15996,12 @@ Q
 
 STRING 4483
 {
-Iron Feathers
+Сталеве пір'я
 }
 
 STRING 4488
 {
-Battleship
+Лінкор
 }
 
 STRING 4489
@@ -16129,7 +16131,7 @@ STRING 4536
 
 STRING 4537
 {
-Fishnets
+Рибальські Сіті
 }
 
 STRING 4540
@@ -16179,7 +16181,7 @@ STRING 4567
 
 STRING 4569
 {
-Horn of Stromgarde
+Ріг Стромварту
 }
 
 STRING 4573
@@ -16199,7 +16201,7 @@ STRING 4576
 
 STRING 4577
 {
-Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent.
+Викликає 6 Королівських Вартових Стромварту на допомогу Данату. Виклик є постійним.
 }
 
 STRING 4578
@@ -16264,7 +16266,7 @@ STRING 4590
 
 STRING 4591
 {
-Captain
+Капітан
 }
 
 STRING 4592
@@ -16274,12 +16276,12 @@ STRING 4592
 
 STRING 4593
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 4594
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 4595
@@ -16324,12 +16326,12 @@ W
 
 STRING 4608
 {
-For Stromgarde
+За Стромварт
 }
 
 STRING 4609
 {
-For Stromgarde
+За Стромварт
 }
 
 STRING 4611
@@ -16474,7 +16476,7 @@ STRING 4654
 
 STRING 4655
 {
-Grenade Toss
+Кидок Гранати
 }
 
 STRING 4656
@@ -16735,7 +16737,7 @@ STRING 4724
 
 STRING 4725
 {
-Holy Storm
+Священна Буря
 }
 
 STRING 4726
@@ -16755,7 +16757,7 @@ Holy Storm (Effect)
 
 STRING 4730
 {
-Holy Storm
+Священна Буря
 }
 
 STRING 4731
@@ -16895,7 +16897,7 @@ STRING 4769
 
 STRING 4770
 {
-Arcane Storm
+Потаємна Буря
 }
 
 STRING 4771
@@ -16925,7 +16927,7 @@ Learn Arcane Storm - [|cffffcc00Level %d|r]
 
 STRING 4784
 {
-Arcane Storm
+Потаємна Буря
 }
 
 STRING 4785
@@ -17230,7 +17232,7 @@ R
 
 STRING 4868
 {
-Lion Song
+Левова Пісня
 }
 
 STRING 4870
@@ -17300,7 +17302,7 @@ STRING 4883
 
 STRING 4884
 {
-Die by the Sword
+Смерть від Меча
 }
 
 STRING 4885
@@ -17370,12 +17372,12 @@ W
 
 STRING 4899
 {
-Punishing Blow
+Каральний Удар
 }
 
 STRING 4900
 {
-Punishing Blow
+Каральний Удар
 }
 
 STRING 4902
@@ -17440,7 +17442,7 @@ STRING 4916
 
 STRING 4917
 {
-Vengeance Aura
+Аура Помсти
 }
 
 STRING 4918
@@ -17455,12 +17457,12 @@ STRING 4919
 
 STRING 4920
 {
-Vengeance Aura
+Аура Помсти
 }
 
 STRING 4921
 {
-Vengeance Aura
+Аура Помсти
 }
 
 STRING 4922
@@ -17485,17 +17487,17 @@ STRING 4926
 
 STRING 4927
 {
-Healing Word
+Цілюще Слово
 }
 
 STRING 4930
 {
-Healing Word
+Цілюще Слово
 }
 
 STRING 4932
 {
-Healing Word
+Цілюще Слово
 }
 
 STRING 4933
@@ -17660,12 +17662,12 @@ This unit has Sacred Blessing; it has attack damage.
 
 STRING 4987
 {
-Crusader Strike
+Удар Хрестоносця
 }
 
 STRING 4988
 {
-Crusader Strike
+Удар Хрестоносця
 }
 
 STRING 4989
@@ -17705,7 +17707,7 @@ STRING 4999
 
 STRING 5001
 {
-Holy Lance
+Священне Спис
 }
 
 STRING 5004
@@ -17745,7 +17747,7 @@ STRING 5012
 
 STRING 5013
 {
-Second Chance
+Другий Шанс
 }
 
 STRING 5014
@@ -17950,12 +17952,12 @@ STRING 5057
 
 STRING 5061
 {
-Heroic Leap - [|cffffcc00Level 1|r]
+Героїчний Стрибок - [|cffffcc00Рівень 1|r]
 }
 
 STRING 5062
 {
-Heroic Leap - [|cffffcc00Level 1|r]
+Героїчний Стрибок - [|cffffcc00Рівень 1|r]
 }
 
 STRING 5065
@@ -18000,12 +18002,12 @@ STRING 5083
 
 STRING 5084
 {
-Heroic Leap
+Героїчний Стрибок
 }
 
 STRING 5085
 {
-Heroic Leap
+Героїчний Стрибок
 }
 
 STRING 5086
@@ -18025,7 +18027,7 @@ STRING 5088
 
 STRING 5089
 {
-Lion Song
+Левова Пісня
 }
 
 STRING 5090
@@ -18060,7 +18062,7 @@ STRING 5106
 
 STRING 5107
 {
-Long Blades
+Довгі мечі
 }
 
 STRING 5108
@@ -18070,7 +18072,7 @@ STRING 5108
 
 STRING 5109
 {
-Battleship
+Лінкор
 }
 
 STRING 5110
@@ -18380,17 +18382,17 @@ STRING 5169
 
 STRING 5172
 {
-Captain
+Капітан
 }
 
 STRING 5173
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 5174
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 5175
@@ -18450,12 +18452,12 @@ Change Stance
 
 STRING 5192
 {
-Land
+Приземлитися
 }
 
 STRING 5193
 {
-Take Wing
+Злетіти
 }
 
 STRING 5195
@@ -18560,12 +18562,12 @@ Lower Shield
 
 STRING 5225
 {
-Shield of the Righteous
+Щит Праведника
 }
 
 STRING 5226
 {
-Shield of the Righteous
+Щит Праведника
 }
 
 STRING 5227
@@ -18750,7 +18752,7 @@ Hallway Statue
 
 STRING 5279
 {
-Sir Anduin Lothar
+Сір Андуїн Лотар
 }
 
 STRING 5281
@@ -18760,7 +18762,7 @@ STRING 5281
 
 STRING 5282
 {
-Sir Anduin Lothar
+Сір Андуїн Лотар
 }
 
 STRING 5284
@@ -18770,7 +18772,7 @@ STRING 5284
 
 STRING 5285
 {
-Sir Anduin Lothar
+Сір Андуїн Лотар
 }
 
 STRING 5287
@@ -18895,7 +18897,7 @@ STRING 5313
 
 STRING 5314
 {
-Revive Archmage
+Воскресити Архімага
 }
 
 STRING 5315
@@ -19070,7 +19072,7 @@ STRING 5368
 
 STRING 5369
 {
-High Thane
+Верховний тан
 }
 
 STRING 5370
@@ -19290,7 +19292,7 @@ Revive Elven Mage
 
 STRING 5420
 {
-Archmage
+Архімаг
 }
 
 STRING 5421
@@ -19300,12 +19302,12 @@ STRING 5421
 
 STRING 5422
 {
-Revive Archmage
+Воскресити Архімага
 }
 
 STRING 5423
 {
-Revive Archmage
+Воскресити Архімага
 }
 
 STRING 5424
@@ -19350,7 +19352,7 @@ STRING 5438
 
 STRING 5439
 {
-Fire Bolt
+Вогняний Розряд
 }
 
 STRING 5440
@@ -19385,7 +19387,7 @@ STRING 5448
 
 STRING 5461
 {
-Fire Bolt
+Вогняний Розряд
 }
 
 STRING 5466
@@ -19709,7 +19711,7 @@ Spirit Bridge
 
 STRING 5549
 {
-Revive Captain
+Воскресити Капітана
 }
 
 STRING 5553
@@ -19764,7 +19766,7 @@ Volumetric Fog Cloud
 
 STRING 5565
 {
-Battleship
+Лінкор
 }
 
 STRING 5566
@@ -19889,7 +19891,7 @@ STRING 5598
 
 STRING 5599
 {
-Blood of the Highborn
+Кров Високородних
 }
 
 STRING 5600
@@ -19959,7 +19961,7 @@ STRING 5619
 
 STRING 5620
 {
-Revive Professor
+Воскресити Професора
 }
 
 STRING 5621
@@ -20049,7 +20051,7 @@ Bamboozling (Effect)
 
 STRING 5653
 {
-Bamboozling
+Вівцепад
 }
 
 STRING 5654
@@ -20059,7 +20061,7 @@ STRING 5654
 
 STRING 5655
 {
-Bamboozling
+Вівцепад
 }
 
 STRING 5656
@@ -20139,7 +20141,7 @@ STRING 5672
 
 STRING 5676
 {
-Triangulation
+Тріангуляція
 }
 
 STRING 5677
@@ -20154,7 +20156,7 @@ E
 
 STRING 5679
 {
-Triangulation
+Тріангуляція
 }
 
 STRING 5681
@@ -20759,7 +20761,7 @@ STRING 5843
 
 STRING 5844
 {
-Lord Paladin
+Лорд Паладин
 }
 
 STRING 5845
@@ -20779,7 +20781,7 @@ STRING 5848
 
 STRING 5849
 {
-Paladin of Protection
+Паладин Захисту
 }
 
 STRING 5850
@@ -20799,7 +20801,7 @@ STRING 5853
 
 STRING 5854
 {
-Lord Paladin
+Лорд Паладин
 }
 
 STRING 5855
@@ -20945,17 +20947,17 @@ STRING 5891
 
 STRING 5892
 {
-Permanent Polymorph
+Постійне перетворення
 }
 
 STRING 5895
 {
-Summon Ram
+Прикликати Барана
 }
 
 STRING 5896
 {
-Summon Ram
+Прикликати Барана
 }
 
 STRING 5897
@@ -20975,7 +20977,7 @@ STRING 5901
 
 STRING 5902
 {
-Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes.
+Перетворює ворожу одиницю на вівцю назавжди. |nНе можна накласти на Героїв.
 }
 
 STRING 5904
@@ -22369,7 +22371,7 @@ Train Stormcaller
 
 STRING 6234
 {
-Catapult
+Катапульта
 }
 
 STRING 6235
@@ -22989,12 +22991,12 @@ Deathwing moves on its feet on the ground.
 
 STRING 6361
 {
-Land
+Приземлитися
 }
 
 STRING 6362
 {
-Take Wing
+Злетіти
 }
 
 STRING 6363
@@ -24649,7 +24651,7 @@ STRING 6798
 
 STRING 6799
 {
-Grenade Toss
+Кидок Гранати
 }
 
 STRING 6800
@@ -24659,7 +24661,7 @@ Q
 
 STRING 6802
 {
-Grenade Toss
+Кидок Гранати
 }
 
 STRING 6803
@@ -26179,7 +26181,7 @@ Q
 
 STRING 7149
 {
-Longbow
+Довгий лук
 }
 
 STRING 7151
@@ -26484,7 +26486,7 @@ Once a knight of the Kingdom of Azeroth, he fought the orcs and defended Stormwi
 
 STRING 7228
 {
-Revive Chronicler
+Воскресити Літописця
 }
 
 STRING 7229
@@ -27000,7 +27002,7 @@ STRING 7354
 
 STRING 7355
 {
-Healing Prayer
+Зцілювальна молитва
 }
 
 STRING 7356
@@ -27040,7 +27042,7 @@ STRING 7362
 
 STRING 7363
 {
-Healing Prayer
+Зцілювальна молитва
 }
 
 STRING 7364
@@ -27050,7 +27052,7 @@ STRING 7364
 
 STRING 7365
 {
-Healing Prayer
+Зцілювальна молитва
 }
 
 STRING 7366
@@ -27060,7 +27062,7 @@ This unit has heard Healing Prayer; it is healing hit points over time.
 
 STRING 7367
 {
-Mark of the Heretic
+Тавро єретика
 }
 
 STRING 7368
@@ -27070,7 +27072,7 @@ STRING 7368
 
 STRING 7369
 {
-Mark of the Heretic
+Тавро єретика
 }
 
 STRING 7370
@@ -27284,17 +27286,17 @@ STRING 7412
 
 STRING 7413
 {
-Monarch
+Монарх
 }
 
 STRING 7414
 {
-Monarch
+Монарх
 }
 
 STRING 7415
 {
-Mark of the Heretic
+Тавро єретика
 }
 
 STRING 7416
@@ -27354,7 +27356,7 @@ High Thane of the Wildhammer dwarves, mounted on his loyal gryphon Sky'ree. Adep
 
 STRING 7439
 {
-High Thane
+Верховний тан
 }
 
 STRING 7440
@@ -27364,7 +27366,7 @@ STRING 7440
 
 STRING 7442
 {
-High Thane
+Верховний тан
 }
 
 STRING 7443
@@ -27374,7 +27376,7 @@ STRING 7443
 
 STRING 7445
 {
-High Thane
+Верховний тан
 }
 
 STRING 7446
@@ -27434,12 +27436,12 @@ STRING 7456
 
 STRING 7457
 {
-Sky'ree lands on the ground.
+Скай’рі сідає на землю.
 }
 
 STRING 7458
 {
-Sky'ree takes wing and flies in the sky.
+Скай’рі злітає у небо.
 }
 
 STRING 7459
@@ -27666,7 +27668,7 @@ STRING 7511
 
 STRING 7512
 {
-Battleship
+Лінкор
 }
 
 STRING 7513
@@ -27691,7 +27693,7 @@ STRING 7515
 
 STRING 7516
 {
-Battleship
+Лінкор
 }
 
 STRING 7517
@@ -27841,7 +27843,7 @@ A
 
 STRING 7546
 {
-Battleship
+Лінкор
 }
 
 STRING 7547
@@ -28294,7 +28296,7 @@ STRING 7676
 
 STRING 7680
 {
-Increases attack range by 200.
+Збільшує відстань атаки на 200 од.
 }
 
 STRING 7681
@@ -28304,7 +28306,7 @@ Causes a target enemy unit to be bound to the ground so that it cannot move for 
 
 STRING 7682
 {
-Increases attack range by 200.
+Збільшує відстань атаки на 200 од.
 }
 
 STRING 7683
@@ -28660,7 +28662,7 @@ Damage per Second: |cffffcc00<APFS,DataA1>|r
 
 STRING 7753
 {
-Increases attack range by 200.
+Збільшує відстань атаки на 200 од.
 }
 
 STRING 7754
@@ -28710,7 +28712,7 @@ STRING 7762
 
 STRING 7763
 {
-Arcane Storm
+Потаємна Буря
 }
 
 STRING 7764
@@ -28894,7 +28896,7 @@ STRING 7819
 
 STRING 7821
 {
-Amulet of the Tidemother
+Амулет Матері Приливу
 }
 
 STRING 7822
@@ -29523,12 +29525,12 @@ STRING 7959
 
 STRING 7960
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7961
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7962
@@ -29619,122 +29621,122 @@ STRING 7987
 
 STRING 7988
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7989
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7990
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7991
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7992
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7993
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7994
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7995
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7996
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7997
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7998
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 7999
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8000
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8001
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8002
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8003
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8004
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8005
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8006
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8007
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8008
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8009
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8010
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8011
 {
-Milan's Training
+Тренування Мілана
 }
 
 STRING 8016
@@ -29834,12 +29836,12 @@ Hide
 
 STRING 8040
 {
-Firebolt - [|cffffcc00Level 2|r]
+Вогняний Розряд - [|cffffcc00Рівень 2|r]
 }
 
 STRING 8041
 {
-Firebolt - [|cffffcc00Level 3|r]
+Вогняний Розряд - [|cffffcc00Рівень 3|r]
 }
 
 STRING 8042
@@ -29849,7 +29851,7 @@ STRING 8042
 
 STRING 8043
 {
-Firebolt - [|cffffcc00Level 1|r]
+Вогняний Розряд - [|cffffcc00Рівень 1|r]
 }
 
 STRING 8044
@@ -29917,7 +29919,7 @@ STRING 8057
 
 STRING 8058
 {
-Riposte
+Контратака
 }
 
 STRING 8059
@@ -29972,12 +29974,12 @@ Stinking Cloud
 
 STRING 8074
 {
-Riposte
+Контратака
 }
 
 STRING 8075
 {
-Riposte
+Контратака
 }
 
 STRING 8076
@@ -30563,7 +30565,7 @@ STRING 8197
 
 STRING 8198
 {
-Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor
+Схоласт,Слуга,Зброєносець,Літописець,Капрал,Сержант,Лейтенант,Капітан,Командир,Майор,Полковник,Маршал,Фельдмаршал,Сенешаль,Королівський Радник
 }
 
 STRING 8199
@@ -30724,7 +30726,7 @@ Revive Lord Paladin
 
 STRING 8231
 {
-Paladin of Protection
+Паладин Захисту
 }
 
 STRING 8232
@@ -32081,7 +32083,7 @@ Versatile ranged soldier. |n|n|cffffcc00Abilities:|r Defend, Ensnare.|nUnlocked 
 
 STRING 8513
 {
-Versatile ranged soldier. |n|n|cffffcc00Abilities:|r Longbow.|nUnlocked by upgrade - Imrpoved Ranged Weapons. |n|n|cffffcc00Attacks land and air units.|r
+Універсальний воїн дальнього бою.|n|n|cffffcc00Здібності:|r Довгий лук.|nВідкривається після дослідження «Покращена далекобійна зброя».|n|n|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 8514
@@ -32235,7 +32237,7 @@ M
 
 STRING 8545
 {
-Troll Destroyer
+Руйнівник тролів
 }
 
 STRING 8546
@@ -32266,7 +32268,7 @@ STRING 8550
 
 STRING 8551
 {
-Troll Axethrower
+Троль Сокирокид
 }
 
 STRING 8552
@@ -32292,7 +32294,7 @@ R
 
 STRING 8556
 {
-Catapult
+Катапульта
 }
 
 STRING 8557
@@ -32312,7 +32314,7 @@ Long-range siege weaponry. Devastating against buildings and effective against g
 
 STRING 8560
 {
-Ogre
+Оґр
 }
 
 STRING 8561
@@ -32333,12 +32335,12 @@ STRING 8563
 
 STRING 8564
 {
-Apprentice, Adept, Master
+Учень, Адепт, Майстер
 }
 
 STRING 8565
 {
-- Eye of Kilrogg,- Eye of Kilrogg|n- Bloodlust,- Eye of Kilrogg|n- Bloodlust|n- Runes
+- Кровожерливість,- Кровожерливість|n- Око Кілроґа,- Кровожерливість|n- Око Кілроґа|n- Руни
 }
 
 STRING 8566
@@ -32363,7 +32365,7 @@ STRING 8569
 
 STRING 8570
 {
-Goblin Sappers
+Загін ґоблінів саперів
 }
 
 STRING 8571
@@ -32378,7 +32380,7 @@ The mischievous Goblin Sappers are known throughout the Horde for their incredib
 
 STRING 8573
 {
-Death Knight
+Лицар смерті
 }
 
 STRING 8574
@@ -32393,12 +32395,12 @@ Train Death Knight
 
 STRING 8576
 {
-- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind
+- Дотик пітьми|n- Підняти мерців,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність|n- Смерч
 }
 
 STRING 8577
 {
-Initiate, Adept, Master, Necromancer
+Посвячений, Адепт, Володар, Некромант
 }
 
 STRING 8578
@@ -32424,7 +32426,7 @@ STRING 8581
 
 STRING 8582
 {
-Brute
+Рубайло
 }
 
 STRING 8583
@@ -32486,7 +32488,7 @@ STRING 8593
 
 STRING 8594
 {
-Bonecrusher
+Кістколам
 }
 
 STRING 8595

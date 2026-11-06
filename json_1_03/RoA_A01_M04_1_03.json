@@ -1,0 +1,1297 @@
+{
+  "RoA_A01_M04_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HERO|r\nAnduin Lothar – Supreme Commander of the Grand Alliance. A masterful warrior with devastating frontline prowess.",
+    "ukUA": "|cff8080ffНОВИЙ ГЕРОЙ|r\nАндуїн Лотар – Верховний головнокомандувач Великого Альянсу. Майстерний воїн, що неперевершено нищить та спустошує ворогів на полі бою."
+  },
+  "RoA_A01_M04_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW SEMI HERO|r \nMilan, Chronicler of the House of Scribes – A High Elf scribe skilled with sword and bow. Can switch between |cffff0000melee|r and |cff00ff00ranged|r combat for tactical advantage.",
+    "ukUA": "|cff8080ffНОВИЙ НАПІВГЕРОЙ|r \nМілан, Літописець з дому писарів — вищий ельф, що вправно володіє мечем і луком. Може перемикатися між |cffff0000ближнім|r та |cff00ff00дальнім|r боєм задля тактичної переваги."
+  },
+  "RoA_A01_M04_MESS_003": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff87ceebREINFORCEMENT|r  \nLord Crowley and a squad of Gilnean forces will follow Anduin Lothar. You cannot control them directly, however, as the Gilneans value their independence.",
+    "ukUA": "|cff87ceebПІДКРІПЛЕННЯ|r  \nЛорд Кровлі разом із військами Ґілнеаса виступить слідом за Андуїном Лотаром. Ви не зможете їми керувати, оскільки народ Ґілнеаса надто цінує власну незалежність."
+  },
+  "RoA_A01_M04_MESS_004": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nGilnean Frigates can help you protect your coastline till you build your own destroyers.",
+    "ukUA": "|cff87ceebПІДКРІПЛЕННЯ|r\nҐілнеаські Фрегати стануть у пригоді для оборони берегової лінії, поки ви не побудуєте власні бойові кораблі."
+  },
+  "RoA_A01_M04_MESS_005": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nTransports carry your forces across the sea.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r\nТранспорті човни дають змогу транспортувати війська морем."
+  },
+  "RoA_A01_M04_MESS_006": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r\nGilnean labourers will help Anduin Lothar rebuild Hillsbrad and prepare military infrastructure.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r\nҐілнеаські робітники допоможуть Андуїну Лотару відбудувати Гіллсбрад і підготувати військову інфраструктуру."
+  },
+  "RoA_A01_M04_MESS_007": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nMan at Arms. Seasoned Azerothian veterans capable of dealing multiplied damage when properly trained.  \nWith the Alliance weakened by heavy losses, Anduin Lothar has called upon his reserves, drawing from his most trusted compatriots.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r \nДружинники(Man at Arms). Досвідчені ветерани Азероту, що здатні наносити суттєвий урон після відповідних тренувань. Через серйозні втрати, що знесилили Альянс, Андуїн Лотар звернувся цих людей, прикликавши їх під свої знамена як найвідданіших соратників."
+  },
+  "RoA_A01_M04_MESS_008": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nRefineries serve as a drop off point for oil and provide tanker upgrades.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r\nТранспорті човни дають змогу транспортувати війська морем."
+  },
+  "RoA_A01_M04_MESS_009": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nFoundry. Obsessed with creating the strongest force in the Alliance, human artisans provided Anduin Lothar with designs of the Foundry that can upgrade ships.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r\nЛиварня(Foundry). Одержимі ідеєю створити наймогутнішу силу в Альянсі, Лордеронські ремісники надали креслення Ливарні, у якій можна вдосконалювати кораблі."
+  },
+  "RoA_A01_M04_MESS_010": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r  \nFrontal Cannon Shot. With ample oil reserves, your Foundry artisans can now prepare enough explosives to equip your ships with frontal cannons.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ЗДІБНОСТІ|r  \nПостріл із фронтальної гармати(Frontal Cannon Shot). Завдяки значним запасам нафти майстри Ливарні відтепер здатні виробити достатньо вибухових речовин, щоб оснастити ваші бойові кораблі фронтальними гарматами."
+  },
+  "RoA_A01_M04_MESS_011": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nMilan is the only semi-hero whose rank increases after completing side quests. Each rank unlocks new abilities, enhances existing ones, and grants bonuses to health and movement speed.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nМілан Ліпописець єдиний напівгерой чий рівень збільшується після виконання побічних(додаткових) завдань. Кожен новий рівень розблокує нові здібності,покращує наявні та збільшує здоров'я та швидкість руху."
+  },
+  "RoA_A01_M04_MESS_012": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r\nOnly Lothar can carry this flag.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r\nТільки Лотар може нести цей прапор."
+  },
+  "RoA_A01_M04_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake Hillsbrad",
+    "ukUA": "Повернути Гіллзбрад"
+  },
+  "RoA_A01_M04_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "To drive the Horde from western Lordaeron, their stronghold on the Channel Islands must be destroyed. Retake Hillsbrad, the foothold that anchors their presence, and reclaim the land for the Alliance!",
+    "ukUA": "Аби вибити Орду з західної частнини Лордерону, необхідно знищити їхній форпост, який на Островах каналу.Гіллзбрад містечко в якому вони закріпилися, поверніть його та ці землі загалом під контроль Альянсу!"
+  },
+  "RoA_A01_M04_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Secure the town.",
+    "ukUA": "Поверніть місто під контроль."
+  },
+  "RoA_A01_M04_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Lothar must survive.",
+    "ukUA": "Лотар має вижити."
+  },
+  "RoA_A01_M04_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Lothar must survive.",
+    "ukUA": "Лотар має вижити."
+  },
+  "RoA_A01_M04_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive.",
+    "ukUA": "Данат має вижити."
+  },
+  "RoA_A01_M04_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive.",
+    "ukUA": "Данат має вижити."
+  },
+  "RoA_A01_M04_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Secure the coastline",
+    "ukUA": "Візьміть під контроль узбережжя"
+  },
+  "RoA_A01_M04_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nRetake Hillsbrad\n - Secure the town\n - Danath must survive\n - Lothar must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nПовернути Гіллзбрад \n - Поверніть місто під контроль\n - Данат має вижити\n - Лотар має вижит."
+  },
+  "RoA_A01_M04_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake Hillsbrad\n - |cff808080Secure the town (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДДАННЯ ВИКОНАНО|r\nПовернути Гіллзбрад \n - |cff808080Поверніть місто під контроль (Виконано)|r"
+  },
+  "RoA_A01_M04_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake Hillsbrad\n - Secure the coastline\n - Danath must survive\n - Lothar must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПовернути Гіллзбрад \n - Візьміть під контроль узбережжя\n - Данат має вижити\n - Лотар має вижити"
+  },
+  "RoA_A01_M04_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nRetake Hillsbrad",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nПовернути Гіллзбрад"
+  },
+  "RoA_A01_M04_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nRetake Hillsbrad\n - |cffff0000Danath must Survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nПовернути Гіллзбрад \n - |cffff0000Данат має вижити (Провалено)|r"
+  },
+  "RoA_A01_M04_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nRetake Hillsbrad\n - |cffff0000Lothar must Survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nПовернути Гіллзбрад \n - |cffff0000Лотар має вижити (Провалено)|r"
+  },
+  "RoA_A01_M04_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Field Preparations",
+    "ukUA": "Підготовка штурму"
+  },
+  "RoA_A01_M04_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Ready your forces for the coming assault on Zul’dare. Ensure your army is equipped, trained, and prepared for the battles that lie ahead.",
+    "ukUA": "Зберіть достатні сили для атаки на Зул'Дар. Переконайтеся, що ваше військо гарно споряджене, і готове до битви за острів."
+  },
+  "RoA_A01_M04_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nPreparations\n - Maintain 12 Archers\n - Maintain 12 Soldiers\n - Maintain 4 Transport Ships\n - Maintain 8 Destroyer Ships",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАНННЯ|r\nПідготовка штурму\n - Мати в наявності 12 лучників\n - Мати в наявності 12 солдатів\n - Мати в наявності 4 транспортних човни\n - Мати в наявності 8 ельфійських руйнівників"
+  },
+  "RoA_A01_M04_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 12 Archers.",
+    "ukUA": "Мати в наявності 12 лучників."
+  },
+  "RoA_A01_M04_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 12 Soldiers.",
+    "ukUA": "Мати в наявності 12 солдатів."
+  },
+  "RoA_A01_M04_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 4 Transport Ships.",
+    "ukUA": "Мати в наявності 4 транспортих човни."
+  },
+  "RoA_A01_M04_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 8 Destroyer Ships.",
+    "ukUA": "Мати в наявності 8 ельфійських руйнівників."
+  },
+  "RoA_A01_M04_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 12 Soldiers (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідготовка штурму\n - |cff808080Мати в наявності 12 солдатів (Виконано)|r"
+  },
+  "RoA_A01_M04_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 12 Archers (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідготовка штурму\n - |cff808080Мати в наявності 12 лучників (Виконано)|r"
+  },
+  "RoA_A01_M04_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 4 Transport Ships (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідготовка штурму\n - |cff808080Мати в наявності 4 транспортих човни (Виконано)|r"
+  },
+  "RoA_A01_M04_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nPreparations",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r\nПідготовка штурму"
+  },
+  "RoA_A01_M04_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nPreparations\n - |cffff0000Your camp is destroyed!|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nПідготовка штурму\n - |cffff0000Ваш табір було знищено!|r"
+  },
+  "RoA_A01_M04_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 8 Destroyer Ships (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПідготовка штурму\n - |cff808080 Мати в наявності 8 ельфійських руйнівників (Виконано)|r"
+  },
+  "RoA_A01_M04_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Oil Deposits",
+    "ukUA": "Запаси нафти"
+  },
+  "RoA_A01_M04_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In order to prepare the navy for the assault at Zul'Dare, you will require massive amounts of Oil. Claim the local oil patches and build your Oil Platforms.",
+    "ukUA": "Щоб підготувати флот до штурму Зул'дара, вам знадобиться величезна кількість нафти. Захопіть місцеві нафтові родовища та побуйте на них нафтові платформи."
+  },
+  "RoA_A01_M04_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms.",
+    "ukUA": "Побудуйте 4 нафтові платфори."
+  },
+  "RoA_A01_M04_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms.",
+    "ukUA": "Побудуйте 4 нафтові платфори."
+  },
+  "RoA_A01_M04_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nOil Deposits",
+    "ukUA": "|cffffcc00ДОДАТКОВА ЗАВДАНННЯ ПРОВАЛЕНО|r\nЗапаси нафти"
+  },
+  "RoA_A01_M04_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nOil Deposits",
+    "ukUA": "|cffffcc00ДОДАТКОВА ЗАВДАНННЯ ВИКОНАНО|r\nЗапаси нафти"
+  },
+  "RoA_A01_M04_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nOil Deposits\n - Build 4 Oil Plarforms",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nЗапаси нафти\n - Побудуйте 4 нафтові платформи"
+  },
+  "RoA_A01_M04_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (1 of 4 built)",
+    "ukUA": "|cffffcc00ДОДАТКОВА ЗАВДАННЯ ОНОВЛЕНО|r\nЗапаси нафти\n - Побудуйте 4 нафтові платформи (1 з 4 побудовано)"
+  },
+  "RoA_A01_M04_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (2 of 4 built)",
+    "ukUA": "|cffffcc00ДОДАТКОВА ЗАВДАННЯ ОНОВЛЕНО|r\nЗапаси нафти\n - Побудуйте 4 нафтові платформи (2 з 4 побудовано)"
+  },
+  "RoA_A01_M04_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (3 of 4 built)",
+    "ukUA": "|cffffcc00ДОДАТКОВА ЗАВДАННЯ ОНОВЛЕНО|r\nЗапаси нафти\n - Побудуйте 4 нафтові платформи (3 з 4 побудовано)"
+  },
+  "RoA_A01_M04_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms (1 of 4 built).",
+    "ukUA": "Побудуйте 4 нафтові платформи (1 з 4 побудовано)"
+  },
+  "RoA_A01_M04_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms (2 of 4 built).",
+    "ukUA": "Побудуйте 4 нафтові платформи (2 з 4 побудовано)"
+  },
+  "RoA_A01_M04_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms (3 of 4 built).",
+    "ukUA": "Побудуйте 4 нафтові платформи (3 з 4 побудовано)"
+  },
+  "RoA_A01_M04_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Blackrock Remnants",
+    "ukUA": "Залишки клану Чорного Каменю"
+  },
+  "RoA_A01_M04_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Orcish forces linger on the eastern peninsula. Leave none alive and eradicate their presence to secure the region.",
+    "ukUA": "На східному півострові досі перебувають залшки орків з клану Чорного Каменю. Знищіть всіх та повнітю викорініть їхню присутність щоб остаточно убезпечити цей регіон."
+  },
+  "RoA_A01_M04_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy all orcish forces.",
+    "ukUA": "Знищіть всі залишки орків."
+  },
+  "RoA_A01_M04_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nBlackrock Remnants\n - Destroy all orcish forces",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nЗалишки клану Чорного Каменю\n - Знищіть всі залишки орків"
+  },
+  "RoA_A01_M04_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nBlackrock Remnants",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗалишки клану Чорного Каменю"
+  },
+  "RoA_A01_M04_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nBlackrock Remnants",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r\nЗалишки клану Чорного Каменю"
+  },
+  "RoA_A01_M04_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Ghosts of Hillsbrad",
+    "ukUA": "Привиди Гіллзбрада"
+  },
+  "RoA_A01_M04_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The unholy presence of orcish necromancers has raised the slain people of Hillsbrad from their graves. Put an end to their suffering and cleanse the land of this dark magic.",
+    "ukUA": "Орочі некроманти піднялі з могил мертвих жителів Гіллзбрада. Покладіть край їхнім стражданням та очистіть нарешті ці землі від нечестивої магії."
+  },
+  "RoA_A01_M04_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy the corpse piles (0/3)",
+    "ukUA": "Знищте могильники (0/3)"
+  },
+  "RoA_A01_M04_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (0/3)",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nПривиди Гіллзбрада \n - Знищте могильники (0/3)"
+  },
+  "RoA_A01_M04_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nGhosts of Hillsbrad",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nПривиди Гіллзбрада"
+  },
+  "RoA_A01_M04_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (1/3)",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПривиди Гіллзбрада \n - Знищте могильники (1/3)"
+  },
+  "RoA_A01_M04_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (2/3)",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПривиди Гіллзбрада \n - Знищте могильники (2/3)"
+  },
+  "RoA_A01_M04_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nGhosts of Hillsbrad",
+    "ukUA": "|cffffcc00ДАДОТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nПривиди Гіллзбрада"
+  },
+  "RoA_A01_M04_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Zul’dare",
+    "ukUA": "Зул'Дар"
+  },
+  "RoA_A01_M04_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The Horde’s naval base on Zul’dare marks the site of their first strike against the kingdom. Lead the attack and show their “Warchief” that the Alliance is coming for him. Leave no orc standing.",
+    "ukUA": "Морська база Орди, що на Зул'Дарі — це місце, звідки орки завдали свого першого удару по королівству. Ви очолюєте цей наступ і маєте продемонструвати їхньому «Вождю», що Альянс близько. Винищте всіх орків до останнього."
+  },
+  "RoA_A01_M04_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Capture Zul'dare outposts.",
+    "ukUA": "Захопіть табір на острові Зул'Дар."
+  },
+  "RoA_A01_M04_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Bloodscribe camp.",
+    "ukUA": "Знищіть табір клану Кривавого Літопису."
+  },
+  "RoA_A01_M04_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Lothar must survive.",
+    "ukUA": "Лотар має вижити."
+  },
+  "RoA_A01_M04_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive.",
+    "ukUA": "Данат має вижити."
+  },
+  "RoA_A01_M04_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nZul’dare\n - Capture Zul'dare outposts\n - Destroy Bloodscribe camp\n - Lothar must survive\n - Danath must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nЗул'Дар\n - Захопіть табір на острові Зул'Дар\n - Знищіть табір клану Кривавого Літопису\n - Лотар має вижити\n - Данат має вижити"
+  },
+  "RoA_A01_M04_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nZul’dare",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nЗул'Дар"
+  },
+  "RoA_A01_M04_OBJE_063": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nZul’dare\n - |cffff0000Danath must Survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗул'Дар\n - |cffff0000Данат має вижити. (Провалено)|r"
+  },
+  "RoA_A01_M04_OBJE_064": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nZul’dare\n - |cffff0000Lothar must Survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗул'Дар\n - |cffff0000Лотар має вижити. (Провалено)|r"
+  },
+  "RoA_A01_M04_OBJE_065": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nZul’dare\n - |cff808080Capture Zul'dare outposts. (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nЗул'Дар\n - |cff808080Захопіть острів Зул'Дар (Виконано)|r"
+  },
+  "RoA_A01_M04_OBJE_066": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nZul’dare\n - |cff808080Destroy Bloodscribe clan camp. (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nЗул’Дар\n - |cff808080Знищіть табір клану Кривавого Літопису (Виконано)|r"
+  },
+  "RoA_A01_M04_OBJE_067": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Utok Scratcher",
+    "ukUA": "Уток Дряпач"
+  },
+  "RoA_A01_M04_OBJE_068": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Utok Scratcher, the Horde’s second-in-command warlord, must be struck down. His death will deal a shattering blow to the Horde, defeat him and turn the tide of battle.",
+    "ukUA": "Уток Дряпач, другий за рангом воєначальник Орди маэ бути ліквідований.Його смерть завдасть нищівного удару по Орді — здолайте його й переломіть  нарешті хід війни."
+  },
+  "RoA_A01_M04_OBJE_069": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Defeat Utok Scratcher.",
+    "ukUA": "Переможіть Утока Дряпача."
+  },
+  "RoA_A01_M04_OBJE_070": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "At least one of your heroes must survive.",
+    "ukUA": "Як мінімум один з ваших героїв має вижити."
+  },
+  "RoA_A01_M04_OBJE_071": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nUtok Scratcher\n - Defeat Utok Scratcher\n - At least one of your heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nУток Дряпач\n - Переможіть Утока Дряпача\n - Як мінімум один з ваших героїв має вижити"
+  },
+  "RoA_A01_M04_OBJE_072": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nUtok Scratcher",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nУток Дряпач"
+  },
+  "RoA_A01_M04_OBJE_073": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nUtok Scratcher\n - |cffff0000At least one of your heroes must survive (Failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nУток Дряпач\n - |cffff0000Як мінімум один з ваших героїв має вижити (Провалено)|r"
+  },
+  "RoA_A01_M04_OBJE_074": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Secure the Sea",
+    "ukUA": "Зачистити море"
+  },
+  "RoA_A01_M04_OBJE_075": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The orcish armada near Hillsbrad blocks the path to Zul’dare. Destroy their fleet and clear the waters to allow your forces safe passage.",
+    "ukUA": "Ороча морська ардама поблизу Гілзбрада перекриває дорогу до Зул'Дара. Знищіть їх флот і розчистіть ці води аби ваші сили могли безпечно пройти."
+  },
+  "RoA_A01_M04_OBJE_076": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find and Destory Orcish Shipyards.",
+    "ukUA": "Знайдіть та знищіть всі орочі корабельні."
+  },
+  "RoA_A01_M04_OBJE_077": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nSecure the Sea\n - Find and Destory Orcish Shipyards",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nЗачистити море\n - Знайдіть та знищіть всі орочі корабельні."
+  },
+  "RoA_A01_M04_OBJE_078": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nSecure the Sea",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r\nЗачистити море"
+  },
+  "RoA_A01_M04_OBJE_079": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nSecure the Sea",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗачистити море"
+  },
+  "RoA_A01_M04_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Main Quest Objectives",
+    "ukUA": "Цілі завдання"
+  },
+  "RoA_A01_M04_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Remaining enemies:",
+    "ukUA": "Лишилося ворожих одиниць:"
+  },
+  "RoA_A01_M04_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Flags to put in a circle:",
+    "ukUA": "Встановлено прапорів:"
+  },
+  "RoA_A01_M04_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Flags to put in a circle:",
+    "ukUA": "Встановлено прапорів:"
+  },
+  "RoA_A01_M04_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Remaining enemies:",
+    "ukUA": "Лишилося ворожих одиниць:"
+  },
+  "RoA_A01_M04_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Archers:",
+    "ukUA": "Наявні лучники:"
+  },
+  "RoA_A01_M04_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Soldiers:",
+    "ukUA": "Наявні солдати:"
+  },
+  "RoA_A01_M04_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Transports:",
+    "ukUA": "Наявний транспорт:"
+  },
+  "RoA_A01_M04_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Destroyers:",
+    "ukUA": "Наявних руйнівників:"
+  },
+  "RoA_A01_M04_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Bloodscribe camp!",
+    "ukUA": "Знищіть табір Кривавого Літопису!"
+  },
+  "RoA_A01_M04_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Utok's sanctuary lasts for:",
+    "ukUA": "Уток буде невразливим ще:"
+  },
+  "RoA_A01_M04_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "To be Continued...",
+    "ukUA": "Далі буде..."
+  },
+  "RoA_A01_M04_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Act II \"Khaz Modan\" currently in development. Stay tuned for upcoming acts!",
+    "ukUA": "Акт II - Каз Модан вже в активній розробці. Слідкуйте за нашими соц мережами з приводу оновлень."
+  },
+  "RoA_A01_M04_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "We are approaching Hillsbrad, my lord.",
+    "ukUA": "Наближаємось до Гіллзбраду, мілорде."
+  },
+  "RoA_A01_M04_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "This town marks the site where the greenskins first unleashed their true barbarity on the lands of Lordaeron. And it still reeks of death and decay.",
+    "ukUA": "У цьому містечку, зеленошкірі показали які вони насправді чудовиська, саме з цього місця вони почали поширювати варватсво у землях Лордерону. Тут і досі тхне смертю і занепадом."
+  },
+  "RoA_A01_M04_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Lordaeron… but not the first time for humanity. The Horde is a blight that seeks to turn the entire continent into burning cinders…",
+    "ukUA": "Лордерон… але для людства це вже не вперше. Орда — це скверна, яка прагне перетворити весь континент на попіл…"
+  },
+  "RoA_A01_M04_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "I am ready to face them! Both my sword and bow thirst for orcish blood!",
+    "ukUA": "Я готовий боротися з цими чудовиськами! Мій меч та мій лук прагнуть орочої крові!"
+  },
+  "RoA_A01_M04_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Lord Crowley is approaching Hillsbrad from the west. He’s ready to join us when we give the signal. Whatever awaits us there, we must retake Hillsbrad. Danath, sound the attack. Wilhelm, with me!",
+    "ukUA": "Лорд Кровлі підходить до Гіллзбраду із заходу. Він готовий приєднатися до нас, щойно ми дамо сигнал. Що б там на нас не чекало, ми мусимо відбити Гіллзбрад. Данате, труби атаку. Вільгельме, за мною!"
+  },
+  "RoA_A01_M04_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Soldiers! Form a line!",
+    "ukUA": "Солдати! Шикуйсь!"
+  },
+  "RoA_A01_M04_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "The Magistrate of Hillsbrad. Not even gold saved the bastard, and his folly cost Meryn his life.",
+    "ukUA": "Магістрат Гіллзбраду. Навіть золото не врятувало цього виродка, а його дурість коштувала Мерину життя."
+  },
+  "RoA_A01_M04_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "So many corpses... The entire town has been slaughtered.",
+    "ukUA": "Так багато трупів... Усе містечко вирізали."
+  },
+  "RoA_A01_M04_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Too quiet… We've only faced scattered patrols. Where are the rest of their forces?",
+    "ukUA": "Щось тут занадто тихо… Ми стикалися з розрізненими патрулями. Де решта їхніх сил?"
+  },
+  "RoA_A01_M04_VO_S002_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Stay vigilant. We must be ready for anything.",
+    "ukUA": "Будьте пильними. Маємо бути готовими до всього."
+  },
+  "RoA_A01_M04_VO_S002_005": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "Ambush!",
+    "ukUA": "Засідка!"
+  },
+  "RoA_A01_M04_VO_S002_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Danath, sound the signal to our allies!",
+    "ukUA": "Данате, труби сигнал нашим союзникам! Негайно!"
+  },
+  "RoA_A01_M04_VO_S002_007": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Soldiers! The Lion of Azeroth calls! To battle!",
+    "ukUA": "Солдати! Лев Азероту кличе! До бою!"
+  },
+  "RoA_A01_M04_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "My lord, the orc forces have been destroyed. The town is secured…",
+    "ukUA": "Мілорде, сили орків знищено. Містечко в безпеці…"
+  },
+  "RoA_A01_M04_VO_S003_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "And in bad shape. The naval facilities have been completely destroyed. We must rebuild them and prepare an assault force before Zul'Dare can be taken.",
+    "ukUA": "І в жахливому стані. Морські споруди взагалі зруйновані вщент. Ми мусимо відбудувати їх і приготувати штурмовий загін, перш ніж зможемо захопити Зул'Дар."
+  },
+  "RoA_A01_M04_VO_S003_003": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "We have to harvest and refine oil for our ships as well. There might be troll destroyers in the nearby waters.",
+    "ukUA": "Треба також налагодити видобуток нафти для будування кораблів. У цих водах можуть бути руйнівники тролів."
+  },
+  "RoA_A01_M04_VO_S003_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Aye. Scout the area for any enemy ships, build up our naval infrastructure, and ready our forces for battle. You have your orders, men!",
+    "ukUA": "Саме так. Розвідайте ці води, та розбудуйте морську інфраструктуру і підготуйте наші війська до бою. Ви всі маєете накази, виконуйте!"
+  },
+  "RoA_A01_M04_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Commander, our scouts confirm that orcish vessels are patrolling the coastline.",
+    "ukUA": "Командире, розвідники підтверджують, що орочі судна патрулюють узбережжя."
+  },
+  "RoA_A01_M04_VO_S004_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "These waters must be cleansed if we are to secure our perimeter.",
+    "ukUA": "Ці води необхідно зачистити, якщо ми хочемо взяти під контроль наш периметр."
+  },
+  "RoA_A01_M04_VO_S004_003": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "You heard the man! Ready the sails!",
+    "ukUA": "Ви чули командира! Підняти вітрила!"
+  },
+  "RoA_A01_M04_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "My lord, some orcish forces remain entrenched along the eastern shore.",
+    "ukUA": "Мілорде, частина орочих сил залишається на укріплених позиціях уздовж східного узбережжя."
+  },
+  "RoA_A01_M04_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Then let’s destroy them. We cannot prepare our invasion force with our rear exposed.",
+    "ukUA": "Тоді знищимо їх. Ми не можемо готувати наші сили до вторгнення, коли наш тил під загрозою."
+  },
+  "RoA_A01_M04_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "Sir Lothar, the dead are attacking us!",
+    "ukUA": "Сіре Лотаре, мертві атакують нас!"
+  },
+  "RoA_A01_M04_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "How deplorable. Where did these wretches come from?",
+    "ukUA": "Яке паскудство. Звідки взялися ці потвори?"
+  },
+  "RoA_A01_M04_VO_S006_003": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "I sense the vile stain of necromancy. The victims of the orcish slaughter find no rest.",
+    "ukUA": "Я відчуваю слід якоїсь мерзенної некромантії. Жертви орочої різанини так і не знають спокою."
+  },
+  "RoA_A01_M04_VO_S006_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Then we must find their bodies, consecrate them, and grant them the peace they deserve.",
+    "ukUA": "Тоді ми мусимо знайти їхні тіла, освятити їх і дарувати їм спокій, на який вони заслуговують."
+  },
+  "RoA_A01_M04_VO_S006_005": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "I’ll see to it personally. For the Light!",
+    "ukUA": "Я займуся цим особисто. В ім'я Світла!"
+  },
+  "RoA_A01_M04_VO_S006_006": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "May the dead find solace in the hereafter.",
+    "ukUA": "Нехай мерті нарешті знайдуть спокій."
+  },
+  "RoA_A01_M04_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Oh Meryn…",
+    "ukUA": "Ох Меріне..."
+  },
+  "RoA_A01_M04_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "My lord, preparations have been made. Our forces are ready.",
+    "ukUA": "Мілорде, всі приготування завершено. Наші війська готові."
+  },
+  "RoA_A01_M04_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Very well. Gavinrad, I want you to stay behind and defend Hillsbrad from any possible incursion — and keep an eye on our elven friend.",
+    "ukUA": "Дуже добре. Ґавінраде, я хочу, щоб ти залишився і захищав Гіллзбрад від будь-якого можливого вторгнення — і наглядай за нашим ельфійским другом."
+  },
+  "RoA_A01_M04_VO_S008_003": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "I’ll keep Hillsbrad safe, my lord commander.",
+    "ukUA": "Я подбаю про безпеку Гіллзбраду, мілорд командувач."
+  },
+  "RoA_A01_M04_VO_S008_004": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "Am I not to join the final assault?",
+    "ukUA": "Хіба я не доєднаюсь до штурму?"
+  },
+  "RoA_A01_M04_VO_S008_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Your skills are needed here in Hillsbrad, elf. We shall reconvene once our task is done.",
+    "ukUA": "Твої навички потрібні тут, у Гіллзбраді, ельфе. Ми всі знову зберемося, щойно наше завдання буде виконано."
+  },
+  "RoA_A01_M04_VO_S008_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Danath, you will lead the vanguard. Wilhelm, you’ll remain at my side. Lord Crowley…",
+    "ukUA": "Данате, ти очолиш авангард. Вільгельме, ти залишишся зі мною. Лорде Кровлі…"
+  },
+  "RoA_A01_M04_VO_S008_007": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Yes, I’ll see to it we reach Zul’Dare in one piece.",
+    "ukUA": "Так, я подбаю про те, щоб ми дісталися Зул'Дара цілими."
+  },
+  "RoA_A01_M04_VO_S008_008": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Time to bash more greenskin skulls.",
+    "ukUA": "Час розтрощити ще кілька зеленошкірих черепів."
+  },
+  "RoA_A01_M04_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Some time later, Alliance ships entered the waters of the Channel Islands.",
+    "ukUA": "Через деякий час кораблі Альянсу увійшли у води канальних островів."
+  },
+  "RoA_A01_M04_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "As we navigate through the Channel Islands, the shores of Zul’Dare draw near. Our destination is within sight.",
+    "ukUA": "Поки ми пробираємося крізь канальні острови, береги Зул'Дара стають усе ближчими. Наша ціль уже в межах видимості."
+  },
+  "RoA_A01_M04_VO_S009_003": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "Captain, you have both eyes in place — tell me, what's that brown spot in the fog?",
+    "ukUA": "Капітане, ви маєте обидва ока на місці — скажіть, що це за коричнева пляма в тумані?"
+  },
+  "RoA_A01_M04_VO_S009_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "A troll destroyer ship. Seems like we’re going to have a naval fight.",
+    "ukUA": "Це руйнівник тролів. Схоже, на нас чекає морський бій."
+  },
+  "RoA_A01_M04_VO_S009_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Good thing we were wise enough to build and prepare our own ships — weren’t we?",
+    "ukUA": "Як добре, що нам вистачило розуму побудувати та підготувати власні кораблі, це ж так?"
+  },
+  "RoA_A01_M04_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "No sign of Doomhammer. But these banners… I don’t recognize them.",
+    "ukUA": "Жодних слідів Молота Згуби. Але ці стяги… Я їх не впізнаю."
+  },
+  "RoA_A01_M04_VO_S010_002": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "These wretched orcs are forcing us to work day and night!",
+    "ukUA": "Ці кляті орки змушували нас працювати вдень і вночі!"
+  },
+  "RoA_A01_M04_VO_S010_003": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Damn the orcs!",
+    "ukUA": "Кляті орки!"
+  },
+  "RoA_A01_M04_VO_S010_004": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Thank you, sire!",
+    "ukUA": "Дякую вам, сіре!"
+  },
+  "RoA_A01_M04_VO_S010_005": {
+    "type": "VO",
+    "unit_id": "MAA",
+    "unit_name": "Man at Arms",
+    "enUS": "My sword is yours!",
+    "ukUA": "Мій меч до ваших послуг."
+  },
+  "RoA_A01_M04_VO_S010_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "They tortured the soldiers we sent here a year ago… We will make them pay for this.",
+    "ukUA": "Вони катували солдатів, яких ми відправили сюди рік тому… Ми змусимо їх заплатити за це."
+  },
+  "RoA_A01_M04_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That’s their main camp.",
+    "ukUA": "Це їх головний табір!"
+  },
+  "RoA_A01_M04_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Burn it to the ground. The main orc in the fortress will be left without resources.",
+    "ukUA": "Спаліть його вщент. Головне ороча фортеця лишиться без ресурсів."
+  },
+  "RoA_A01_M04_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "By the authority of the Alliance of Lordaeron, I order you — open this gate and surrender your weapons!",
+    "ukUA": "Іменем влади Альянсу Лордерону я наказую вам — відчиніть ці ворота і складіть зброю!"
+  },
+  "RoA_A01_M04_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "You! I remember you.",
+    "ukUA": "Ти! Я пам'ятаю тебе."
+  },
+  "RoA_A01_M04_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "We are the Bloodscribe Clan! The Warchief has tasked us with protecting this island — and we shall! Your deaths will be a fitting sacrifice in his name!",
+    "ukUA": "Ми — клан Кривавого Літопису! Вождь доручив нам захищати цей острів — і ми захистимо! Ваші смерті стануть гідною жертвою в його ім'я!"
+  },
+  "RoA_A01_M04_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Empty words, orc! We have destroyed your forces!",
+    "ukUA": "Пусті слова, орку! Ми знищили всі ваші сили!"
+  },
+  "RoA_A01_M04_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Yes… and you’ve thrown away your soldiers like kindling on a dying fire. That pathetic line behind the gate? They won’t save you — not when I’m standing over your shattered skull!",
+    "ukUA": "Так… і ти розкидався своїми солдатами, наче трісками для згасаючого багаття. Ця жалюгідна шеренга за воротами? Вони не врятують тебе — особливо коли я стоятиму над твоїм розтрощеним черепом!"
+  },
+  "RoA_A01_M04_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Shut up, orc! You’d better save your breath for when we cross blades!",
+    "ukUA": "Стулися, орку! Краще прибережи сили для нашого бою!"
+  },
+  "RoA_A01_M04_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "The gates are shut. Wilhelm! Danath! Charge!",
+    "ukUA": "Браму зачинено. Вільгельме! Данате! До бою!"
+  },
+  "RoA_A01_M04_VO_S012_008": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "For Azeroth!",
+    "ukUA": "За Азерот!"
+  },
+  "RoA_A01_M04_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "I was at the Warchief’s side in all his battles! I know his strategies — you can’t outsmart me!",
+    "ukUA": "Я був поруч із Вождем у всіх його битвах! Я знаю його стратегії — вам мене не подолати!"
+  },
+  "RoA_A01_M04_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I can leap to the archers on the wall. Danath, take care of the grunts down here.",
+    "ukUA": "Я можу застрибнути до лучників на стіні. Данате, подбай про рубайл тут внизу."
+  },
+  "RoA_A01_M04_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "You think it’s easy to defeat and kill me? Bloodscribes — attack!",
+    "ukUA": "Ви думаєте, що мене так легко перемогти й вбити? Клан Криваваго Літопису — до бою!"
+  },
+  "RoA_A01_M04_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "For Doomhammer! For the Bloodscribe Clan!",
+    "ukUA": "За Молота Згуби! За клан Кривавого Літопису!"
+  },
+  "RoA_A01_M04_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Stromgarde, Lordaeron, Quel’Thalas— I saw them all burn! What chance do you have?!",
+    "ukUA": "Стормварт, Лордерон, Квел'Талас — я бачив, як вони всі палали! Які шанси у вас?!"
+  },
+  "RoA_A01_M04_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Argh… I’m grievously wounded… I can’t continue the fight, my lord…",
+    "ukUA": "Аргх... Мене серйозно поранено... Я не можу далі бутися, мілорде..."
+  },
+  "RoA_A01_M04_VO_S014_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I’m badly wounded… You need to finish this without my aid, lad…",
+    "ukUA": "Я сильно поранений... Вам треба закінчити це без моє допомоги, хлопці..."
+  },
+  "RoA_A01_M04_VO_S014_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I can use that flagpole to jump from the wall.",
+    "ukUA": "Я можу використати той флагшток, щоб зістрибнути зі стіни"
+  },
+  "RoA_A01_M04_VO_S015_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Wilhelm! No…",
+    "ukUA": "Вільгельме! Ні…"
+  },
+  "RoA_A01_M04_VO_S015_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "We have you cornered, orc. There’s no point in fighting back now. Surrender — and tell me, where’s your Warchief?!",
+    "ukUA": "Тебе загнано немов пацюка, орку. Немає сенсу опиратися. Здавайся — і кажи, де Вождь?!"
+  },
+  "RoA_A01_M04_VO_S015_003": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "You think I have no honor? That I would betray my people?! Lok’tar ogar!",
+    "ukUA": "Ти думаєш, у мене немає честі? Що я зраджу свій народ?! Лок'тар оґар!"
+  },
+  "RoA_A01_M04_VO_S015_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Any last words, beast?",
+    "ukUA": "Твої останні слова, тварюко?"
+  },
+  "RoA_A01_M04_VO_S015_005": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Kiss my boots, human!",
+    "ukUA": "Цілую мої чоботи, людино!"
+  },
+  "RoA_A01_M04_VO_S015_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "So be it…",
+    "ukUA": "Ти свій вибір зробив..."
+  },
+  "RoA_A01_M04_VO_S015_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "In the name of King Trollbane and the Kingdom of Stromgarde — for the crimes you committed against my people… my family… I hereby sentence you to die.",
+    "ukUA": "Іменем короля Тролебоя та королівства Стормварт — за злочини, які ти вчинив проти мого народу… моєї родини… я засуджую тебе до страти."
+  },
+  "RoA_A01_M04_VO_S015_008": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "For my father…",
+    "ukUA": "За мого батька…"
+  },
+  "RoA_A01_M04_VO_S016_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Our work here is finished. Gather the wounded, and let us return to Hillsbrad.",
+    "ukUA": "Нашу роботу тут скінчено. Зберіть поранених, і повертаймося до Гіллзбраду."
+  },
+  "RoA_A01_M04_VO_S017_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Next morning, Anduin Lothar and Danath Trollbane reached Hillsbrad.",
+    "ukUA": "Наступного ранку Андуїн Лотар і Данат Трольбайн дісталися Гіллзбраду."
+  },
+  "RoA_A01_M04_VO_S017_002": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Wilhelm and Meryn were laid to rest near the town, their sacrifice honored so that their heroism would be remembered for generations.",
+    "ukUA": "Вільгельма та Мерина поховали неподалік містечка, віддавши шану їхній самопожертві, щоб їхній героїзм пам'ятали наступні покоління."
+  },
+  "RoA_A01_M04_VO_S017_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "He has fallen in battle… gave his life for Azeroth — for me. He was a brave lad, an able soldier, and a loyal man. Much like Meryn. We must remember them as such.",
+    "ukUA": "Він поліг у бою… віддав життя за Азерот — за мене. Він був хоробрим хлопцем, здібним солдатом і вірною людиною. Багато в чому схожим на Меріна. Ми мусимо пам'ятати їх саме такими."
+  },
+  "RoA_A01_M04_VO_S017_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "What now, commander?",
+    "ukUA": "Що тепер, командире?"
+  },
+  "RoA_A01_M04_VO_S017_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I need to ride north — to rendezvous with Turalyon and confer with the High Command. Someone needs to check on those damned royals. And there’s an old acquaintance of mine I have to meet…",
+    "ukUA": "Мені потрібно вирушити на північ — щоб зустрітися з Тураліоном і порадитися з Верховним командуванням. Хтось повинен провідати цих клятих монархів. І є один мій старий знайомий, із яким я маю зустрітися…"
+  },
+  "RoA_A01_M04_VO_S017_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Don’t worry about it. You’ll hear from me soon enough. In the meantime, gather your forces and get some rest. You’ll need it — there’s a lot of work to do…",
+    "ukUA": "Не хвилюйся про це. Ти почуєш про мене досить скоро. А поки що збирай свої сили та трохи відпочинь. Тобі це знадобиться — попереду багато роботи…"
+  }
+}

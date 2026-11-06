@@ -1,0 +1,1717 @@
+{
+  "RoA_A01_M03_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HEROES|r\nKhadgar became a great hero in recognition for his valiant service and advice to the kingdom of Azeroth during the First War. Khadgar traveled to Dalaran to discuss the origins of the Dark Portal with the mysterious council of Kirin Tor.",
+    "ukUA": "|cff8080ffНОВИЙ ГЕРОЙ|r\nКадґар став видатним героєм у знак визнання за свою доблесну службу королівству Азерот у часи Першої війни. Наразі він опинився у Даларані, оскільки вирушав до ради Кірін-Тора аби обговорити з нею природу Темного порталу."
+  },
+  "RoA_A01_M03_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nThe enemy launched artillery strikes!|r",
+    "ukUA": "|cffff0000УВАГА|r\nВорог почав обстріл з артилерії!|r"
+  },
+  "RoA_A01_M03_MESS_003": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff00ff00Artillery strike round ended.|r",
+    "ukUA": "|cff00ff00Артилерійській обстріл закінчено.|r"
+  },
+  "RoA_A01_M03_MESS_004": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThere are no farms in Dalaran. Food is stored within houses, and your workers cannot build new ones. Keep them repaired after enemy attacks.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nУ Даларані зовсім нема ферм. Провізія зберігається в будинках, проте ваші робочі НЕ мають чертежів для їх побудови. В ваших інтересах підтримувати будинки у справному стані після бомбардувань."
+  },
+  "RoA_A01_M03_MESS_005": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nDalaran Swordsman – unique soldier of Dalaran, can be trained to withstand magical attacks.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r  \nМечник Даларану(Dalaran Swordsman) - унікальний солдан магічного міста Даларан, може бути вдосконаленим аби мати супротив до магії."
+  },
+  "RoA_A01_M03_MESS_006": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nElven Sentinel – elven citizens of Dalaran, skilled in marksmanship.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r  \nЕльфійський вартовий(Elven Sentinel) - Ельфи що є містянами Даларана, і дуже вправні у стрільбі."
+  },
+  "RoA_A01_M03_MESS_007": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nFel Portals opened across the city!|r",
+    "ukUA": "|cffff0000УВАГА|r\nУ місті було відкрито портали скверни!|r"
+  },
+  "RoA_A01_M03_MESS_008": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nBlacksmith has upgrades for infantry. It also allows you to research \"Alliance Melee Training\" in Barracks.",
+    "ukUA": "|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r\nКовальня має покращення для піхоти. А також відкриває можливість тренувати воїнів ближнього бою у казармах."
+  },
+  "RoA_A01_M03_MESS_009": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nYour workers can repair allied buildings.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nВаші робітники можуть лагодити будівлі союзників."
+  },
+  "RoA_A01_M03_MESS_010": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKhadgar can use the ability \"Leak the Oil\" to pour oil on the ground while moving. The oil trail must connect to the planted barrels to create a diversion.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nКадґар за допомогою здібності «Leak the Oil» може розливати нафту. Аби знищити ворожу артилерію розлийте нафту та створіть доріжки проміж встановлених нафтових діжок."
+  },
+  "RoA_A01_M03_MESS_011": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nAdditional oil barrels can be discovered in the Orc camps.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nВи можете знайти додаткові діжки з нафтою у всіх орочих таборах."
+  },
+  "RoA_A01_M03_MESS_012": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKel’Thuzad will follow Khadgar’s lead. Guide the archmages to the designated sites so Kel’Thuzad can set up Arcane Generators.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nКел'Тузад буде слідувати за Кадґаром. Приведіть видатного архімага у спеціальні місця, де Кел'Тузад зможе почати встановлення генераторів магії потаємних знань."
+  },
+  "RoA_A01_M03_MESS_013": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKel’Thuzad has activated the Arcane Generator. All undead within its range now suffer damage over time.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nКел'Тузад активував свій генератор магії потаємних знань. Всі невмерлі в зоні ураження генератора тепер отримують постійні пошкодження."
+  },
+  "RoA_A01_M03_MESS_014": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThe Violet Council has finished its preparations and will soon strike at the invaders.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nВерховна рада Даларана закінчился всі приготування, і скоро почне наступ в бік загарбників."
+  },
+  "RoA_A01_M03_MESS_015": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r\nAnother Dalaran Bank has become accessible.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r\nДругий банк Даларана доступний для видобутку золота."
+  },
+  "RoA_A01_M03_MESS_016": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKirin Tor mages have built a new waygate to move their forces closer to the front lines. You can use it as well.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nМаги Кірін-Тора активували нові брами телепортації аби переміщувати своїх воїнів ближче до лінії фронту. Ви також може використовувати ці брами для перекидання військ."
+  },
+  "RoA_A01_M03_MESS_017": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThe Alliance Vanguard and the Gilnean army will attack the remaining orc camps.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r  \nПередовий загін(аванґард) Альянсу та армія Ґілнеасу готуються атакувати орочі табори."
+  },
+  "RoA_A01_M03_MESS_018": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nUndead are attacking the Violet Citadel!",
+    "ukUA": "|cffff0000УВАГА|r\nНевмерлі атакують Лілову Цитадель!"
+  },
+  "RoA_A01_M03_MESS_019": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00Only shackled Dragons can be teleported.|r",
+    "ukUA": "|cffffcc00Тільки схоплених у сіті драконів можна телепортувати.|r"
+  },
+  "RoA_A01_M03_MESS_020": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Dragon was killed!!|r",
+    "ukUA": "|cffff0000Дракона було вбито!Не допускайте такого|r"
+  },
+  "RoA_A01_M03_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dalaran",
+    "ukUA": "Захист Даларану"
+  },
+  "RoA_A01_M03_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The Horde threatens the Violet Citadel, intent on its destruction. Defend the citadel and ensure its towers remain standing, the fate of our magical defenses depends on you.",
+    "ukUA": "Натиск Орди ставить під загрозу саме існування Лілової Цитаделі. Захистіть місто і саму цитадель. Доля Даларану і магічного захисту всього Альянсу залежить від вас."
+  },
+  "RoA_A01_M03_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Protect the Violet Citadel.",
+    "ukUA": "Захистіть Лілову Цитадель"
+  },
+  "RoA_A01_M03_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDalaran\n - Protect the Violet Citadel",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nЗахист Даларану\n - Захистіть Лілову Цитадель"
+  },
+  "RoA_A01_M03_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDalaran\n - |cffff0000Protect the Violet Citadel (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗахист Даларану\n - |cffff0000Захистіть Лілову Цитадель (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDalaran",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nЗахист Даларану"
+  },
+  "RoA_A01_M03_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "ukUA": "|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r"
+  },
+  "RoA_A01_M03_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Protect the Violet Citadel (failed)|r",
+    "ukUA": "|cffff0000Захистіть Лілову Цитадель (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prepare for Defense",
+    "ukUA": "Підготувати оборону"
+  },
+  "RoA_A01_M03_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Drenden has tasked Khadgar with training new soldiers to bolster the city’s defenses. Strengthen your ranks and ready the troops for the battles ahead.",
+    "ukUA": "Магістр Дренден доручив Кадґару підготувати нових воїнів для посилення оброни міста. Зміцніть свої лави та підготуйте додаткові сили для боїв за місто Даларан."
+  },
+  "RoA_A01_M03_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train 5 Sentinels.",
+    "ukUA": "Натренуйте 5 вартових(Sentinels)."
+  },
+  "RoA_A01_M03_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train 5 Swordsmen.",
+    "ukUA": "Натренуйте 5 мечників(Swordsmen)."
+  },
+  "RoA_A01_M03_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nPrepare for Defense",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nПідготувати оборону"
+  },
+  "RoA_A01_M03_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nPrepare for Defense\n - Train 5 Swordsmen\n - Train 5 Sentinels",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nПідготувати оборону\n - Натренуйте 5 вартових(Sentinels)\n - Натренуйте 5 мечників(Swordsmen)"
+  },
+  "RoA_A01_M03_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find the Blacksmith",
+    "ukUA": "Даларанський коваль"
+  },
+  "RoA_A01_M03_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The city’s blacksmith can forge stronger weapons and armor for your troops. Seek out a skilled smith and equip your soldiers with better armaments.",
+    "ukUA": "Коваль, що є у місті здатен посили зброю та обладунки ваших воінів. Знайдіть його ковальню і матимете змогу поліпшити броню та зброю свого війська."
+  },
+  "RoA_A01_M03_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find the Blacksmith.",
+    "ukUA": "Знайдіть ковальню."
+  },
+  "RoA_A01_M03_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nBlacksmith\n - Find the Blacksmith.",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nДаларанський коваль\n - Знайдіть ковальню."
+  },
+  "RoA_A01_M03_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nBlacksmith",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nДаларанський коваль"
+  },
+  "RoA_A01_M03_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In Disguise",
+    "ukUA": "Під прикриттям"
+  },
+  "RoA_A01_M03_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In disguise",
+    "ukUA": "Під прикриттям"
+  },
+  "RoA_A01_M03_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Modera has entrusted Khadgar with a magical scroll that disguises him as an orc and revealed a portal leading out of the city. He must move carefully, if the eyes of Kilrogg detect him, the mission will be compromised.",
+    "ukUA": "Юна чарівниця Модера передала Кадґару магічний сувій власного виготовлення, потужне закляття у ньому здатне замаскувати того хто прочитає його під воїна сил Орди. Також вона відкрила портал, що веде за межі міста прямо в ворожий тил. Кадґар має діяти обережно, око Кіллроґґа хоч не одразу, але здатне розпізнати будь яке маскування."
+  },
+  "RoA_A01_M03_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use the Way Gate to teleport to wilderness.",
+    "ukUA": "Скористайтеся Брамою телепортації, щоб переміститися у ворожий тил."
+  },
+  "RoA_A01_M03_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use the Scroll of Disguise Self to conceal Khadgar.",
+    "ukUA": "Застосуйте Сувій маскування, щоб замаскувати Кадґара."
+  },
+  "RoA_A01_M03_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Connect the dropped barrels with an oil trail.",
+    "ukUA": "Поєднайте встановлені діжки доріжками з пролитої нафти."
+  },
+  "RoA_A01_M03_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nIn Disguise\n - Use the Way Gate to teleport to wilderness\n - Use the Scroll of Disguise Self to conceal Khadgar",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nПід прикриттям\n - Скористайтеся Брамою телепортації, щоб переміститися у ворожий тил.\n - Застосуйте Сувій маскування, щоб замаскувати Кадгара."
+  },
+  "RoA_A01_M03_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - Drop oil barrels at siege launchers\n - Connect the dropped barrels with an oil trail\n - Khadgar must not be compromised",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПід прикриттям\n - Встановіть діжки з нафтою біля ворожих осадних машин\n - Поєднайте встановлені діжки доріжками з пролитої нафти\n - Кадґара не має бути викрито"
+  },
+  "RoA_A01_M03_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Way Gate to teleport to wilderness (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПід прикриттям\n - |cff808080Скористайтеся Брамою телепортації, щоб переміститися у ворожий тил. (Виконано)|r"
+  },
+  "RoA_A01_M03_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Scroll of Disguise Self to conceal Khadgar (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПід прикриттям\n - |cff808080Застосуйте Сувій маскування, щоб замаскувати Кадгара. (Виконано)|r"
+  },
+  "RoA_A01_M03_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Khadgar must not be compromised (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nПід прикриттям\n - |cffff0000Кадґара не має бути викрито (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Khadgar must not be compromised (failed)|r",
+    "ukUA": "|cffff0000Кадґара не має бути викрито (Провалено)"
+  },
+  "RoA_A01_M03_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Destroy Siege Launchers (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nПід прикриттям\n - |cffff0000Знищіть ворожі осадні машини (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Destroy Siege Launchers (failed)|r",
+    "ukUA": "|cffff0000Знищіть ворожі осадні машини (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Drop oil barrels at siege launchers (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nПід прикриттям\n - |cff808080Встановіть діжки з нафтою біля орочих осадних машин (Виконано)|r"
+  },
+  "RoA_A01_M03_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nIn Disguise",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r\nПід прикриттям"
+  },
+  "RoA_A01_M03_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Drop oil barrels at siege launchers.",
+    "ukUA": "Встановіть діжки з нафтою біля орочих осадних машин"
+  },
+  "RoA_A01_M03_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Khadgar must not be compromised.",
+    "ukUA": "Кадґара не має бути викрито."
+  },
+  "RoA_A01_M03_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Close the Portals",
+    "ukUA": "Закрити портали скверни"
+  },
+  "RoA_A01_M03_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill Orcish warlocks that maintain the portals to close them.",
+    "ukUA": "Орочі чорнокнижники за допомогою магії скверни підтрмують портали, які телепортують ворожі загони прямо у Даларан. Знайдіть спосіб непомітно від них позбавитись, аби закрити портали та зупинити телепортацію ворожих військ прямо у місто."
+  },
+  "RoA_A01_M03_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill 3 orcish warlocks that maintain the portals.",
+    "ukUA": "Позбавтеся 3 чорнокнижників які підтримують портали."
+  },
+  "RoA_A01_M03_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nClose the Portals\n - Kill 3 orcish warlocks that maintain the portals.",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nЗакрити портали скверни\n - Позбавтеся 3 чорнокнижників які підтримують портали."
+  },
+  "RoA_A01_M03_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nClose the Portals",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nЗакрити портали скверни"
+  },
+  "RoA_A01_M03_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nClose the Portals\n - |cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗакрити портали скверни\n - |cffff0000Позбавтеся 3 чорнокнижників які підтримують портали. (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+    "ukUA": "|cffff0000Позбавтеся 3 чорнокнижників які підтримують портали. (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dalaran Guardians",
+    "ukUA": "Магічні вартові"
+  },
+  "RoA_A01_M03_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nActivate Guardians\n - Find 3 magical crystals.",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nМагічні вартові\n - Знайдіть 3 магічних кристали."
+  },
+  "RoA_A01_M03_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nActivate Guardians\n - |cff808080Find 3 magical crystals. (Completed)|r\n - Bring the crystals to the Violet Citadel.",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nМагічні вартові\n - |cff808080Знайдіть 3 магічних кристали. (Виконано)|r\n - Принесіть кристали до Лілової Цитаделі."
+  },
+  "RoA_A01_M03_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nActivate Guardians",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nМагічні вартові"
+  },
+  "RoA_A01_M03_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nActivate Guardians\n - |cffff0000Find 3 magical crystals. (Failed)|r",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nМагічні вартові\n - |cffff0000Знайдіть 3 магічних кристали. (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Find 3 magical crystals. (Failed)|r",
+    "ukUA": "|cffff0000Знайдіть 3 магічних кристали. (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find 3 magical crystals.",
+    "ukUA": "Знайдіть 3 магічних кристали."
+  },
+  "RoA_A01_M03_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Orcish warlocks hold magical crystals capable of reactivating the Guardian golems. Reclaim the crystals to awaken these ancient protectors.",
+    "ukUA": "Як виявилося орочі чорнокнижники підтримували портали скверни за допомогою енергії магічних кристалів, ці кристали здатні оживити вартових ґолемів біля Лілової Цитаделі. Зберіть всі кристали, або пробудити цих стародавніх захистників міста."
+  },
+  "RoA_A01_M03_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Bring the crystals to the Violet Citadel.",
+    "ukUA": "Принесіть кристали до Лілової Цитаделі."
+  },
+  "RoA_A01_M03_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Hold the Line",
+    "ukUA": "Ані кроку назад"
+  },
+  "RoA_A01_M03_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Krasus commands the frontlines and calls upon Khadgar to aid in holding the defenses. Reinforce the battle lines and ensure the enemy does not break through.",
+    "ukUA": "Магістр Крас який командує обороною міста і закликає Кадґара допомогти йому. Підсильте оборону, аби не дати нападникам пробитися до міста та знищити Лілову Цитадель."
+  },
+  "RoA_A01_M03_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nHold the Line\n - Help the Kirin Tor forces to hold off 3 waves of attack",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nАні кроку назад\n - Допоможіть силам Кірін-Тор стримати 3 хвилі ворожих атак"
+  },
+  "RoA_A01_M03_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Help the Kirin Tor forces to hold off 3 waves of attack.",
+    "ukUA": "Допоможіть силам Кірін-Тор стримати 3 хвилі ворожих атак."
+  },
+  "RoA_A01_M03_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nHold the Line",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nАні кроку назад"
+  },
+  "RoA_A01_M03_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Undead Menace",
+    "ukUA": "Невмерла загроза"
+  },
+  "RoA_A01_M03_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kel’Thuzad offers his aid against the rising undead, claiming knowledge of how to halt their advance. Join forces with him and uncover the means to turn the tide.",
+    "ukUA": "Кел'Тузад запропонував свою допомогу проти посталих невмерлих,  магістр ствердує, що знає як саме зупинити їх наступ. Доєднайтеся до нього і допоможіть переломити хід битви."
+  },
+  "RoA_A01_M03_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Activate 2 Arcane Generators against the Undead.",
+    "ukUA": "Допоможіть активувати 2 магічні генератори аби спинити невмерлих."
+  },
+  "RoA_A01_M03_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Protect Kel'thuzad while he sets up generators.",
+    "ukUA": "Захищайте магістра Кел'Тузада поки він налаштовує генератори."
+  },
+  "RoA_A01_M03_OBJE_063": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nUndead Menace\n - Activate 2 Arcane Generators against the Undead.\n - Protect Kel'thuzad while he sets up the generators.",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nНевмерла загроза\n - Допоможіть активувати 2 магічні генератори аби спинити невмерлих.\n - Захищайте магістра Кел'Тузада поки він налаштовує генератори."
+  },
+  "RoA_A01_M03_OBJE_064": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nUndead Menace\n - |cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nНевмерла загроза\n - |cffff0000Захищайте магістра Кел'Тузада поки він налаштовує генератори. (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_065": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nUndead Menace",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nНевмерла загроза"
+  },
+  "RoA_A01_M03_OBJE_066": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+    "ukUA": "|cffff0000Захищайте магістра Кел'Тузада поки він налаштовує генератори. (Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_067": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragon Hazard",
+    "ukUA": "Драконяча загроза"
+  },
+  "RoA_A01_M03_OBJE_068": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragons are a grave threat, yet Krasus forbids their killing, honoring the Dragon Aspects.  Capture them using Dragonhawk nets and teleport them with powers of Krasus's Staff.",
+    "ukUA": "Дракони — це дуже серйозна загроза, проте магістр Крас суворо забороняє їх убивати, виявляючи повагу до Аспектів Драконів. Захопіть цих багряних звірів за допомогою сіток, які здатні накидувати вершники на дракояструбах та телепортуйте їх у спеціальні загони, використовуючи посох магістра Краса."
+  },
+  "RoA_A01_M03_OBJE_069": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use Staff of Krasus to teleport netted Dragons.",
+    "ukUA": "Застосуйте Посох магістра Краса, щоб телепортувати захоплених у сіті драконів."
+  },
+  "RoA_A01_M03_OBJE_070": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Do not allow more than 3 Dragons to be killed.",
+    "ukUA": "Не допустіть загибелі більше ніж 3 драконів."
+  },
+  "RoA_A01_M03_OBJE_071": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Capture the dragons with dragonhawk nets.",
+    "ukUA": "Схопіть драконів у сіті вершників на яструбах."
+  },
+  "RoA_A01_M03_OBJE_072": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDragon Hazard\n - Capture the dragons with dragonhawk nets\n - Use Krasus` staff to teleport captured dragons\n - Do not allow more than 3 Dragons to be killed",
+    "ukUA": "|cffffcc00MГОЛОВНЕ ЗАВДАННЯ|r\nДраконяча загроза\n - Спіймайте драконів у сіті\n - Використовуйте посох магістра Красуса аби телепортувати знерухомлених драконів\n - Не допустіть загибелі більше ніж 3 драконів."
+  },
+  "RoA_A01_M03_OBJE_073": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDragon Hazard",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nДраконяча загроза"
+  },
+  "RoA_A01_M03_OBJE_074": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDragon Hazard\n - |cffff0000Do not allow more than 3 Dragons to be killed. (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nДраконяча загроза\n  - |cffff0000Не допустіть загибелі більше ніж 3 драконів.(Провалено)|r"
+  },
+  "RoA_A01_M03_OBJE_075": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dam",
+    "ukUA": "Зруйонована гребля"
+  },
+  "RoA_A01_M03_OBJE_076": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "With the dragons dealt with, the dam can be repaired to halt the orcish advance. Restore it to prevent the enemy from reaching the city.",
+    "ukUA": "Зараз коли немає більше загрози від багряних драконів, греблю можна відновити, вода у річці дозволить спинити орочі наступи по всіх напрямках. Спробуйте відновити греблю, аби спинити нескінченні наступи Орди."
+  },
+  "RoA_A01_M03_OBJE_077": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair the dam.",
+    "ukUA": "Відновіть зруйновану греблю."
+  },
+  "RoA_A01_M03_OBJE_078": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDam\n - Repair the dam",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nЗруйонована гребля\n - Відновіть зруйновану греблю"
+  },
+  "RoA_A01_M03_OBJE_079": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDam",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nЗруйонована гребля"
+  },
+  "RoA_A01_M03_OBJE_080": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Counteroffensive",
+    "ukUA": "Контрнаступ"
+  },
+  "RoA_A01_M03_OBJE_081": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The time has come to strike back at the invaders. Rally your forces and lay waste to their encampments, leaving none to threaten the city again.",
+    "ukUA": "Настав час завдати удару у відповідь по загарбниках. Зберіть свої сили та вщент розгроміть їхні табори, щоб більше ніхто не загрожував місту."
+  },
+  "RoA_A01_M03_OBJE_082": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Blackrock Camp.",
+    "ukUA": "Знищить табір клану Чорного Каменю"
+  },
+  "RoA_A01_M03_OBJE_083": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nCounteroffensive\n - Destroy Blackrock Camp",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nКонтрнаступ\n - Знищить табір клану Чорного Каменю"
+  },
+  "RoA_A01_M03_OBJE_084": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Blackrock Camp. (Completed)|r\n - Destroy Black Tooth Grin Camp\n - Destroy Dragonmaw Camp",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nКонтрнаступ\n - |cff808080Знищить табір клану Чорного Каменю. (Виконано)|r\n - Знищіть табір клану Чорнозубого Вищиру\n - Знищіть табір клану Драконової Пащі"
+  },
+  "RoA_A01_M03_OBJE_085": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Black Tooth Grin Camp. (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nКонтрнаступ\n - |cff808080Знищіть табір клану Чорнозубого Вищиру. (Виконано)|r"
+  },
+  "RoA_A01_M03_OBJE_086": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Dragonmaw Camp. (Completed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nКонтрнаступ\n - |cff808080Знищіть табір клану Драконової Пащі. (Виконано)|r"
+  },
+  "RoA_A01_M03_OBJE_087": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nCounteroffensive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nКонтрнаступ"
+  },
+  "RoA_A01_M03_OBJE_088": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Dragonmaw Camp.",
+    "ukUA": "Знищіть табір клану Драконової Пащі."
+  },
+  "RoA_A01_M03_OBJE_089": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Black Tooth Grin Camp.",
+    "ukUA": "Знищіть табір клану Чорнозубого Вищиру."
+  },
+  "RoA_A01_M03_OBJE_090": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Dragonmaw Camp",
+    "ukUA": "Знищіть табір клану Драконової Пащі"
+  },
+  "RoA_A01_M03_OBJE_091": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Black Tooth Grin Camp",
+    "ukUA": "Знищіть табір клану Чорнозубого Вищиру"
+  },
+  "RoA_A01_M03_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Quest Objectives:",
+    "ukUA": "Цілі завдання"
+  },
+  "RoA_A01_M03_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Swordsmen left to train:",
+    "ukUA": "Лишилося натринувати мечників:"
+  },
+  "RoA_A01_M03_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Sentinels left to train:",
+    "ukUA": "Лишилося натринувати вартових:"
+  },
+  "RoA_A01_M03_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Opened Active Portals",
+    "ukUA": "Активних порталів скверни"
+  },
+  "RoA_A01_M03_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Barrels to drop at catapults:",
+    "ukUA": "Лишилося встановити діжок:"
+  },
+  "RoA_A01_M03_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Disguise dispels in:",
+    "ukUA": "Маскування зникне через:"
+  },
+  "RoA_A01_M03_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Crystals left to pick:",
+    "ukUA": "Кристалів лишилося знайти:"
+  },
+  "RoA_A01_M03_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Warlocks left:",
+    "ukUA": "Чорнокнижників лишилося:"
+  },
+  "RoA_A01_M03_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Attack Waves Remaining:",
+    "ukUA": "Хвиль атак лишилося:"
+  },
+  "RoA_A01_M03_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Set up magical generators:",
+    "ukUA": "Налаштовано магічних генераторів:"
+  },
+  "RoA_A01_M03_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Setting up magical generator in:",
+    "ukUA": "Генератор буде встановлено через:"
+  },
+  "RoA_A01_M03_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Setting up magical generator in:",
+    "ukUA": "Генератор буде встановлено через:"
+  },
+  "RoA_A01_M03_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repairment Progress (%):",
+    "ukUA": "Прогресс відновлення (%):"
+  },
+  "RoA_A01_M03_SCRN_014": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Magical Prison",
+    "ukUA": "Магічна в'язниця"
+  },
+  "RoA_A01_M03_SCRN_015": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Killed Dragons:",
+    "ukUA": "Драконів вбито:"
+  },
+  "RoA_A01_M03_SCRN_016": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Blackrock Camp",
+    "ukUA": "Знищіть табір Чорного Каменю"
+  },
+  "RoA_A01_M03_SCRN_017": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragons left to save:",
+    "ukUA": "Драконів до порятунку:"
+  },
+  "RoA_A01_M03_SCRN_018": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Next wave attacks in:",
+    "ukUA": "Наступна хвиля атаки:"
+  },
+  "RoA_A01_M03_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Great masters, welcome. If I may, let me…",
+    "ukUA": "Високі магістри, вітаю. Якщо дозволите, я…"
+  },
+  "RoA_A01_M03_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "There is no time for formalities, Master Drenden. Cross Island has fallen, Master Norlan has been slain, and the Horde is marching upon our city.",
+    "ukUA": "Немає часу на формальності, магістре Дрендене. Хрестовий острів пав, магістра Норлана вбито, а Орда йде на наше місто."
+  },
+  "RoA_A01_M03_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Chief Artificer? Dead? Without his constructs and our outlying defenses, how can we hope to stop their onslaught?",
+    "ukUA": "Головного архітертора? Вбито? Як ми можемо сподіватися зупинити орочий наступ без його механізмів, та без зовнішої оборони?"
+  },
+  "RoA_A01_M03_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "I am afraid we will need to improvise.",
+    "ukUA": "Боюся, нам доведеться імпровізувати."
+  },
+  "RoA_A01_M03_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Improvise? They have dragons. We need more than that against such a power!",
+    "ukUA": "Імпровізувати? Вони мають драконів. Проти такої сили нам знадобиться щось більше!"
+  },
+  "RoA_A01_M03_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Calm down, masters. We’ve received a word that Doomhammer has been defeated at Lordaeron, and we’ll be soon reinforced by Alliance armies. The young Khadgar has delivered the report himself. We only need to hold our ground.",
+    "ukUA": "Заспокойтеся, магістри. Нам повідомили, що Молот Згуби зазнав поразки біля Лордерону, і незабаром нас підсилять армії Альянсу. Молодий Кадґар особисто доставив це донесення. Нам потрібно лише втримати позиції."
+  },
+  "RoA_A01_M03_VO_S001_007": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Drenden, rendezvous with Master Khadgar. His battlefield experience will be useful in coordinating our efforts.",
+    "ukUA": "Дрендене, зустрінься з магістром Кадґаром. Його бойовий досвід стане в пригоді для координації наших зусиль."
+  },
+  "RoA_A01_M03_VO_S001_008": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "As you wish. But what of Master Norlan’s now-vacant position on our council?",
+    "ukUA": "Як скажете. Але що буде вакантним місцем магістра Норлана в нашій раді?"
+  },
+  "RoA_A01_M03_VO_S001_009": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "There’s no time to debate that now. But worry not, I have a candidate in mind. She might be young, but her talents are unquestionable…",
+    "ukUA": "Зараз немає часу це обговорювати. Але не хвилюйтеся, у мене є  певна кандидатура. Може трохи молода, проте її таланти беззаперечні…"
+  },
+  "RoA_A01_M03_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Master Khadgar, here you are. We need to talk. The council has a task for you.",
+    "ukUA": "Магістре Кадґаре, ось ви де. Нам потрібно поговорити. У ради є доручення для вас."
+  },
+  "RoA_A01_M03_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Yes?",
+    "ukUA": "Слухаю?"
+  },
+  "RoA_A01_M03_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "As the Kirin Tor is occupied with other tasks, we require someone to take care of our troops and battlefield defenses. Given your extensive experience, you seem to be the most fitting choice.",
+    "ukUA": "Оскільки Кірін-Тор зайнятий іншими справами, нам потрібен хтось, хто подбає про наші війська та оборону на полі бою. Враховуючи ваш величезний досвід, ви здаєтеся найбільш підходячим кандидатом."
+  },
+  "RoA_A01_M03_VO_S002_004": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "The outer gates and water barriers protect us from ground attacks, but with our magical defenses weakened, orcish warlocks can open portals to assail the city directly.",
+    "ukUA": "Зовнішні брами міста  та водні бар'єри захищають нас від наземних атак, але через ослаблення нашого магічного захисту орочі чорнокнижники можуть відкривати портали прямо у місті, аби атакувати нас з середини."
+  },
+  "RoA_A01_M03_VO_S002_005": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "With these portals active, even the Violet Citadel itself is in danger. You must do whatever you can to protect it from their assaults.",
+    "ukUA": "Поки ці портали активні, навіть сама Лілова цитадель перебуває в небезпеці. Ви мусите зробити все можливе, щоб захистити її від їхніх нападів."
+  },
+  "RoA_A01_M03_VO_S002_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Understood. But first, I need more soldiers.",
+    "ukUA": "Зрозуміло. Проте мені потрібно більше солдатів."
+  },
+  "RoA_A01_M03_VO_S002_007": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Indeed. Our infantry and archer regiments are at your disposal. As this district has already been damaged by the Horde’s bombardment, you will need to use our workforce and resources to repair its structures.",
+    "ukUA": "Саме так. Наша загони піхоти та лучників и у вашому розпорядженні. Оскільки цей район вже постраждав від бомбардування Орди, вам доведеться використати наших робітників і ресурси, щоб відновити деякі споруди."
+  },
+  "RoA_A01_M03_VO_S002_008": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "The city banks are open to you, take anything you need. You are also free to scour for any lumber hidden in crates and barrels. If need be, cut even park trees down.",
+    "ukUA": "Міські банки до ваших послуг, беріть стільки золота скільки потрібно. Ви також можете пошукати припаси, що в ящиках і бочках по всьому місту. Якщо знадобиться, рубайте навіть дерева в місті що в місті."
+  },
+  "RoA_A01_M03_VO_S002_009": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That will be a heartbreaking sight. I have always loved those trees. But it can’t be helped, the survival of our city is at stake.",
+    "ukUA": "Це буде краяти мені серце. Я завжди любив ці дерева. Проте розумію що, на кону стоїть виживання нашого міста."
+  },
+  "RoA_A01_M03_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Enough standing around — fire up those catapults! I want Dalaran’s walls to crumble and its inhabitants to be buried under the rubble. Launch the strike!",
+    "ukUA": "Досить стояти без діла — готуйте катапульти до бою! Я хочу, щоб стіни Даларана посипались, а мешканці були поховані під уламками. Починайте обстріл!"
+  },
+  "RoA_A01_M03_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "We must secure one of our blacksmiths, our troops need to repair and refine their armor and weaponry.",
+    "ukUA": "Ми мусимо захистити одну з наших ковалень, нашим військам необхідно полагодити та вдосконалити обладунки і зброю."
+  },
+  "RoA_A01_M03_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "RET",
+    "unit_name": "Retera",
+    "enUS": "Citizens of Dalaran!",
+    "ukUA": "Городяни Даларану!"
+  },
+  "RoA_A01_M03_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "RET",
+    "unit_name": "Retera",
+    "enUS": "I come to rescue!",
+    "ukUA": "Я прийшов вам на допомогу!"
+  },
+  "RoA_A01_M03_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Keep patroling the streets, we never know where they spawn next portal, and try to not get killed by the catapult shells.",
+    "ukUA": "Продовжуйте патрулювати вулиці, ми ніколи не знаємо, де вони відкриють наступний портал, і спробуйте не загинути від снарядів катапульт."
+  },
+  "RoA_A01_M03_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Captain",
+    "enUS": "Yes, my lady.",
+    "ukUA": "Так, міледі."
+  },
+  "RoA_A01_M03_VO_S006_003": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "You almost startled me!",
+    "ukUA": "Ви мене майже налякали!"
+  },
+  "RoA_A01_M03_VO_S006_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "May I be of service, my lady?",
+    "ukUA": "Чим можу бути корисним, міледі?"
+  },
+  "RoA_A01_M03_VO_S006_005": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Modera’s the name. I am…was the personal assistant to Master Norlan…",
+    "ukUA": "Мене звати Модера. Я є... точніше була особистою помічницею магістра Норлана…"
+  },
+  "RoA_A01_M03_VO_S006_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "My condolences.",
+    "ukUA": "Мої співчуття."
+  },
+  "RoA_A01_M03_VO_S006_007": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Thank you. But we have more pressing matters at hand. The Horde’s artillery is tearing down our defenses…",
+    "ukUA": "Дякую вам. Проте у нас є більш нагальні справи. Артилерія Орди руйнує нашу оборону…"
+  },
+  "RoA_A01_M03_VO_S006_008": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "And the Kirin Tor wants me to take it down. How?",
+    "ukUA": "І Кірін-Тор хоче, щоб я її знищив. Але як?"
+  },
+  "RoA_A01_M03_VO_S006_009": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "This scroll will allow you to take on an appearance of one of their own. Unless you trigger one of their magical sentries, that should be enough to get past their lines.",
+    "ukUA": "Цей сувій дозволить вам стати одним з них. Якщо тільки ви не натрапите на магічних вартових, цього закляття має вистачити, щоб пройти крізь всі їхні лінії оборони."
+  },
+  "RoA_A01_M03_VO_S006_010": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Well, let’s hope the enchantment itself is reliable.",
+    "ukUA": "Що ж, сподіваймося, закляття надійне."
+  },
+  "RoA_A01_M03_VO_S006_011": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Don’t worry, I’ve made it myself.",
+    "ukUA": "Не хвилюйтеся, я створила його власноруч."
+  },
+  "RoA_A01_M03_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "GRU",
+    "unit_name": "Grunt",
+    "enUS": "Hey you! Use oil to set up this building on fire, and return to work!",
+    "ukUA": "Агов ти! Використай нафту, щоб підпалити цю будівлю, і повертайся до роботи!"
+  },
+  "RoA_A01_M03_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Hm... I could use these oil barrels to set up the diversion....",
+    "ukUA": "Хм... Я міг би використати ці бочки з нафтою, щоб влаштувати диверсію...."
+  },
+  "RoA_A01_M03_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I must use the scroll. If the orcs notice me like that, I'm dead man.",
+    "ukUA": "Треба використати сувій. Бо якщо орки помітять мене в такому вигляді, довго я не проживу."
+  },
+  "RoA_A01_M03_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I need to set up a diversion before my disguise fades. I’d better hurry, it won’t last a whole day.",
+    "ukUA": "Мені потрібно влаштувати диверсію, поки мій камуфляж не зник. Краще поквапитися, він не триматиметься цілий день."
+  },
+  "RoA_A01_M03_VO_S007_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I need to avoid any violence, they would surely discover and kill me otherwise.",
+    "ukUA": "Мені потрібно уникати будь-якого насильства, інакше мене точно викриють і вб'ють."
+  },
+  "RoA_A01_M03_VO_S007_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "What a cruel sight. Such majestic creatures enslaved by the orcs…",
+    "ukUA": "Яке жорстоке видовище. Такі величні істоти, поневолені орками…"
+  },
+  "RoA_A01_M03_VO_S007_007": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These malevolent apparitions could see through my disguise, I must steer clear of them.",
+    "ukUA": "Ці зловісні примари можуть бачити крізь моє маскування, мені слід триматися від них подалі."
+  },
+  "RoA_A01_M03_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "The staff of Magna Aegwynn. How could it have ended up in the hands of thse monsters? I must retrieve it when this senile orc is distracted.",
+    "ukUA": "Посох Маґни Ейґвін. Як він міг опинитися в руках цих істотот? Я мушу повернути його, поки цей стрий орк відволікся."
+  },
+  "RoA_A01_M03_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These undead are wearing the armor of the Stormwind Knights. What a depravity.",
+    "ukUA": "Ці невмерлі мають на собі обладунки лицарів Штормовію. Яке святотатство."
+  },
+  "RoA_A01_M03_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "These wretched humans are bolstering their defenses, holding even against our relentless bombardment!",
+    "ukUA": "Ці нікчемні люди посилюють свою оборону, тримаючись навіть під нашим постійними обстрілами!"
+  },
+  "RoA_A01_M03_VO_S010_002": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Lets just throw everything we have at them!",
+    "ukUA": "Давайте просто кинемо на них усе, що в нас є!"
+  },
+  "RoA_A01_M03_VO_S010_003": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "No, you fool! We must break the dam! Once the water levels have fallen, we flank their forces!",
+    "ukUA": "Ні, бовдуре! Ми мусимо зруйнувати дамбу! Щойно рівень води впаде, ми обійдемо їхні сили з флангу!"
+  },
+  "RoA_A01_M03_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Good, the barrels are ready. I still have some time, so I'd better get rid of those warlocks that maintain the portals...",
+    "ukUA": "Чудово, бочки готові. У мене ще є трохи часу, тож треба спробувати позбутися тих чорнокнижників, які підтримують портали..."
+  },
+  "RoA_A01_M03_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "My best strategy would be to place a barrel beneath the catapult, then leave a trail of oil leading to the next one and place another barrel there. That way, I could set them all ablaze in a single attempt.",
+    "ukUA": "Найкраща стратегія — поставити бочку під катапультою, а тоді прокласти доріжку з нафти до наступної й поставити там ще одну бочку. Так я зможу підпалити їх усі одним махом."
+  },
+  "RoA_A01_M03_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These are the portals that orcs use to send troops to the city. If I could dispose of those warlocks discreetly... I need to figure something out.",
+    "ukUA": "Це портали, через які орки відправляють війська до міста. Якби я міг непомітно позбутися тих чорнокнижників... Треба щось придумати."
+  },
+  "RoA_A01_M03_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "What a tragic accident...",
+    "ukUA": "Оу, який трагічний інцидент..."
+  },
+  "RoA_A01_M03_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Look! This is a crystal from one of the Cross Island citadels. Find two more and maybe we will be able to restore our arcane guardians.",
+    "ukUA": "Погляньте! Це кристал з однієї з цитаделей Хрестового острову. Знайдіть ще два, і гадаю, ми зможемо відновити магічних вартових міста."
+  },
+  "RoA_A01_M03_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "This one had a burnout at his job.",
+    "ukUA": "Ой, здається цей просто згорів на роботі."
+  },
+  "RoA_A01_M03_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That lever… seems like it controls the crane... interesting...",
+    "ukUA": "Цей важіль… схоже, він керує краном... цікаво..."
+  },
+  "RoA_A01_M03_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Orcs are so negligent with workplace safety...",
+    "ukUA": "Орки так недбало ставляться до техніки безпеки на робочому місці..."
+  },
+  "RoA_A01_M03_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Good! When you return to the city, activate the Guardians near the Violet Citadel.",
+    "ukUA": "Пречудово! Коли повернетеся до міста, активуйте Вартових біля Лілової цитаделі."
+  },
+  "RoA_A01_M03_VO_S013_1_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. The orcish artillery has been dealt with as requested…",
+    "ukUA": "Магістре Красусе. Орочу артилерію було знищено як ви і просили..."
+  },
+  "RoA_A01_M03_VO_S013_1_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Good job.",
+    "ukUA": "Гарна робота."
+  },
+  "RoA_A01_M03_VO_S013_2_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. I managed to destroy some of the orcish siege machines…",
+    "ukUA": "Магістре Красусе. Мені вдалося знищити деякі з орочих облогових машин..."
+  },
+  "RoA_A01_M03_VO_S013_2_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Better than nothing.",
+    "ukUA": "Краще ніж нічого."
+  },
+  "RoA_A01_M03_VO_S013_3_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. I tried to destroy orcish siege machines, but it was impossible to accomplish this task.",
+    "ukUA": "Магістре Красусе. Я спробував знищити орочі осадні машини, але мені не вдалося виконати це доручення."
+  },
+  "RoA_A01_M03_VO_S013_3_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Too bad, it means they will continue to damage the city.",
+    "ukUA": "Погано, це значить що вони будуть продовжувати обстрілювати місто."
+  },
+  "RoA_A01_M03_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Yet another problem has arisen. The orcs have damaged the dam barring the Violet River. Without it, the water levels have fallen…",
+    "ukUA": "У нас виникла ще одна проблема. Орки пошкодили дамбу, що стримує Лілову Лічку. Через пошкодження рівень води впав…"
+  },
+  "RoA_A01_M03_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "And the orcs can now easily cross the stream and attack our weakest spots with impunity. Damn it! We must repair the dam immediately.",
+    "ukUA": "І тепер орки легко перетинають річку й безкарно атакують наші слабкі місця. Прокляття! Ми мусимо негайно відремонтувати дамбу."
+  },
+  "RoA_A01_M03_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Yes, but first, we need to secure our defense perimeter. They can’t reach the inner parts of the city.",
+    "ukUA": "Так, але спершу нам потрібно укріпити оборону. Вони не повинні дістатися внутрішніх районів міста."
+  },
+  "RoA_A01_M03_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I stand with you.",
+    "ukUA": "Я допоможу вам."
+  },
+  "RoA_A01_M03_VO_S015_001": {
+    "type": "VO",
+    "unit_id": "TGO",
+    "unit_name": "Teron Gorefiend",
+    "enUS": "Pathetic mortals, in the end, all shall feel the touch of death’s embrace!",
+    "ukUA": "Жалюгідні смертні, зрештою кожен відчує дотик смерті!"
+  },
+  "RoA_A01_M03_VO_S015_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "So much carnage…",
+    "ukUA": "Скільки жорстокості…"
+  },
+  "RoA_A01_M03_VO_S015_003": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "And there’s more to come. Our sentries report the orcs are massing for another attack. Headed by none other than their necromantic undead…",
+    "ukUA": "І це ще не все. Вартові доповідають, що орки збираються для чергового штурму. І веде їх ніхто інший, як їхні некромантські невмерлі…"
+  },
+  "RoA_A01_M03_VO_S015_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "The ones that ravaged Stratholme and Quel’Thalas…the death knights.",
+    "ukUA": "Ті самі, що спустошили Стратгольм і Кел'Талас… лицарі смерті."
+  },
+  "RoA_A01_M03_VO_S015_005": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Hmm. Thankfully, my studies have allowed me to design a potent spell that should protect us from their necromantic magic. However, I’ll need protection while invoking it.",
+    "ukUA": "Хм. На щастя, мої дослідження дозволили створити закляття, яке має захистити нас від некромантії. Проте, поки я читатиму це закляття, мені знадобиться захист."
+  },
+  "RoA_A01_M03_VO_S016_001": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Curious…utmost curious. This will require further research.",
+    "ukUA": "Цікаво… вкрай цікаво. Це потребуватиме подальших досліджень."
+  },
+  "RoA_A01_M03_VO_S016_002": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "...my dragonhawks are ready. With proper support, they will outmaneuver these dragons.",
+    "ukUA": "...мої дракояструби готові. За належної підтримки вони переграють цих драконів."
+  },
+  "RoA_A01_M03_VO_S016_003": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "You want to attack them head on?",
+    "ukUA": "Ти хочеш атакувати їх у лоб?"
+  },
+  "RoA_A01_M03_VO_S016_004": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "No. We merely need to capture a few of them and force the rest back.",
+    "ukUA": "Ні. Нам лише потрібно захопити кількох із них, а решту змусити відступити."
+  },
+  "RoA_A01_M03_VO_S016_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Capture?!",
+    "ukUA": "Захопити?!"
+  },
+  "RoA_A01_M03_VO_S016_006": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Just so. These leviathans are too powerful a weapon of war. We need to learn more about the magic the orcs use to control them. Otherwise, they might always pose a threat to us. And the best way to do so is to capture and study some of them.",
+    "ukUA": "Саме так. Ці могутні істоти — надто потужна зброя війни. Ми мусимо дізнатися більше про магію, яку орки використовують для контролю над ними. Інакше дракони завжди становитимуть для нас загрозу. І найкращий спосіб зробити це — схопити та дослідити кількох із них."
+  },
+  "RoA_A01_M03_VO_S016_007": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "I’ll leave that to Khadgar. There’s something strange about these dragons. How can the orcs control such once-majestic creatures? I - We need to learn more about it.",
+    "ukUA": "Я лишу це Кадґару. Є щось дивне у цих драконах. Як орки взагалі можуть контролювати цих магічних багряних створінь? Мені, або навіть нам треба дізнатися більше про це."
+  },
+  "RoA_A01_M03_VO_S016_008": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Very well then. I wish your dragonhawks favorable winds, prince Kael.",
+    "ukUA": "Що ж, нехай буде так. Бажаю твоїм яструбам попутного вітру, принце Келю."
+  },
+  "RoA_A01_M03_VO_S016_009": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "Elves don’t need luck, my young friend.",
+    "ukUA": "Ельфам не потрібна удача, мій юний друже."
+  },
+  "RoA_A01_M03_VO_S017_001": {
+    "type": "VO",
+    "unit_id": "ZTW",
+    "unit_name": "Zuluhed the Whacked",
+    "enUS": "Dragonmaws! Burn them to ashes!",
+    "ukUA": "Клан Драконової Пащі! Спопеліть усіх!"
+  },
+  "RoA_A01_M03_VO_S017_002": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "Warriors! Tear through their ranks, carve a path to victory!",
+    "ukUA": "Воїни! Проривайте їхні лави, прорубайте нам шлях до перемоги!"
+  },
+  "RoA_A01_M03_VO_S017_003": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Let none survive! Grind their bones to dust!",
+    "ukUA": "Жоден не має вижити! Зітріть їх кістки у попіл!"
+  },
+  "RoA_A01_M03_VO_S018_001": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "We have all we need. The rest of their air forces are retreating!",
+    "ukUA": "Ми маємо все необхідне. Решта їхніх повітряних сил відступає!"
+  },
+  "RoA_A01_M03_VO_S018_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Khadgar, order the worker to repair the dam, we need it back in order as soon as possible!",
+    "ukUA": "Кадґаре, віддай наказ відремонтувати дамбу, нам потрібно якнайшвидше повернути її в дію!"
+  },
+  "RoA_A01_M03_VO_S019_001": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "Good riddance. It was about time we cleaned the city of this vermin.",
+    "ukUA": "Туди їм і дорога. Нарешті ми очистили місто від цих паразитів."
+  },
+  "RoA_A01_M03_VO_S019_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I wouldn’t celebrate yet. There are still….",
+    "ukUA": "Я б не став святкувати завчасно. Тут усе ще є…."
+  },
+  "RoA_A01_M03_VO_S019_003": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Khadgar! Good to see you in one piece, master mage.",
+    "ukUA": "Кадґаре! Радий бачити тебе цілим і неушкодженим, магістре."
+  },
+  "RoA_A01_M03_VO_S019_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Likewise, commander. I take it you have secured the lake?",
+    "ukUA": "Навзаєм, командире. Я так розумію, озеро в безпеці?"
+  },
+  "RoA_A01_M03_VO_S019_005": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Nearly. But it will take a while until more of our forces arrive. You’ll have to do with me and the vanguard. Still, I see you’ve taken good care of the city.",
+    "ukUA": "Майже. Треба трохи часу, перш ніж прибуде решта наших сил. Наразі вам доведеться вдовільнитися мною та моїм передовим загоном. Доречі, я бачу, ви добре подбали про місто."
+  },
+  "RoA_A01_M03_VO_S019_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Thank you. The Horde’s offensive has been broken, yet there’s still a significant force beyond the river. It’s only a matter of time before they regroup and renew their assault…",
+    "ukUA": "Дякую вам. Наступ Орди відбито, проте по той бік річки все ще лишаються їх основні сили. Це лише питання часу, коли вони перегрупуються і відновлять облогу…"
+  },
+  "RoA_A01_M03_VO_S019_007": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "It seems I’ve arrived just in time. We can’t let them do that. Soldiers, march on!",
+    "ukUA": "Схоже, я прибув дужевчасно. Ми не дозволимо їм піти в наступ. Солдати, вперед!"
+  },
+  "RoA_A01_M03_VO_S020_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Hateful undead! Your presence defiles these lands; I will purge you!",
+    "ukUA": "Невремла нечисть! Сама твоя присутність оскверняє ці землі, я спопелю тебе!"
+  },
+  "RoA_A01_M03_VO_S020_002": {
+    "type": "VO",
+    "unit_id": "TGO",
+    "unit_name": "Teron Gorefiend",
+    "enUS": "This is not our last fight, paladin!",
+    "ukUA": "Це не останній наш бій, паладине!"
+  },
+  "RoA_A01_M03_VO_S021_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That’s Sir Lothar!",
+    "ukUA": "Це ж сір Лотар!"
+  },
+  "RoA_A01_M03_VO_S021_002": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "The old man always keeps his word.",
+    "ukUA": "Старий завжди тримає слово."
+  },
+  "RoA_A01_M03_VO_S021_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Good to see you, lads. Like I promised, I’ve brought some friends.",
+    "ukUA": "Радий бачити вас, хлопці. Як і обіцяв, я привів друзів."
+  },
+  "RoA_A01_M03_VO_S021_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I am surprised to see so many Gilneans with you, sir. I thought King Greymane had a different strategy in mind…",
+    "ukUA": "Я здивований бачити з вами так багато ґілнеасців, сіре. Я думав, у короля Сивогрива інша стратегія в голові…"
+  },
+  "RoA_A01_M03_VO_S021_005": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Sometimes, strategies have to be adjusted. And not all of us agree with His Majesty and their brilliant mind.",
+    "ukUA": "Іноді стратегії доводиться коригувати. І не всі з нас згодні з Його Величністю та його «блискучим» розумом."
+  },
+  "RoA_A01_M03_VO_S021_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Well said.",
+    "ukUA": "Добре сказано."
+  },
+  "RoA_A01_M03_VO_S021_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "We’ll have time to discuss this later. We have the orcs on the run. It’s time to finish this.",
+    "ukUA": "У нас ще буде час обговорити це пізніше. Орки тікають. Час із цим покінчити."
+  },
+  "RoA_A01_M03_VO_S021_008": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Yes, sir!",
+    "ukUA": "Так, сіре!"
+  },
+  "RoA_A01_M03_VO_S021_009": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Draw steel, boys!",
+    "ukUA": "Клинки до бою, хлопці!"
+  },
+  "RoA_A01_M03_VO_S022_001": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "The orcs are retreating. The city is safe. But we must still measure the real cost of life. The level of damage is…considerable. Their dark powers have done their work.",
+    "ukUA": "Орки відступають. Місто в безпеці. Але ми все одно мусимо розуміти справжню ціну людського життя. Масштаб руйнувань… досиитьь значний. Ті темні сили зробили свою справу."
+  },
+  "RoA_A01_M03_VO_S022_002": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "We should have slaughtered them all for what they did to my homeland.",
+    "ukUA": "Ми мали б вирізати їх усіх за те, що вони зробили з моєю батьківщиною."
+  },
+  "RoA_A01_M03_VO_S022_003": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "At least we can now learn more of their dominion over the dragons.",
+    "ukUA": "Принаймні тепер ми зможемо дізнатися більше про природу їхньої влади над драконами."
+  },
+  "RoA_A01_M03_VO_S022_004": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "My friends. Our city has seen many great calamities and endured all of them. This is no different. We are the Kirin Tor. We will rebuild, we will restore, we will preserve.",
+    "ukUA": "Друзі мої. Наше місто бачило чимало великих випробувань і вистояло в усіх. Це нічим не відрізняється. Ми — Кірін-Тор. Ми відбудуємо, ми відновимо, ми збережемо."
+  },
+  "RoA_A01_M03_VO_S022_005": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "But there’s another matter to attend. Master Norlan’s passing has left his seat on the council vacant. And I believe young Master Modera to be a proper choice for his replacement.",
+    "ukUA": "Але є ще одна справа, якою слід зайнятися. Смерть магістра Норлана залишила його місце в раді вільним. І я вважаю, що юний магістр Модера є гідною на його заміну."
+  },
+  "RoA_A01_M03_VO_S022_006": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Me? I am deeply honored.",
+    "ukUA": "Я? Для мене це велика честь."
+  },
+  "RoA_A01_M03_VO_S022_007": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "A wise choice.",
+    "ukUA": "Досить мудрий вибір."
+  },
+  "RoA_A01_M03_VO_S023_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "All your forces are accounted for?",
+    "ukUA": "Усі твої сили в зборі?"
+  },
+  "RoA_A01_M03_VO_S023_002": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Yes, sir. Lordamere has been fully secured and Lordaeron is better manned than before the siege. And more reinforcements are on their way to Dalaran.",
+    "ukUA": "Так, сіре. Лордамер тепер повністю в безпеці, і в Лордероні тепер більше людей, ніж було до облоги. До того ж, до Даларана вже прямує нове підкріплення."
+  },
+  "RoA_A01_M03_VO_S023_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "You’ve done well.",
+    "ukUA": "Ти добре впорався."
+  },
+  "RoA_A01_M03_VO_S023_004": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "There were moments I thought I’d fail…",
+    "ukUA": "Були моменти, коли я думав, що невпораюсь…"
+  },
+  "RoA_A01_M03_VO_S023_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Have faith. You need to trust yourself. Just as we trust in you. I never doubted you, lad.",
+    "ukUA": "Май віру. Ти мусиш довіряти собі. Так само як всі ми ми довіряємо тобі. Я ніколи не сумнівався в тобі, хлопче."
+  },
+  "RoA_A01_M03_VO_S023_006": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Thank you, sir. What now?",
+    "ukUA": "Дякую, сір. Що тепер?"
+  },
+  "RoA_A01_M03_VO_S023_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "If this region is to be fully safe, we need to restore our control over the southern coasts. Zul’Dare must fall. I’ll take my vanguard and march south on Hillsbrad. You and your forces will remain here and protect our northern flank.",
+    "ukUA": "Якщо ми хочемо повністю убезпечити цей регіон, нам потрібно відновити контроль над південними берегами. Зул'Дар має пасти. Я візьму свій авангард і вирушу на південь, до Гіллзбрада. А ти зі своїми силами лишишся тут і захищатимеш наш північний фланг."
+  },
+  "RoA_A01_M03_VO_S023_008": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Understood. Light be with you, my lord.",
+    "ukUA": "Зрозуміло. Нехай Світло буде з вами, мілорде."
+  }
+}

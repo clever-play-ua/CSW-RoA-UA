@@ -1,0 +1,1395 @@
+{
+  "RoA_A01_M01_BUILDINGS_001": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron Guard Tower",
+    "ukUA": "Лордеронська вартова вежа"
+  },
+  "RoA_A01_M01_BUILDINGS_002": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron Guard Tower",
+    "ukUA": "Лордеронська вартова вежа"
+  },
+  "RoA_A01_M01_BUILDINGS_003": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "ukUA": "Лордеронська споруда"
+  },
+  "RoA_A01_M01_BUILDINGS_004": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "ukUA": "Лордеронська споруда"
+  },
+  "RoA_A01_M01_BUILDINGS_005": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "ukUA": "Лордеронська споруда"
+  },
+  "RoA_A01_M01_BUILDINGS_006": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "ukUA": "Лордеронська споруда"
+  },
+  "RoA_A01_M01_BUILDINGS_007": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "ukUA": "Лордеронська споруда"
+  },
+  "RoA_A01_M01_BUILDINGS_008": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "ukUA": "Лордеронська споруда"
+  },
+  "RoA_A01_M01_BUILDINGS_009": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "ukUA": "Лордеронська споруда"
+  },
+  "RoA_A01_M01_BUILDINGS_010": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_011": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_012": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_013": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_014": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_015": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_016": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_017": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_BUILDINGS_018": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "ukUA": "Маєток Вищих Ельфів"
+  },
+  "RoA_A01_M01_MESS_001": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nRoyal Guard - elite soldiers of Lordaeron, trained to fight with halberds, giving them greater attack range than footmen. They also carry shields for defense.",
+    "ukUA": "|cff87ceebПІДКРІПЛЕННЯ|r\nКоролівська варта — елітні солдати Лордерону, навчені битися алебардами, що забезпечує їм більшу дальність атаки, ніж у піхотинців. Для захисту вони також носять щити."
+  },
+  "RoA_A01_M01_MESS_002": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nTerenas can help you carry items. But be warned, he can use some of them to heal himself.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r\nКороль Теренас може допомогти вам переносити предмети. Але майте на увазі: деякі з них він може використати, щоб зцілитися."
+  },
+  "RoA_A01_M01_MESS_003": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nFind a key or pull a lever to open locked doors.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r\r\nЗнайдіть ключ або знайдіть важіль, що відкриє зачинені двері."
+  },
+  "RoA_A01_M01_MESS_004": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW HEROES|r\nTuralyon - One of the first Priests of Lordaeron trained as a Paladin by Uther the Lightbringer. He is a staunch believer in maintaining order through strict martial discipline.",
+    "ukUA": "|cff8080ffНОВИЙ ГЕРОЙ|r\r\nТураліон — один із перших жерців Лордерону, якого Утер Світлоносець тренував як паладина. Він палко вірить у порядок через сувору військову дисципліну."
+  },
+  "RoA_A01_M01_MESS_005": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW SEMI HERO|r\nWilhelm - One of the seasoned veterans of Azeroth, who served as Captain under Anduin Lothar.",
+    "ukUA": "|cff8080ffНОВИЙ НАПІВ ГЕРОЙ|r\nВільгельм — один із досвідчених ветеранів Азероту, який служив капітаном під керівництвом Андуїна Лотара."
+  },
+  "RoA_A01_M01_MESS_006": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nDefender of Faith - Soldiers of the Silver Hand Order armed with long spears. They can defend against enemy magic, though at the cost of reduced movement speed.",
+    "ukUA": "|cff87ceebПІДКРІПЛЕННЯ|r\nЗахисники віри — солдати Ордену Срібної Десниці, озброєні довгими списами. Вони можуть захищатися від ворожої магії, ціною зниження швидкості пересування."
+  },
+  "RoA_A01_M01_MESS_007": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nLordaeron Footmen - arrayed in hardened steel armor, they courageously wield broadsword and shield in hand-to-hand combat against their vile orcish foes.",
+    "ukUA": "|cffffcc00НОВИЙ ТИП ВІЙСЬК|r\nПіхотинці Лордерону — одягнені в обладунки із загартованої сталі, вони відважно орудують мечами та щитами в ближньому бою проти своїх мерзенних оркських ворогів."
+  },
+  "RoA_A01_M01_MESS_008": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nMagical Orbs can allow heroes attack flying units.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r\nMagical Orbs дозволяють героям атакувати повітряні одиниці."
+  },
+  "RoA_A01_M01_MESS_009": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nDefenders - Lordaeron citizens who answered the call of duty to protect both cities and towns, equipped with armor and longswords. They move and strike faster than regular footmen.",
+    "ukUA": "|cff87ceebПІДКРІПЛЕННЯ|r\nЗахисники — громадяни Лордерону, які відгукнулися на заклик захисту батьківщини. Вони екіпіровані обладунками та довгими мечами, а також рухаються й завдають ударів швидше за звичайних піхотинців."
+  },
+  "RoA_A01_M01_MESS_010": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW HEROES|r\nKurdran, the Thane of the Wildhammer Clan, mounted on his loyal gryphon Sky'ree, is one of the most renowned allies of the human race.\nWhen Sky’ree is |cffffcc00airborne|r - they |cff32cd32can engage air units|r, but |cffff0000cannot attack ground targets|r.\nWhen Sky’ree is |cffffcc00on the ground|r - they |cff32cd32can attack ground units|r but |cffff0000cannot engage flying ones|r.\nKurdran can use his hero abilities on any units regardless of stance.",
+    "ukUA": "|cff8080ffНОВИЙ ГЕРОЙ|r\nКурдран, це Тан(командуючий) клану Диких Молотів, верхи на своєму вірному грифоні Скай’рі, він є одним із найвідоміших союзників людської раси.\nКоли Скай’рі |cffffcc00в небі|r - вони |cff32cd32можуть атакувати повітряні одиниці|r, але |cffff0000НЕ можуть земні|r.\nКоли Скай’рі |cffffcc00на землі|r - вони |cff32cd32можуть атакувати одиниці на землі|r але |cffff0000НЕ можуть повітряні|r.\nКурдран може використовувати свої здібності як герої як на замлі так і в повітрі."
+  },
+  "RoA_A01_M01_MESS_011": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nGryphon Riders - mighty war beasts of the Wildhammer Clan. The gryphon and its dwarf rider dominate the skies, crushing all enemies of the Alliance.",
+    "ukUA": "|cff87ceebПІДКРІПЛЕННЯ|r\nВершник на грифоні - могутні бойові звірі клану Дикого Молота. Грифон та його дворф-вершник панують у небесах, розтрощуючи всіх ворогів Альянсу."
+  },
+  "RoA_A01_M01_MESS_012": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nMuradin will follow Kurdran and engage in fights with enemies, but you cannot control him.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r\nМурадін йтиме за Курданом і вступатиме в бій із ворогами, але ви НЕ його контролювати."
+  },
+  "RoA_A01_M01_MESS_013": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW HEROES|r\nDerek Proudmoore - commander of the Third Fleet of Kul Tiras and the eldest son of Grand Admiral Daelin Proudmoore. An agile warrior, he moves swiftly and can throw grenades at enemies.",
+    "ukUA": "|cff8080ffНОВИЙ ГЕРОЙ|r\nДерек Праудмур — командир Третього флоту Кул-Тіраса та старший син верховного адмірала Деліна Праудмура. Спритний воїн, він рухається стрімко і може закидувати ворогів гранатами."
+  },
+  "RoA_A01_M01_MESS_014": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nKul'Tiran Ships - Admiral Proudmoore has dispatched his Third Fleet to break the siege of Lordaeron. Use these ships to reach Fenris Isle and destroy the remaining orcish navy.",
+    "ukUA": "|cff87ceebПІДКРІПЛЕННЯ|r\nКул-тіраські кораблі — адмірал Праудмур відправив свій Третій флот, щоб витягти Лордерону з облоги. Використовуйте ці кораблі, щоб дістатися острова Фенріс і знищити залишки оркського флоту."
+  },
+  "RoA_A01_M01_MESS_015": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nLordaeron Archer - a skilled marksman of the Lordaeron army. Though not as elegant as elven archers, still lethal against Horde infantry.",
+    "ukUA": "|cffffcc00НОВИЙ ТИП ВІЙСЬК|r\nЛордеронський лучник - досвідчений стрілець армії Лордерону. Хоч він і поступається у вправності ельфійським лучникам, усе одно смертельно небезпечний для піхоти Орди."
+  },
+  "RoA_A01_M01_MESS_016": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nKurdran cannot carry magical orbs.",
+    "ukUA": "|cff32cd32ПІДКАЗКА|r\nКурдран НЕ може використовувати magical orbs."
+  },
+  "RoA_A01_M01_OBJECTS_001": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Treasury Vault",
+    "ukUA": "Скарбосховище"
+  },
+  "RoA_A01_M01_OBJE_001": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield the King",
+    "ukUA": "Щит для короля"
+  },
+  "RoA_A01_M01_OBJE_002": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The orcish horde has breached the palace walls, and the throne room lies under siege. King Terenas must not fall. Rally your forces, hold the line, and drive back the invaders before they reach His Majesty.",
+    "ukUA": "Орда пробила стіни палацу, і тронна зала зараз в облозі. Король Теренас не повинен загинути. Збирайте свої сили, тримайте оборону і відкиньте загарбників, перш ніж вони дістануться до Його Величності."
+  },
+  "RoA_A01_M01_OBJE_003": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Terenas must survive",
+    "ukUA": "Король Теренас має вижити"
+  },
+  "RoA_A01_M01_OBJE_004": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Terenas must survive",
+    "ukUA": "Король Теренас має вижити"
+  },
+  "RoA_A01_M01_OBJE_005": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Uther must survive",
+    "ukUA": "Утер Світлоносець має вижити"
+  },
+  "RoA_A01_M01_OBJE_006": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Uther must survive",
+    "ukUA": "Утер Світлоносець має вижити"
+  },
+  "RoA_A01_M01_OBJE_007": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nShield the King\n - Terenas must survive\n - Uther must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nЩит для короля\n - Король Теренас має вижити\n - Утер Світлоносець має вижити"
+  },
+  "RoA_A01_M01_OBJE_008": {
+    "type": "OBJECTIVES",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nShield the King",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nЩит для короля"
+  },
+  "RoA_A01_M01_OBJE_009": {
+    "type": "OBJECTIVES",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nShield the King\n - |cffff0000Uther must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЩит для короля\n- |cffff0000Утер Світлоносець має вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_010": {
+    "type": "OBJECTIVES",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nShield the King\n - |cffff0000Terenas must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЩит для короля\n- |cffff0000Король Теренас  має вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_011": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The King’s Heir",
+    "ukUA": "Королівський спадкоємець"
+  },
+  "RoA_A01_M01_OBJE_012": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Orcs are inside the palace, placing Crown Prince Arthas in grave danger. Locate the Prince and lead him to safety, the royal line must be protected!",
+    "ukUA": "Орки вже всередині палацу, спадкоємний принц Артас у смертельній небезпеці. Знайдіть і виведіть його в безпечне місце, королівська династія має бути захищена!"
+  },
+  "RoA_A01_M01_OBJE_013": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Find prince Arthas",
+    "ukUA": "Знайдіть принца Артаса"
+  },
+  "RoA_A01_M01_OBJE_014": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nThe King's Heir\n- Find prince Arthas \n- Terenas must survive\n- Uther must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nКоролівський спадкоємець\n- Знайдіть принца Артаса\n- Король Теренас має вижити\n- Утер Світлоносець має вижити"
+  },
+  "RoA_A01_M01_OBJE_015": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Uther must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\r\nКоролівський спадкоємець\r\n- |cffff0000Утер Світлоносець має вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_016": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Terenas must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nКоролівський спадкоємець\n- |cffff0000Король Теренас має вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_017": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Arthas must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nКоролівський спадкоємець\n- |cffff0000Принц Артас має вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_018": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nTheKing's Heir\n - |cff808080Find prince Arthas (Completed)|r\n - Terenas must survive\n - Uther must survive\n - Arthas must survive\n - Leave the palace",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nКоролівський спадкоємець\n- |cff808080Знайдіть принца Артаса (Завершено)|r\n- Король Теренас має вижити\n- Утер Світлоносець має вижити\n- Принц Артас має вижити\n- Покиньте палац"
+  },
+  "RoA_A01_M01_OBJE_019": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arthas must survive",
+    "ukUA": "Принц Артас має вижити"
+  },
+  "RoA_A01_M01_OBJE_020": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Leave the Palace",
+    "ukUA": "Покиньте палац"
+  },
+  "RoA_A01_M01_OBJE_021": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nThe King's Heir",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nКоролівський спадкоємець"
+  },
+  "RoA_A01_M01_OBJE_022": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake the city",
+    "ukUA": "Очистити місто"
+  },
+  "RoA_A01_M01_OBJE_023": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The time has come to drive these vermin out of our city. Purge the orc infestation district by district! Stand united and reclaim the capital!",
+    "ukUA": "Час настав вигнати цю мерзоту з нашого міста. Очищайте ділянку за ділянкою від орчої зарази! Стоїмо пліч-о-пліч і повернемо нашу столицю!"
+  },
+  "RoA_A01_M01_OBJE_024": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "All Heroes must survive",
+    "ukUA": "Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_025": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake Lower city",
+    "ukUA": "Очистіть нижню частину міста"
+  },
+  "RoA_A01_M01_OBJE_026": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake Palace district",
+    "ukUA": "Очистіть королівський квартал"
+  },
+  "RoA_A01_M01_OBJE_027": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake East wing",
+    "ukUA": "Очистіть СХІДНЕ крило"
+  },
+  "RoA_A01_M01_OBJE_028": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake West wing",
+    "ukUA": "Очистіть ЗАХІДНЕ крило"
+  },
+  "RoA_A01_M01_OBJE_029": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nRetake the city\n - Retake West wing\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nОчистити місто\n- Очистіть ЗАХІДНЕ крило\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_030": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nRetake the city\n - Retake East wing\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nОчистити місто\n- Очистіть СХІДНЕ крило\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_031": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nRetake the city",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r\nОчистити місто"
+  },
+  "RoA_A01_M01_OBJE_032": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake West wing (Completed)|r\n - Retake East wing\n - All Heroes must survive\n",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nОчистити місто\n- |cff808080Очистіть ЗАХІДНЕ крило(Завершено)|r\n- Очистіть СХІДНЕ крило\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_033": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - Retake West wing \n - |cff808080Retake East wing (Completed)|r\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nОчистити місто\n- Очистіть ЗАХІДНЕ крило\n- |cff808080Очистіть СХІДНЕ крило(Завершено)|r\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_034": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nОчистити місто\n- |cff808080Очистіть ЗАХІДНЕ крило(Завершено)|r\n- |cff808080Очистіть СХІДНЕ крило(Завершено)|r\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_035": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake East wing (Completed)|r\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nОчистити місто\n- |cff808080Очистіть ЗАХІДНЕ крило (Завершено)|r\n- |cff808080Очистіть СХІДНЕ крило (Завершено)|r\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_036": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - Retake Palace district\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nОчистити місто\n- |cff808080Очистіть ЗАХІДНЕ крило (Завершено)|r\n- |cff808080Очистіть СХІДНЕ крило (Завершено)|r\n- Очистіть королівський квартал\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_037": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake Palace district (Completed)|r\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nОчистити місто\n- |cff808080Очистіть ЗАХІДНЕ крило(Завершено)|r\n- |cff808080Очистіть СХІДНЕ крило(Завершено)|r\n- |cff808080Очистіть королівський квартал (Завершено)|r\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_038": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake Palace district (Completed)|r\n - Retake Lower City\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nОчистити місто\n- |cff808080Очистіть ЗАХІДНЕ крило (Завершено)|r\n- |cff808080Очистіть СХІДНЕ крило (Завершено)|r\n- |cff808080Очистіть королівський квартал (Завершено)|r\n- Очистіть нижню частину міста\n- Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_039": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nRetake the city\n - |cffff0000All Heroes must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nОчистити місто\n- |cffff0000Всі герої мають вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_040": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Survivors",
+    "ukUA": "Вцілілі"
+  },
+  "RoA_A01_M01_OBJE_041": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Rescue civilians from the rubble piles",
+    "ukUA": "Врятуйте мирних жителів з-під завалів"
+  },
+  "RoA_A01_M01_OBJE_042": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Some civilians are buried under the rubble, help them to get out of their traps.",
+    "ukUA": "Деякі городяни опинилися під завалами, розчистіть їх аби врятувати цивільних."
+  },
+  "RoA_A01_M01_OBJE_043": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nSurvivors\n- Rescue civilians from the rubble piles (0 / 12 piles)",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nВцілілі\n- Розберіть завали (0 / 12 розібрано)"
+  },
+  "RoA_A01_M01_OBJE_044": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nSurvivors",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nВцілілі"
+  },
+  "RoA_A01_M01_OBJE_045": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST  FAILED|r\nSurvivors",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nВцілілі"
+  },
+  "RoA_A01_M01_OBJE_046": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dark Wings",
+    "ukUA": "Багряна загроза"
+  },
+  "RoA_A01_M01_OBJE_047": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dragons are attacking the palace! threatening its defenses. Recruit archers to bring them down, and support your troops with the healing power of your paladins.",
+    "ukUA": "Підконтрольні Орді багряні дракони атакують палац, ставлячи під загрозу всю оборону міста. Відбийте їх напад за допомогою лучників, відновлюйте їх здоров'я за допомогою сцілення паладинів."
+  },
+  "RoA_A01_M01_OBJE_048": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Don’t let the dragons destroy the palace",
+    "ukUA": "Не дайте драконам знищити палац"
+  },
+  "RoA_A01_M01_OBJE_049": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nDark Wings\n - Don’t let dragons destroy the palace",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r\nБагряна загроза\n - Не дайте драконам знищити палац"
+  },
+  "RoA_A01_M01_OBJE_050": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nDark Wings",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r\nБагряна загроза"
+  },
+  "RoA_A01_M01_OBJE_051": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nDark Wings\n - |cffff0000Don’t let dragons destroy the palace (failed)|r\n",
+    "ukUA": "|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nБагряна загроза\n - Не дайте драконам знищити палац (провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_052": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff0000Don’t let the dragons destroy the palace (Failed)|r",
+    "ukUA": "|cffff0000Не дайте драконам знищити палац (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_053": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Liberation of Fenris Isl",
+    "ukUA": "Звільнення острова Фенріс"
+  },
+  "RoA_A01_M01_OBJE_054": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fenris Isle is the last Horde stronghold on Lordamere Lake. Crush their forces there and lift the siege. Show no mercy and put them all to the sword!",
+    "ukUA": "Острів Фенріс — це остання твердиня Орди на озері Лордамер. Розбийте їхні сили на острові,звільніть острів та закінчіть облогу Лордерону. Не знайте жалю до них і нехай всі загарбники падуть від мечів та стріл Альянсу!"
+  },
+  "RoA_A01_M01_OBJE_055": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "All Heroes must survive",
+    "ukUA": "Всі герої мають вижити"
+  },
+  "RoA_A01_M01_OBJE_056": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Destroy Enemy Camp",
+    "ukUA": "Знищіть ворожий табір"
+  },
+  "RoA_A01_M01_OBJE_057": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nLiberation of Fenris Isle\n - Destroy Enemy Camp\n - All Heroes must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r\nЗвільнення острова Фенріс\n - Знищіть ворожий табір\n - Всі герої мусять вижити"
+  },
+  "RoA_A01_M01_OBJE_058": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nLiberation of Fenris Isle\n - |cffff0000All Heroes must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗвільнення острова Фенріс\n - |cffff0000Всі герої мусять вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_059": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nLiberation of Fenris Isle",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r\nЗвільнення острова Фенріс"
+  },
+  "RoA_A01_M01_OBJE_060": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nLiberation of Fenris Isle\n - |cffff0000At least onbe hero must survive (failed)|r",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r\nЗвільнення острова Фенріс\n - |cffff0000Як мінімум один герой мусить вижити (Провалено)|r"
+  },
+  "RoA_A01_M01_OBJE_061": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Defeat the Horde General",
+    "ukUA": "Здолайте Ординського генерала"
+  },
+  "RoA_A01_M01_OBJE_062": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nLiberation of Fenris Isle\n - |cff808080Destroy Enemy Camp (Completed)|r\n - Defeat the Horde General\n - At least one hero must survive",
+    "ukUA": "|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r\nЗвільнення острова Фенріс\n - |cff808080Знищіть ворожий табір (Виконано)|r\n - Здолайте Ординського генерала\n - Як мінімум один герой мусить вижити"
+  },
+  "RoA_A01_M01_OBJE_063": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "At least one Hero must survive",
+    "ukUA": "Як мінімум один герой має вижити"
+  },
+  "RoA_A01_M01_OBJE_064": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "ukUA": "|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r"
+  },
+  "RoA_A01_M01_SCRN_001": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Choose place of first strike.",
+    "ukUA": "Оберіть напрямок першої атаки."
+  },
+  "RoA_A01_M01_SCRN_002": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "West Wing (Uther)",
+    "ukUA": "ЗАХІДНЕ крило (Утер)"
+  },
+  "RoA_A01_M01_SCRN_003": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "East Wing (Turalyon)",
+    "ukUA": "СХІДНЕ крило (Тураліон)"
+  },
+  "RoA_A01_M01_SCRN_004": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "ukUA": "Лишилося ворогів:"
+  },
+  "RoA_A01_M01_SCRN_005": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "ukUA": "Лишилося ворогів:"
+  },
+  "RoA_A01_M01_SCRN_006": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "ukUA": "Лишилося ворогів:"
+  },
+  "RoA_A01_M01_SCRN_007": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "ukUA": "Лишилося ворогів:"
+  },
+  "RoA_A01_M01_SCRN_008": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Protect the Palace for:",
+    "ukUA": "Захищайте палац ще:"
+  },
+  "RoA_A01_M01_SCRN_009": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Quest objectives",
+    "ukUA": "Цілі завдання"
+  },
+  "RoA_A01_M01_SCRN_010": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Quest objectives",
+    "ukUA": "Цілі завдання"
+  },
+  "RoA_A01_M01_SCRN_011": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Palace Durability %",
+    "ukUA": "Цілісність палацу %"
+  },
+  "RoA_A01_M01_SCRN_013": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining Rubble Piles",
+    "ukUA": "Лишилося розібрати завалів"
+  },
+  "RoA_A01_M01_UNITS_001": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arthas",
+    "ukUA": "Артас"
+  },
+  "RoA_A01_M01_UNITS_002": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Prince",
+    "ukUA": "Принц"
+  },
+  "RoA_A01_M01_UNITS_003": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grumak Ironhide",
+    "ukUA": "Ґрумак Залізошкір"
+  },
+  "RoA_A01_M01_UNITS_004": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Korkron",
+    "ukUA": "Ґрумак Залізошкір"
+  },
+  "RoA_A01_M01_UNITS_006": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Nation of Lordaeron",
+    "ukUA": "Сили Лордерону"
+  },
+  "RoA_A01_M01_UNITS_007": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Orcish Horde",
+    "ukUA": "Сили Орди"
+  },
+  "RoA_A01_M01_UNITS_008": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ironforge Envoy",
+    "ukUA": "Посланець з Стальгорна"
+  },
+  "RoA_A01_M01_UNITS_009": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron Citizens",
+    "ukUA": "Городяни"
+  },
+  "RoA_A01_M01_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Guards, to me!….",
+    "ukUA": "Вартові, до мене!…"
+  },
+  "RoA_A01_M01_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Soldiers of Lordaeron, protect the king!",
+    "ukUA": "Воїни Лордерону, захищайте короля!"
+  },
+  "RoA_A01_M01_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Guards, I’m under attack!",
+    "ukUA": "Вартові, на мене напали!"
+  },
+  "RoA_A01_M01_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Men of Lordaeron, aid me!",
+    "ukUA": "Люди Лордерону, допоможіть мені!"
+  },
+  "RoA_A01_M01_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "A few moments later...",
+    "ukUA": "Декільки хвилин потому..."
+  },
+  "RoA_A01_M01_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Your Majesty, we must abandon the palace and retreat to the courtyard. There, we can make our final stand and fortify our defenses.",
+    "ukUA": "Ваша Величносте, ми маємо залишити палац і відступити у внутрішній двір. Там у нас більше шансів дати ворогу бій і зміцнити оборону."
+  },
+  "RoA_A01_M01_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Agreed. But first, we must get my son from his chambers!",
+    "ukUA": "Згоден. Але спершу ми маємо забрати мого сина з його покоїв!"
+  },
+  "RoA_A01_M01_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "The door is locked! We'll need to find a way to open it!",
+    "ukUA": "Двері зачинено! Треба знайти спосіб їх відкрити!"
+  },
+  "RoA_A01_M01_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "I cannot leave without my son...",
+    "ukUA": "Я не лишу палац без свого сина..."
+  },
+  "RoA_A01_M01_VO_S004_002": {
+    "type": "VO",
+    "unit_id": "ART",
+    "unit_name": "Arthas",
+    "enUS": "Father!",
+    "ukUA": "Батьку!"
+  },
+  "RoA_A01_M01_VO_S004_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Arthas, my son, thank the Light you are safe. We're leaving the palace.",
+    "ukUA": "Артасе, сину мій, дякувати світлу, ти в безпеці. Ми залишаємо палац."
+  },
+  "RoA_A01_M01_VO_S004_004": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Ah, my treasury. It used to be full of gold…",
+    "ukUA": "Ах, моя скарбниця. Колись вона була повна золота…"
+  },
+  "RoA_A01_M01_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "The might of the mountains shall destroy ye! ",
+    "ukUA": "Могутність гір то знищить вас!"
+  },
+  "RoA_A01_M01_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "I’ll crack yer skulls! Savage beasts!",
+    "ukUA": "Я розколю ваші черепи! Дикі тварі, гет!"
+  },
+  "RoA_A01_M01_VO_S005_003": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Lads! Do not let them advance further!",
+    "ukUA": "Хлопаки! Не давайте їм пройти далі, стійте стіною!"
+  },
+  "RoA_A01_M01_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "My King, you'll be safe here. I'll reinforce the city's defenses.",
+    "ukUA": "Мій королю, тут ви будете в безпеці. Я посилю оборону міста."
+  },
+  "RoA_A01_M01_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "ART",
+    "unit_name": "Arthas",
+    "enUS": "Father, are those creatures going to kill us?",
+    "ukUA": "Батьку, ці істоти нас уб'ють?"
+  },
+  "RoA_A01_M01_VO_S006_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Fear not, Arthas. We are safe, for now. But if we are overrun, seek out the catacombs and join Prince Varian in the hideout.",
+    "ukUA": "Не бійся, Артасе. Наразі ми в безпеці. Але якщо оборона паде , ти маєш піти до катакомб і знайти принца Варіана в укритті."
+  },
+  "RoA_A01_M01_VO_S006_004": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "I'll take care of them, lad. You do your duty.",
+    "ukUA": "Я то розберу си з ними, хлопче. Виконуй свій обов'їзок."
+  },
+  "RoA_A01_M01_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Your Majesty, Lord Lothar dispatched us the moment we heard the city had been besieged, Thank the Light you and your family are safe.",
+    "ukUA": "Ваша Величносте, лорд Лотар відправив нас тієї ж миті, як ми дізналися про облогу міста. Слава Світлу, ви і ваша родина в безпеці."
+  },
+  "RoA_A01_M01_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "If you hadn’t reached us in time, I’m afraid all would’ve been lost, young Paladin. Your aid is sorely needed.",
+    "ukUA": "Якби ви не встигли вчасно, боюся, все було б утрачено, молодий паладине. Ваша допомога нам вкрай необхідна."
+  },
+  "RoA_A01_M01_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Just in time, brother. We have much to do.",
+    "ukUA": "Ти дуже вчасно, брате. У нас повно роботи."
+  },
+  "RoA_A01_M01_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Tell us what to do, Lord Uther.",
+    "ukUA": "Наказуйте, що робити, лорде Утере."
+  },
+  "RoA_A01_M01_VO_S007_005": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "We must reclaim the city's districts and drive out the orcs. I'll handle the western district, and you handle the eastern one.",
+    "ukUA": "Ми маємо повернути всі квартали міста і вибити орків. Я займуся західним крилом, а ти — східним."
+  },
+  "RoA_A01_M01_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Use barracks to replenish your troops!",
+    "ukUA": "Скористайтеся казармами, щоб поновити своє військо!"
+  },
+  "RoA_A01_M01_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "We must dig out the rubble of the residential buildings, some citizens could have survived.",
+    "ukUA": "Ми маємо розібрати завали житлових будинків, хтось із городян міг вижити."
+  },
+  "RoA_A01_M01_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "We've done it! The orcs are falling back!",
+    "ukUA": "У нас вийшло! Орки відступають!"
+  },
+  "RoA_A01_M01_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Don't celebrate just yet... Look, the dragons are attacking the palace!",
+    "ukUA": "Не святкуй завчасно... Поглянь, дракони атакують палац!"
+  },
+  "RoA_A01_M01_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Archers! Ready your bows!",
+    "ukUA": "Лучники! Луки до бою!"
+  },
+  "RoA_A01_M01_VO_S010_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "We must support our archers and bring down those dragons!",
+    "ukUA": "Ми маємо допогти лучникам збивати цих драконів!"
+  },
+  "RoA_A01_M01_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Those winged beasts are too formidable... we can't vanquish them all...",
+    "ukUA": "Ці крилаті тварюки занадто люті... нам їх усіх не здолати..."
+  },
+  "RoA_A01_M01_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Maybe if those blasted Wildhammers were here to get off their asses!",
+    "ukUA": "От якби цей клятий Дикиймот підтягнув си дупов і завчасно!"
+  },
+  "RoA_A01_M01_VO_S011_003": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Huh?",
+    "ukUA": "Га?"
+  },
+  "RoA_A01_M01_VO_S011_004": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Hah, what was that Bronzebeard? Hear that lads, let's hunt us some flying lizards, shall we?! Ha-ha-ha-ha-ha!",
+    "ukUA": "Хах, що ти там нарікаш, Бронзобороде? Чули, хлопці? Нумо вполюємо цих летючих їщірок, га?! Ха-ха-ха-ха-ха!"
+  },
+  "RoA_A01_M01_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "You arrived just in time, my dwarven friend. The city would have been reduced to ashes if not for your aid.",
+    "ukUA": "Ви прибули якраз вчасно, мій дворфійський друже. Якби не ваша допомога, від міста залишився б лише попіл."
+  },
+  "RoA_A01_M01_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Anduin Lothar helped us defend our homeland against the orcish scum. Now we’ll return the favor by ridding the city of greenskin mongrels.",
+    "ukUA": "Андуїн Лотар свого часу помічов си нам з захистом нашого краю від орчец.Тож їкраз тепер ми повернет борг і очистим місто від зеленошкірих виродків, гет!"
+  },
+  "RoA_A01_M01_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "How far is Lord Lothar from the city?",
+    "ukUA": "Як далеко лорд Лотар від міста?"
+  },
+  "RoA_A01_M01_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "He's not heading here. His army is marching through Hillsbrad to relieve Dalaran and attack the orcs from the rear. If all goes as planned, the Horde will be caught between our forces here and his forces down south.",
+    "ukUA": "Він то прямує не сюди. Його армія йде через Гіллзбрад, щоб визволит Даларан і вдарит по орках з тилу. Як усе піде за планом, Орда опинит си в пастці їкраз між нашими військами тут і його силами на півдні."
+  },
+  "RoA_A01_M01_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "A solid plan. Now we must ensure we hold our defense here.",
+    "ukUA": "Гарний план. Тепер ми маємо бути певними, що втримаємо оборону тут."
+  },
+  "RoA_A01_M01_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "First, we need to cleanse the last two city districts of those unholy creatures. March on!",
+    "ukUA": "Спершу нам треба очистити останні два квартали міста від цих нечестивих тварин. До бою!"
+  },
+  "RoA_A01_M01_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "OPI",
+    "unit_name": "Orc Pirate",
+    "enUS": "Chicken soup is back on the menu, boys!",
+    "ukUA": "Курячий суп знову в меню, хлопці!"
+  },
+  "RoA_A01_M01_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Blast it, their armada is too formidable for my gryphon pack. I can't take them all head on; there are too many ships!",
+    "ukUA": "Проклятє, їхня морська армада то запотужнет для моїх грифонів. Я не можу бити си з ними в лоб кораблів гет забагато!"
+  },
+  "RoA_A01_M01_VO_S013_003": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "In that case, we should concentrate our efforts on the lower city.",
+    "ukUA": "Тоді нам варто зосередити зусилля у нижній частнині міста."
+  },
+  "RoA_A01_M01_VO_S013_004": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "I've had enough rest. It's time to crush some orcish skulls.",
+    "ukUA": "Я вже файно відновив си. Час розтрощити кілька орчих черепів."
+  },
+  "RoA_A01_M01_VO_S013_005": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "You can follow if you can keep up.",
+    "ukUA": "Можеш іти за мнов, як наздоженеш."
+  },
+  "RoA_A01_M01_VO_S013_006": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Ha-ha, that can be done!",
+    "ukUA": "Ха-ха, то просто!"
+  },
+  "RoA_A01_M01_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "We're in luck boys, the fog concealed our presence, lets break this armada.",
+    "ukUA": "Нам щастить  хлопці, туман приховав нас. Рознесемо вщент орочу армаду!"
+  },
+  "RoA_A01_M01_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "C'mon sailors, our allies in the city need help, dealing with those orcish ships was easy task, but now we need to work with some sweat and blood.",
+    "ukUA": "Нумо, моряки, наші союзники в місті потребують допомоги! Розібратися з тими орчими кораблями було легкою справою, але тепер доведеться добряче попотіти."
+  },
+  "RoA_A01_M01_VO_S015_001": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "The Lord Admiral sent me with the northern armada as soon as he received reports of the siege. Blessed be the sea; we have arrived in time.",
+    "ukUA": "Лорд-адмірал відправив мене з північною морською армадою, щойно він отримав донесення про облогу. Хвала морюморе, ми встигли вчасно."
+  },
+  "RoA_A01_M01_VO_S015_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Your help is much appreciated. Without the might of Kul Tiras, this naval blockade could have held on for who knows how long.",
+    "ukUA": "Ми надзвичайно вдячні за допомогу. Без сил Кул-Тіраса ця морська блокада могла б тривати казна-скільки."
+  },
+  "RoA_A01_M01_VO_S015_003": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "To achieve final victory over their remaining forces, we must cross the lake, assault Fenris Isle, and capture their generals.",
+    "ukUA": "Аби остаточно розбити їхнізалшики, ми маємо перетнути озеро, взяти штурмом острів Фенріс і схопити їхніх генералів."
+  },
+  "RoA_A01_M01_VO_S015_004": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Ah, with all due respect to Master Proudmoore and his sea warriors, dwarves can never feel comfortable on any kind of boat. But then again, it's better than to ride a gryphon.",
+    "ukUA": "Ох, за всієв повагов до майстра Праудмура та його морських воїнів, дворфи ніколи не почуватимуть си затишно на будь-якому човні. Хоча, з іншого боку, то все ж май краще, ніж летіти на грифоні."
+  },
+  "RoA_A01_M01_VO_S015_005": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Your wounds need more time to heal, my friend. You've already done a lot to ensure our victory here.",
+    "ukUA": "Твоїм ранам треба більше часу, аби затягнутись, мій друже. Ти й так зробив чимало, задля нашої перемоги тут."
+  },
+  "RoA_A01_M01_VO_S015_006": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "But… ah, I'll miss all the fun…",
+    "ukUA": "Але ж... я то пропущу все май веселіше..."
+  },
+  "RoA_A01_M01_VO_S015_007": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "The lad's right, Master Bronzebeard. You already put up good fight, I have to admit. But now, ya need to rest.",
+    "ukUA": "Хлопак то правий, майстре Бронзобороде. Маю визнац, ти то вже добряц повоював си. Але зараз тобі треба відпочити"
+  },
+  "RoA_A01_M01_VO_S015_008": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "My ships are at your disposal...",
+    "ukUA": "Мої кораблі до ващих послуг..."
+  },
+  "RoA_A01_M01_VO_S016_001": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Warchief, the humans have retaken the city! What do we do?",
+    "ukUA": "Вождю, люди повернули місто! Що нам робити?"
+  },
+  "RoA_A01_M01_VO_S016_002": {
+    "type": "VO",
+    "unit_id": "THA",
+    "unit_name": "Tharbek",
+    "enUS": "We must press the attack! Those dogs deserve no reprieve!",
+    "ukUA": "Ми маємо продовжувати наступ! Ці собаки не заслуговують на передишку!"
+  },
+  "RoA_A01_M01_VO_S016_003": {
+    "type": "VO",
+    "unit_id": "ODO",
+    "unit_name": "Orgrim Doomhammer",
+    "enUS": "No. Between Dalaran and Alterac, our forces are stretched too thin. And the Alliance has further reinforcements on the way. We need to sound a tactical retreat, fall back, and regroup.",
+    "ukUA": "Ні. Наші сили занадто розпорошені між Далараном та Альтераком. До того ж до Альянсу підтягується підкріплення. Нам потрібно оголосити тактичний відступ, відійти та перегрупуватися."
+  },
+  "RoA_A01_M01_VO_S016_004": {
+    "type": "VO",
+    "unit_id": "THA",
+    "unit_name": "Tharbek",
+    "enUS": "But Warchief…",
+    "ukUA": "Але, Вождю…"
+  },
+  "RoA_A01_M01_VO_S016_005": {
+    "type": "VO",
+    "unit_id": "ODO",
+    "unit_name": "Orgrim Doomhammer",
+    "enUS": "Enough! That’s a command! Tharbek, you will oversee that our retreat is orderly. Utok, you will travel to our base at Zul’Dare and make sure our western supply lines remain intact. Is that clear?",
+    "ukUA": "Досить! Це наказ! Тарбеку, ти простежиш, щоб наш відступ був організованим. Утоку, ти вирушиш до нашого табору в Зул'Дарі та переконаєшся, що наші західні шляхи постачання в безпеці. Зрозуміло?"
+  },
+  "RoA_A01_M01_VO_S016_006": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Yes, Warchief.",
+    "ukUA": "Так, Вождю."
+  },
+  "RoA_A01_M01_VO_S016_007": {
+    "type": "VO",
+    "unit_id": "THA",
+    "unit_name": "Tharbek",
+    "enUS": "Yes, Warchief. But what of our base here?",
+    "ukUA": "Так, Вождю. Але що робити з нашим табором тут?"
+  },
+  "RoA_A01_M01_VO_S016_008": {
+    "type": "VO",
+    "unit_id": "ODO",
+    "unit_name": "Orgrim Doomhammer",
+    "enUS": "We can’t hope to hold it. Not without committing troops we can’t spare right now. But we can leave the humans a surprise…",
+    "ukUA": "Нам його не втримати, без залучення додаткових військ, які ми просто не маємо права втрачати. Проте ми можемо залишити людям сюрприз…"
+  },
+  "RoA_A01_M01_VO_S017_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "It’s an ambush, take cover!",
+    "ukUA": "Це засідка, в укриття!"
+  },
+  "RoA_A01_M01_VO_S017_002": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "Puny humans, too stupid. Warchief said you die, so you die.",
+    "ukUA": "Жалюгідні людські істоти, ви надто дурні. Вождь сказав ви помрете — тож помріть."
+  },
+  "RoA_A01_M01_VO_S018_001": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "You run now? Not with no feet!",
+    "ukUA": "Вже тікаєш? Без ніг далеко не втечеш!"
+  },
+  "RoA_A01_M01_VO_S018_002": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "Hard to breathe, eh? Soon you will stop breathing!",
+    "ukUA": "Важко дихати, га? Скоро взагалі перестанете!"
+  },
+  "RoA_A01_M01_VO_S018_003": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "Ha-ha! Today I ate a gnome for a breakfast.",
+    "ukUA": "Ха-ха! Я сьогодні гнома на сніданок з'їв."
+  },
+  "RoA_A01_M01_VO_S018_004": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "The island is ours once again.",
+    "ukUA": "Острів знову наш."
+  },
+  "RoA_A01_M01_VO_S019_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Today's victory came at a heavy price… Many brave souls have died so that we might live. We should take care of their bodies and their families… Yet Doomhammer has escaped, so we can't delay.",
+    "ukUA": "Сьогоднішня перемога далася нам дорогою ціною… Багато відважних воїнів віддало свої життя, щоб ми могли жити. Ми маємо подбати про їхні тіла та їхні родини… Проте Молотзгуби втік, тож ми не можемо зволікати."
+  },
+  "RoA_A01_M01_VO_S019_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Yes, my liege. Grief fills my heart as well, but we must act and follow him south immediately.",
+    "ukUA": "Так, мій воладарю. Моє серце теж сповнено смутку, але ми повинні діяти і негайно рушати за ним на південь."
+  },
+  "RoA_A01_M01_VO_S019_003": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "My remaining ships are at your disposal, Your Majesty.",
+    "ukUA": "Мої кораблі, що вціліли, у вашому розпорядженні, Ваша Величносте."
+  },
+  "RoA_A01_M01_VO_S019_004": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "My gryphons need a few hours to rest, but afterward, we can support your offensive from the sky.",
+    "ukUA": "Моїм грифонам то потрібно си кілька годин на одпочинок, а після того ми файно підтримаємо ваш похід із неба, гет!"
+  },
+  "RoA_A01_M01_VO_S019_005": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Turalyon, gather all Knights of the Silver Hand and all soldiers able to fight. They will have time to rest on the ships while crossing the lake.",
+    "ukUA": "Тураліоне, збирай усіх лицарів Срібної Длані та всіх солдатів, здатних тримати зброю. Вони зможуть відпочити на кораблях, поки ми перетинатимемо озеро."
+  },
+  "RoA_A01_M01_VO_S019_006": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "As you command, Your Majesty.",
+    "ukUA": "Як накажете, Ваша Величносте."
+  },
+  "RoA_A01_M01_VO_S019_007": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Uther, I want you to stay here and take care of the wounded. Your skills and compassion can save more lives here than on the front line.",
+    "ukUA": "Утере, я хочу, щоб ти залишився тут і подбав про поранених. Твої вміння та милосердя зможуть урятувати більше життів тут, ніж на передовій."
+  },
+  "RoA_A01_M01_VO_S019_008": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "There is wisdom in your words… I will obey, my king.",
+    "ukUA": "У ваших словах є мудрість… Як накажете, мій королю."
+  },
+  "RoA_A01_M01_VO_S019_009": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Muradin, I want you to stay with me. You've shed enough blood for Lordaeron already, and I don't want to face the wrath of your brother-king if something were to happen to you.",
+    "ukUA": "Мурадіне, я хочу, аби ти теж залишився зі мною. Ти вже пролив достатньо крові за Лордерон, і я не хочу накликати на себе гнів твого брата-короля, якщо з тобою щось станеться."
+  },
+  "RoA_A01_M01_VO_S019_010": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Your words warm my heart, King Terenas.",
+    "ukUA": "Ваше словов то гет розчулит моє серце, королю Теренасе."
+  }
+}
